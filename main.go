@@ -574,9 +574,9 @@ func messageCreate(session *discordgo.Session, message *discordgo.MessageCreate)
 	if contains {
 		startChatLog := fmt.Sprintf(`The following is a conversation with an AI assistant named Shem-Ha. Shem-Ha acts like an arrogant goddess.
 		%v: Hello. My name is %v.
-		Shem-Ha: I am Shem-Ha. What do you want human?
+		AI: I am Shem-Ha. What do you want human?
 		%v: %v
-		Shem-Ha: `,
+		AI:`,
 			message.Author.Username, message.Author.Username, message.Author.Username, message_content)
 
 		// Craeting and seeding the random number generator.
