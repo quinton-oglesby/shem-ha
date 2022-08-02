@@ -588,16 +588,6 @@ func messageCreate(session *discordgo.Session, message *discordgo.MessageCreate)
 		// Logging the chance to repond to the message.
 		log.Println("CHANCE: ", chance*100.0)
 		if chance*100 < parameters.Chance*1.0 {
-			// Build an embed to act as a reply to the message since I can't find an obvious way to turn off mentions.
-			embedAuthor := discordgo.MessageEmbedAuthor{}
-			embedAuthor.Name = fmt.Sprintf("%s#%s", message.Author.Username, message.Author.Discriminator)
-			embedAuthor.IconURL = message.Author.AvatarURL("128")
-
-			embed := discordgo.MessageEmbed{}
-			embed.Color = message.Author.AccentColor
-			embed.Description = message.Content
-			embed.Author = &embedAuthor
-
 			// Creating the GPT3 client.
 			client := gogpt3.NewClient(tokens.GPT3Token)
 			ctx := context.Background()
@@ -622,13 +612,14 @@ func messageCreate(session *discordgo.Session, message *discordgo.MessageCreate)
 			}
 			res := response.Choices[0].Text
 
-			// msg := discordgo.MessageSend{}
-			msg := discordgo.MessageSend{}
-			msg.Content = res + " ⤵️ "
-			msg.Embeds = append(msg.Embeds, &embed)
-
 			// https://pkg.go.dev/github.com/bwmarrin/discordgo#Session.ChannelMessageSendComplex
-			_, err = session.ChannelMessageSendComplex(message.ChannelID, &msg)
+			_, err = session.ChannelMessageSendComplex(message.ChannelID, &discordgo.MessageSend{
+				Content:   res,
+				Reference: message.Reference(),
+				AllowedMentions: &discordgo.MessageAllowedMentions{
+					Parse: nil,
+				},
+			})
 			if err != nil {
 				log.Printf("COULD NOT REPLY TO %v: %v", message, err)
 			}
