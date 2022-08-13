@@ -92,18 +92,18 @@ func main() {
 		log.Fatal("ERROR OPENING WEBSOCKET:", err)
 	}
 
-	// // Making a map of registered commands.
-	// registeredCommands := make([]*discordgo.ApplicationCommand, len(commands))
+	// Making a map of registered commands.
+	registeredCommands := make([]*discordgo.ApplicationCommand, len(commands))
 
-	// // Looping through the commands array and registering them.
-	// // https://pkg.go.dev/github.com/bwmarrin/discordgo#Session.ApplicationCommandCreate
-	// for i, command := range commands {
-	// 	registered_command, err := session.ApplicationCommandCreate(session.State.User.ID, "336297387863703552", command)
-	// 	if err != nil {
-	// 		log.Printf("CANNOT CREATE '%v' COMMAND: %v", command.Name, err)
-	// 	}
-	// 	registeredCommands[i] = registered_command
-	// }
+	// Looping through the commands array and registering them.
+	// https://pkg.go.dev/github.com/bwmarrin/discordgo#Session.ApplicationCommandCreate
+	for i, command := range commands {
+		registered_command, err := session.ApplicationCommandCreate(session.State.User.ID, "336297387863703552", command)
+		if err != nil {
+			log.Printf("CANNOT CREATE '%v' COMMAND: %v", command.Name, err)
+		}
+		registeredCommands[i] = registered_command
+	}
 
 	// Looping through the array of interaction handlers and adding them to the session.
 	session.AddHandler(func(session *discordgo.Session, interaction *discordgo.InteractionCreate) {
@@ -121,13 +121,13 @@ func main() {
 	signal.Notify(sc, syscall.SIGINT, syscall.SIGTERM, os.Interrupt)
 	<-sc
 
-	// // Lopping through the registeredCommands array and deleting all the commands.
-	// for _, v := range registeredCommands {
-	// 	err := session.ApplicationCommandDelete(session.State.User.ID, "1001077854936760352", v.ID)
-	// 	if err != nil {
-	// 		log.Printf("CANNOT DELETE '%v' COMMAND: %v", v.Name, err)
-	// 	}
-	// }
+	// Lopping through the registeredCommands array and deleting all the commands.
+	for _, v := range registeredCommands {
+		err := session.ApplicationCommandDelete(session.State.User.ID, "1001077854936760352", v.ID)
+		if err != nil {
+			log.Printf("CANNOT DELETE '%v' COMMAND: %v", v.Name, err)
+		}
+	}
 
 	// Cleanly close down the Discord session.
 	session.Close()
@@ -275,6 +275,16 @@ var commandHandlers = map[string]func(session *discordgo.Session, interaction *d
 		msg, err := session.ChannelMessageSend(channel.ID, content)
 		if err != nil {
 			log.Printf("COULD NOT SEND MESSAGE '%v': %v", msg, err)
+
+			//https://pkg.go.dev/github.com/bwmarrin/discordgo#Session.InteractionRespond
+			session.InteractionRespond(interaction.Interaction, &discordgo.InteractionResponse{
+				Type: discordgo.InteractionResponseChannelMessageWithSource,
+				Data: &discordgo.InteractionResponseData{
+					Content: fmt.Sprintf("COULD NOT SEND MESSAGE '%v': %v", msg, err),
+				},
+			})
+			return
+
 		}
 
 		// Responding to the interaction.
@@ -595,22 +605,37 @@ func messageCreate(session *discordgo.Session, message *discordgo.MessageCreate)
 			// Building a completion request from GPT3.
 			stops := []string{"\n", message.Author.Username}
 			req := gogpt3.CompletionRequest{
+				Model:            "davinci",
 				MaxTokens:        int(parameters.Length),
 				Prompt:           startChatLog,
 				Stop:             stops,
 				Temperature:      1.0,
 				TopP:             1.0,
-				FrequencyPenalty: 1,
-				PresencePenalty:  1,
+				FrequencyPenalty: 1.0,
+				PresencePenalty:  1.0,
 				BestOf:           1,
 			}
 
-			response, err := client.CreateCompletion(ctx, "davinci", req)
+			response, err := client.CreateCompletion(ctx, req)
 			if err != nil {
 				log.Println("COULD NOT COMPLETE A GPT3 COMPLETION: ", err)
 				return
 			}
 			res := response.Choices[0].Text
+
+			mod := gogpt3.ModerationRequest{
+				Input: res,
+			}
+
+			moderation, err := client.Moderations(ctx, mod)
+			if err != nil {
+				log.Println("COULD NOT COMPLETE A GPT3 MODERATION COMPLETION: ", err)
+				return
+			}
+
+			if moderation.Results[0].Flagged {
+				return
+			}
 
 			// https://pkg.go.dev/github.com/bwmarrin/discordgo#Session.ChannelMessageSendComplex
 			_, err = session.ChannelMessageSendComplex(message.ChannelID, &discordgo.MessageSend{
