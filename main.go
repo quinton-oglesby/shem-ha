@@ -9,6 +9,7 @@ import (
 	"os"
 	"os/signal"
 	"regexp"
+	"strconv"
 	"syscall"
 	"time"
 
@@ -121,13 +122,13 @@ func main() {
 	signal.Notify(sc, syscall.SIGINT, syscall.SIGTERM, os.Interrupt)
 	<-sc
 
-	// Lopping through the registeredCommands array and deleting all the commands.
-	for _, v := range registeredCommands {
-		err := session.ApplicationCommandDelete(session.State.User.ID, "1001077854936760352", v.ID)
-		if err != nil {
-			log.Printf("CANNOT DELETE '%v' COMMAND: %v", v.Name, err)
-		}
-	}
+	// // Lopping through the registeredCommands array and deleting all the commands.
+	// for _, v := range registeredCommands {
+	// 	err := session.ApplicationCommandDelete(session.State.User.ID, "1001077854936760352", v.ID)
+	// 	if err != nil {
+	// 		log.Printf("CANNOT DELETE '%v' COMMAND: %v", v.Name, err)
+	// 	}
+	// }
 
 	// Cleanly close down the Discord session.
 	session.Close()
@@ -611,8 +612,8 @@ func messageCreate(session *discordgo.Session, message *discordgo.MessageCreate)
 				Stop:             stops,
 				Temperature:      1.0,
 				TopP:             1.0,
-				FrequencyPenalty: 1.0,
-				PresencePenalty:  1.0,
+				FrequencyPenalty: 0.25,
+				PresencePenalty:  0.25,
 				BestOf:           1,
 			}
 
@@ -623,17 +624,26 @@ func messageCreate(session *discordgo.Session, message *discordgo.MessageCreate)
 			}
 			res := response.Choices[0].Text
 
-			mod := gogpt3.ModerationRequest{
-				Input: res,
+			mod := gogpt3.CompletionRequest{
+				Model:       "content-filter-alpha",
+				MaxTokens:   1,
+				Temperature: 0.0,
+				TopP:        0,
+				LogProbs:    10,
+				Prompt:      fmt.Sprintf("<|endoftext|>%v\n--\nLabel:", res),
 			}
 
-			moderation, err := client.Moderations(ctx, mod)
+			moderation, err := client.CreateCompletion(ctx, mod)
 			if err != nil {
-				log.Println("COULD NOT COMPLETE A GPT3 MODERATION COMPLETION: ", err)
+				log.Println("COULD NOT COMPLETE A GPT3 COMPLETION: ", err)
 				return
 			}
 
-			if moderation.Results[0].Flagged {
+			label := moderation.Choices[0].Text
+
+			labelInt, _ := strconv.ParseInt(label, 0, 64)
+
+			if labelInt == 2 {
 				return
 			}
 
