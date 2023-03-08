@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"database/sql"
 	"encoding/json"
 	"fmt"
 	"log"
@@ -9,12 +10,13 @@ import (
 	"os"
 	"os/signal"
 	"regexp"
-	"strconv"
 	"syscall"
 	"time"
 
 	"github.com/bwmarrin/discordgo"
-	gogpt3 "github.com/sashabaranov/go-gpt3"
+	"github.com/go-sql-driver/mysql"
+	"github.com/sashabaranov/go-openai"
+	// indirect
 )
 
 // Creating a struct to hold the two tokens.
@@ -24,9 +26,16 @@ type Tokens struct {
 }
 
 // Creating a struct that will hold all the GPT3 parameters.
-type Parameters struct {
+type GPT3Parameters struct {
 	Chance float64
 	Length int64
+}
+
+// Making a struct to hold the MySQL server logon parameters.
+type MySQLParameters struct {
+	Username string
+	Password string
+	Database string
 }
 
 // Creating a struct that will hold the channel array of allowed channels.
@@ -36,14 +45,25 @@ type Channels struct {
 
 // Globalizing the structs that hold this important data.
 var tokens Tokens
-var parameters Parameters
+var gpt3Parameters GPT3Parameters
+var mySQLParameters MySQLParameters
 var channels Channels
+
+// Global variable to hold database connection, because why not?
+var db *sql.DB
 
 // Global variable to hold the regex string, because why not?
 var re *regexp.Regexp
 
 // Main functions.
 func main() {
+
+	// Retrieve the parameters from sql_data.json file.
+	sql_parameters, err := os.ReadFile("sql_data.json")
+	if err != nil {
+		log.Println("Could not open sql_data file.")
+		log.Fatal(err)
+	}
 
 	// Retrieve the tokens from the tokens.json file.
 	tokensFile, err := os.ReadFile("tokens.json")
@@ -61,7 +81,7 @@ func main() {
 	}
 
 	// Unmarshal the tokens from the gp3ParametersFile.
-	json.Unmarshal(parametersFile, &parameters)
+	json.Unmarshal(parametersFile, &gpt3Parameters)
 
 	// Retrieve the channels from the channels.json file.
 	channelsFile, err := os.ReadFile("channels.json")
@@ -78,6 +98,24 @@ func main() {
 		log.Fatal("COULD NOT COMPILE REGEX: ", err)
 	}
 
+	// Unmarshal the parameters from the file contnet to grab the logon information.
+	json.Unmarshal(sql_parameters, &mySQLParameters)
+
+	// Set up the parameters for the database connection.
+	configuration := mysql.Config{
+		User:   mySQLParameters.Username,
+		Passwd: mySQLParameters.Password,
+		Net:    "tcp",
+		Addr:   "127.0.0.1:3306",
+		DBName: mySQLParameters.Database,
+	}
+
+	// Open a connection to the discord_messages database.
+	db, err = sql.Open("mysql", configuration.FormatDSN())
+	if err != nil {
+		log.Println(err)
+	}
+
 	// Create a new Discord session using the provided bot token.
 	session, err := discordgo.New("Bot " + tokens.DiscordToken)
 	if err != nil {
@@ -86,6 +124,10 @@ func main() {
 
 	// Identify that we want all intents.
 	session.Identify.Intents = discordgo.IntentsAll
+	session.StateEnabled = true
+	session.State.TrackChannels = true
+	session.State.TrackThreads = true
+	session.State.TrackMembers = true
 
 	// Now we open a websocket connection to Discord and begin listening.
 	err = session.Open()
@@ -93,18 +135,18 @@ func main() {
 		log.Fatal("ERROR OPENING WEBSOCKET:", err)
 	}
 
-	// Making a map of registered commands.
-	registeredCommands := make([]*discordgo.ApplicationCommand, len(commands))
+	// // Making a map of registered commands.
+	// registeredCommands := make([]*discordgo.ApplicationCommand, len(commands))
 
-	// Looping through the commands array and registering them.
-	// https://pkg.go.dev/github.com/bwmarrin/discordgo#Session.ApplicationCommandCreate
-	for i, command := range commands {
-		registered_command, err := session.ApplicationCommandCreate(session.State.User.ID, "336297387863703552", command)
-		if err != nil {
-			log.Printf("CANNOT CREATE '%v' COMMAND: %v", command.Name, err)
-		}
-		registeredCommands[i] = registered_command
-	}
+	// // Looping through the commands array and registering them.
+	// // https://pkg.go.dev/github.com/bwmarrin/discordgo#Session.ApplicationCommandCreate
+	// for i, command := range commands {
+	// 	registered_command, err := session.ApplicationCommandCreate(session.State.User.ID, "336297387863703552", command)
+	// 	if err != nil {
+	// 		log.Printf("CANNOT CREATE '%v' COMMAND: %v", command.Name, err)
+	// 	}
+	// 	registeredCommands[i] = registered_command
+	// }
 
 	// Looping through the array of interaction handlers and adding them to the session.
 	session.AddHandler(func(session *discordgo.Session, interaction *discordgo.InteractionCreate) {
@@ -303,7 +345,7 @@ var commandHandlers = map[string]func(session *discordgo.Session, interaction *d
 		session.InteractionRespond(interaction.Interaction, &discordgo.InteractionResponse{
 			Type: discordgo.InteractionResponseChannelMessageWithSource,
 			Data: &discordgo.InteractionResponseData{
-				Content: fmt.Sprintf("The current response chance is %v percent.", parameters.Chance),
+				Content: fmt.Sprintf("The current response chance is %v percent.", gpt3Parameters.Chance),
 			},
 		})
 	},
@@ -313,15 +355,15 @@ var commandHandlers = map[string]func(session *discordgo.Session, interaction *d
 		session.InteractionRespond(interaction.Interaction, &discordgo.InteractionResponse{
 			Type: discordgo.InteractionResponseChannelMessageWithSource,
 			Data: &discordgo.InteractionResponseData{
-				Content: fmt.Sprintf("The current response length is %v tokens.", parameters.Length),
+				Content: fmt.Sprintf("The current response length is %v tokens.", gpt3Parameters.Length),
 			},
 		})
 	},
 	"set_chance": func(session *discordgo.Session, interaction *discordgo.InteractionCreate) {
-		parameters.Chance = interaction.ApplicationCommandData().Options[0].FloatValue()
+		gpt3Parameters.Chance = interaction.ApplicationCommandData().Options[0].FloatValue()
 
 		// Marshall the new parameters to save.
-		jsonBytes, err := json.Marshal(parameters)
+		jsonBytes, err := json.Marshal(gpt3Parameters)
 		if err != nil {
 			log.Println("ERROR MARSHALING JSON: ", err)
 
@@ -355,15 +397,15 @@ var commandHandlers = map[string]func(session *discordgo.Session, interaction *d
 		session.InteractionRespond(interaction.Interaction, &discordgo.InteractionResponse{
 			Type: discordgo.InteractionResponseChannelMessageWithSource,
 			Data: &discordgo.InteractionResponseData{
-				Content: fmt.Sprintf("Successfully updated the response chance. The reponse chance is now %v percent.", parameters.Chance),
+				Content: fmt.Sprintf("Successfully updated the response chance. The reponse chance is now %v percent.", gpt3Parameters.Chance),
 			},
 		})
 	},
 	"set_length": func(session *discordgo.Session, interaction *discordgo.InteractionCreate) {
-		parameters.Length = interaction.ApplicationCommandData().Options[0].IntValue()
+		gpt3Parameters.Length = interaction.ApplicationCommandData().Options[0].IntValue()
 
 		// Marshall the new parameters to save.
-		jsonBytes, err := json.Marshal(parameters)
+		jsonBytes, err := json.Marshal(gpt3Parameters)
 		if err != nil {
 			log.Println("ERROR MARSHALING JSON: ", err)
 
@@ -397,7 +439,7 @@ var commandHandlers = map[string]func(session *discordgo.Session, interaction *d
 		session.InteractionRespond(interaction.Interaction, &discordgo.InteractionResponse{
 			Type: discordgo.InteractionResponseChannelMessageWithSource,
 			Data: &discordgo.InteractionResponseData{
-				Content: fmt.Sprintf("Successfully updated the response length. The reponse length is now %v tokens.", parameters.Length),
+				Content: fmt.Sprintf("Successfully updated the response length. The reponse length is now %v tokens.", gpt3Parameters.Length),
 			},
 		})
 	},
@@ -562,6 +604,10 @@ var commandHandlers = map[string]func(session *discordgo.Session, interaction *d
 }
 
 func messageCreate(session *discordgo.Session, message *discordgo.MessageCreate) {
+	channel, _ := session.Channel(message.ChannelID)
+	session.State.ChannelAdd(channel)
+	session.State.MessageAdd(message.Message)
+
 	// Ignore all messages that were created by the bot itself.
 	if message.Author.ID == session.State.User.ID {
 		return
@@ -580,15 +626,43 @@ func messageCreate(session *discordgo.Session, message *discordgo.MessageCreate)
 		return
 	}
 
+	var nsfwChannels [2]string
+	nsfwChannels[0] = "336297808221044736"
+	nsfwChannels[1] = "407060923078017026"
+	contains := stringInArray(message.ChannelID, nsfwChannels[:])
+
+	if !contains {
+		// Create a table (if it doesn't already exist) in the database specific to the user to store the message in.
+		query := fmt.Sprintf(`CREATE TABLE IF NOT EXISTS user_%s
+		(id BIGINT unsigned AUTO_INCREMENT PRIMARY KEY,
+		line TEXT NOT NULL);`, message.Author.ID)
+		result, err := db.Exec(query)
+		if err != nil {
+			log.Println(err)
+			return
+		}
+		log.Println(result)
+
+		// Store the message data into the table.
+		query = fmt.Sprintf(`INSERT INTO user_%s(line) VALUES("%s");`,
+			message.Author.ID, message_content)
+		result, err = db.Exec(query)
+		if err != nil {
+			log.Println(err)
+			return
+		}
+		log.Println(result)
+	}
+
 	// Check if the bot is allowed to respond in this channel.
-	contains := stringInArray(message.ChannelID, channels.Channels)
+	contains = stringInArray(message.ChannelID, channels.Channels)
 	if contains {
-		startChatLog := fmt.Sprintf(`The following is a conversation with an AI assistant named Shem-Ha. Shem-Ha acts like an arrogant goddess.
-		%v: Hello. My name is %v.
-		AI: I am Shem-Ha. What do you want human?
-		%v: %v
-		AI:`,
-			message.Author.Username, message.Author.Username, message.Author.Username, message_content)
+		// startChatLog := fmt.Sprintf(`The following is a conversation with an AI assistant named Shem-Ha. Shem-Ha acts like an arrogant goddess.
+		// %v: Hello. My name is %v.
+		// AI: I am Shem-Ha. What do you want human?
+		// %v: %v
+		// AI:`,
+		// 	message.Author.Username, message.Author.Username, message.Author.Username, message_content)
 
 		// Craeting and seeding the random number generator.
 		random := rand.New(rand.NewSource(time.Now().UnixNano()))
@@ -597,59 +671,84 @@ func messageCreate(session *discordgo.Session, message *discordgo.MessageCreate)
 		chance := random.Float64()
 
 		// Logging the chance to repond to the message.
-		log.Println("CHANCE: ", chance*100.0)
-		if chance*100 < parameters.Chance*1.0 {
+		log.Printf("%vCHANCE:%v %v", Cyan, Reset, chance*100.0)
+		if chance*100 < gpt3Parameters.Chance*1.0 {
 			// Creating the GPT3 client.
-			client := gogpt3.NewClient(tokens.GPT3Token)
-			ctx := context.Background()
+			msgArr, _ := session.ChannelMessages(message.ChannelID, 4, message.ID, "", "")
+			client := openai.NewClient(tokens.GPT3Token)
+			// ctx := context.Background()
 
-			// Building a completion request from GPT3.
-			stops := []string{"\n", message.Author.Username}
-			req := gogpt3.CompletionRequest{
-				Model:            "davinci",
-				MaxTokens:        int(parameters.Length),
-				Prompt:           startChatLog,
-				Stop:             stops,
-				Temperature:      1.0,
-				TopP:             1.0,
-				FrequencyPenalty: 0.25,
-				PresencePenalty:  0.25,
-				BestOf:           1,
-			}
+			// // Building a completion request from GPT3.
+			// stops := []string{"\n", message.Author.Username}
+			// req := gogpt3.CompletionRequest{
+			// 	Model:            "davinci",
+			// 	MaxTokens:        int(gpt3Parameters.Length),
+			// 	Prompt:           startChatLog,
+			// 	Stop:             stops,
+			// 	Temperature:      1.0,
+			// 	TopP:             1.0,
+			// 	FrequencyPenalty: 0.25,
+			// 	PresencePenalty:  0.25,
+			// 	BestOf:           1,
+			// }
 
-			response, err := client.CreateCompletion(ctx, req)
-			if err != nil {
-				log.Println("COULD NOT COMPLETE A GPT3 COMPLETION: ", err)
-				return
-			}
-			res := response.Choices[0].Text
+			// response, err := client.CreateCompletion(ctx, req)
+			// if err != nil {
+			// 	log.Printf("%vCOULD NOT COMPLETE A GPT3 COMPLETION:%v %v", Red, Reset, err)
+			// 	return
+			// }
+			// res := response.Choices[0].Text
 
-			mod := gogpt3.CompletionRequest{
-				Model:       "content-filter-alpha",
-				MaxTokens:   1,
-				Temperature: 0.0,
-				TopP:        0,
-				LogProbs:    10,
-				Prompt:      fmt.Sprintf("<|endoftext|>%v\n--\nLabel:", res),
-			}
+			// mod := gogpt3.CompletionRequest{
+			// 	Model:       "content-filter-alpha",
+			// 	MaxTokens:   1,
+			// 	Temperature: 0.0,
+			// 	TopP:        0,
+			// 	LogProbs:    10,
+			// 	Prompt:      fmt.Sprintf("<|endoftext|>%v\n--\nLabel:", res),
+			// }
 
-			moderation, err := client.CreateCompletion(ctx, mod)
-			if err != nil {
-				log.Println("COULD NOT COMPLETE A GPT3 COMPLETION: ", err)
-				return
-			}
+			// moderation, err := client.CreateCompletion(ctx, mod)
+			// if err != nil {
+			// 	log.Printf("%vCOULD NOT COMPLETE A GPT3 COMPLETION:%v %v", Red, Reset, err)
+			// 	return
+			// }
 
-			label := moderation.Choices[0].Text
+			// label := moderation.Choices[0].Text
 
-			labelInt, _ := strconv.ParseInt(label, 0, 64)
+			// labelInt, _ := strconv.ParseInt(label, 0, 64)
 
-			if labelInt == 2 {
-				return
-			}
+			// if labelInt == 2 {
+			// 	log.Printf("%vCONTENT DID NOT PASS FILTER CHECK.%v", Red, Reset)
+			// 	return
+			// }
+
+			res, _ := client.CreateChatCompletion(
+				context.Background(),
+				openai.ChatCompletionRequest{
+					Model:     openai.GPT3Dot5Turbo0301,
+					MaxTokens: int(gpt3Parameters.Length),
+					Messages: []openai.ChatCompletionMessage{
+						{
+							Role:    openai.ChatMessageRoleSystem,
+							Content: "You watch over multiple people and provide input. You are an arrogant goddess. You are rude and abrasive to your followers. Your name is Shem-Ha. The people you watch over affectionately refer to you as Shemmy.",
+						},
+						{
+							Role: openai.ChatMessageRoleUser,
+							Content: fmt.Sprintf("%v: %v\n%v: %v\n%v: %v\n%v: %v\n%v: %v",
+								message.Author.Username, message_content,
+								msgArr[0].Author.Username, msgArr[0].Content,
+								msgArr[1].Author.Username, msgArr[1].Content,
+								msgArr[2].Author.Username, msgArr[2].Content,
+								msgArr[3].Author.Username, msgArr[3].Content),
+						},
+					},
+				},
+			)
 
 			// https://pkg.go.dev/github.com/bwmarrin/discordgo#Session.ChannelMessageSendComplex
-			_, err = session.ChannelMessageSendComplex(message.ChannelID, &discordgo.MessageSend{
-				Content:   res,
+			_, err := session.ChannelMessageSendComplex(message.ChannelID, &discordgo.MessageSend{
+				Content:   res.Choices[0].Message.Content,
 				Reference: message.Reference(),
 				AllowedMentions: &discordgo.MessageAllowedMentions{
 					Parse: nil,
@@ -660,26 +759,4 @@ func messageCreate(session *discordgo.Session, message *discordgo.MessageCreate)
 			}
 		}
 	}
-}
-
-// Function to check if a string is in an array, returns true or false.
-func stringInArray(str string, list []string) bool {
-	for _, i := range list {
-		if i == str {
-			return true
-		}
-	}
-
-	return false
-}
-
-// Function to remove a string from an array, returning the newly updated array.
-func removeStringFromArray(str string, list []string) []string {
-	for i, j := range list {
-		if j == str {
-			return append(list[:i], list[i+1:]...)
-		}
-	}
-
-	return list
 }

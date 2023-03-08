@@ -1,0 +1,1574 @@
+I'm already a Hibiki
+_the Kirika in me is strong_
+Indeed!
+~~no but srsly, people say I am a lot like Kirika~~
+Dess!!
+Hey guys, I just wanna say that my birthday is on April 13th, dess
+hello!
+Alright!
+Ihere!
+And I hope I get Tsubasa's figma someday
+I'm still happy that I've got Hibiki for christmas =v=
+More floofy goodness
+Thanks!
+<@!193408538909868033> again, thanks for the screenshot! I am this far with the model now!
+The texture are there!
+And dis border for the character
+And I also drew this OC
+Like, I made these clouds just by experimenting a new brush on the PC
+I did it for clouds too
+or hell, even experiment on things
+Or look at tutorials
+^^^^^^^^^^
+using a drawing tablet
+And thanks! I have been drawing and conceptualizing characters on the PC for 3 years now
+oh
+And I also drew here a month or two ago
+I guess Kira's referring to that some roleplayers uses pictures as a way to express the character's emotions
+Ohhh
+Kira said it and I'm like: nani?
+Wait, you Rp?<@!87512939107450880>
+Mood
+So i drew my character going **NYOOM**
+
+https://cdn.discordapp.com/attachments/623223130244251668/731182566400589924/unknown.png
+
+Speaking of smug
+Eyup
+Okie! Good night!
+True
+I just have waaay too much time in my hands, that's all ^^''
+Mhm!
+I do it from time to time for characters I want to model
+what I'm saying is that you can make concept art for 3D characters if you've got the skills for it too
+Also an advice. If you can draw, you can conceptualize models like I did for mine!
+yw!
+Well, I did start drawing at a very early age and continued at it. But uuugh what was my traditional art skills criiinge
+And I've also drew the girl from before in another form of hers
+y'know what I mean. Experimenting never hurts
+Maybe???
+So I doodled acertain elf girl c:
+I drew some thing for my OC because why not
+zenbu gundam
+Indeed!
+<@!378750276057694213> I also drew Kiana too
+Ayyyyyy
+<@!378750276057694213> eyup!
+yeah, but this is again node based with a matcap and the stars as textures
+Actually, I use a matcap texture so that's why
+I've got a lovely bunch of dragon balls
+Well either way, I might  use that portal effect for something
+Blender doesn't have a built in game engine anymore since 2.8
+Oh really? Well since Godot will have an updated FBX importer system in game I hope to try that out for sure!
+Now the portals animated
+https://youtu.be/iVSIiRQITgk
+I has portals
+Am working on house
+Have some fire
+Oh
+<@!354236264595324928> Well, you've got a lot of free time to do so, right? ovo/
+np
+I t hink this is the one
+Uhhh lemme check
+the rest of the outfit
+the skirt
+the other cuff
+the shoes
+The wings
+There are 7 things i still need to do before I can say her model is finished
+Yeah, I've got a plugin that allows me apply modifiers while shape keys are present in the model
+_I am not looking forward to it_
+Specifically facial rigging
+Though speaking of modeling, the annoying part of this project is basically soon upon me: Rigging
+<@!237964037898502144> Yeah I do! I model in 2.79 and put them in toon shader in 2.9
+Eheh, thanks!
+
+Did some more work on the model
+My current progress on modeling
+Mhm!
+The armband has been exported
+Working on the OC model again and I am happy with how this is turning out
+That moment when you're learning how to make animu grass
+https://cdn.discordapp.com/attachments/481557490387910656/780417924699390022/unknown.png
+Testing the rig of my OC in MMD, but also god damn does this look good with autoluminous/bloom on the glowing effects
+_Genocide and genocide_
+Genocide
+Thanks! But the work tho...It's...
+But aside from facial rigging which I still need to learn to do, I'm almost done
+Wings that I've made like 3 to 4 days ago
+Yeee, wings
+Reusing the old twintails mesh because I'm lazy, but also because it looks so good even to this day
+Grand blue
+Aaaaaaaaaaaaaaaaaaaaaaand guilty gear and dragon ball fighterz
+I know right?
+Mhm! It's what I was aiming for usually, especially in art
+**AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA**
+Also
+The outline however is just a mix of the solidify modifier and just a texture
+Well, the shading is an effect AND textured too
+Tho fortunately there's always the future to look forward to!
+Maybe? I mean, if you look closely it's  actually trash tier in terms of texturing <:KirikaCry:674720015047720961>
+_Well, not 3 years, more like 3 days, but you get what I mean_
+DONE
+AFTER 3 YEARS
+THE SHOES
+I see
+Naisu! And nice shading too! I love that you did it traditionally too! Are you going to color them someday?
+I'm using both. The newest one for Nodes and the older one for modeling
+thanks!
+<:KanadeWink:690470895608791040>
+I plan to finish her before 2021
+yee. Tho I look forward to just finishing the model tho ' '
+Bits and pieces, but I do have a name, age and an idea of what to make of the characters, especially for the pink one and her blonde haired brother
+Mhm! Tho that outfit I'm currently making is like my world's equivalent of a symphogear in terms of being armor
+As well as the same character but in a different outfit
+Ahh yee
+part of me wants to use her in a game, but then again, I don't know
+and honestly I don't know
+And I plan to mainly focus on the shoe for tomorrow instead of working on it alongside other stuff at the same day
+Mhm
+The next is just mainly focusing on the shoe seeing how complicated of a model it would be
+My current goal for today is to get the right cuff done
+Oof ;v;/
+that I designed from scratch
+I have a whole character model for her
+Tho then again...
+Imagination
+I know right? That's what I thought to myself!
+Today I've currently finished the skirt and the wings
+Oh
+¯\\_(ツ)\_/¯
+Smug
+
+At least she packing stuff
+You mean a gaynado?
+https://tenor.com/KC9C.gif
+So she a deadly laser?
+KEK
+_Hibiki, you don't get the shading memo, do you?_
+wait...
+Now compare Hanaka to Hibiki and you'll see--
+Also, compare Hanaka to Nanoko-- the character I got mainly inspired by and I don't see any similarities c:
+Nah, those wings are bendable, like Kiana Knight Moonbeam's wings, the main inspiration to them
+Oh? o_O
+She ain't done as I have texturing work and perfecting the rigging work, but I love how she looks already
+https://cdn.discordapp.com/attachments/673598787503259658/786229575083622416/unknown.png
+She's nearly done in terms of outfit...But I just gave her a thigh squished by socks part
+Now the mid boobs are covered
+shoes and leg armor*
+She comin' together!
+Time to work on the torso part
+<@!740195087895756820> As an MMDer, I laugh too :v
+Yeeeee
+And her wings too-- It's just basically a physics day for me
+Also rigged the skirt too, so that's fun
+_They bounce_
+<@!237964037898502144> Good news pal
+MOOD
+I know right?
+I am hella excited and hyped about my model xD
+What I'm saying here is....
+Thanks! If I'm honest here, I'm fangushing like a lil kid seeing their favorite person in real life
+<@!237964037898502144>
+
+Ah right. It's a shadow issue
+https://cdn.discordapp.com/attachments/402836591170551810/788137864738242610/unknown.png
+
+Speaking of faces, which one of the two faces do you guys like more? The left (updated) or the right?
+The one who knows what's up
+The one who wants to buy it
+_That moment when one pretends to be a couple so that you can get a 50% discount on a product_
+Also
+Dragon gorilla\
+_Not right here_
+Something's....
+https://cdn.discordapp.com/attachments/623223130244251668/788080891964162048/unknown.png
+In this life she too busy to get it on with anyone
+In her past life she is :v
+and gayness, that too
+cuz cute and cool is basically symphogear in a nutshell :v
+Or more specifically:
+_Symphogear vibes_
+Just put her in a pose
+Finally did the right cuff, so yeah
+Tested that on one of my other OC's hoodie and oh my goodness
+Just finished the animu material shader <:VanessaCracked:639136452600397829>
+LASER EYES
+Who has wings
+Who is also smug
+Who's ready for action
+A cutie patootie
+**OwO**
+vwv
+owo
+it is useful for some effects c:
+But for me, it
+They're really useful for like high tech stuff
+I've already added said effect, but also that blue hue ring
+Tho I'm thinking of making a trimsheet texture for her effects
+Hecc, it was so easy, I even made it a few minutes ago xD
+Thanks! That was basically the easiest thing to make of the things in this picture
+Indeed! And those who are against dabbing, get ready to battle her xD
+Yay
+I meant imagine her with Kirika I meant what if the two were together as pals :v
+Indeed. Good luck with lewding her tho xD
+Thanks!
+_And now imagine her with Kirika_
+A 16 year old waifu thatt can also kick your butt :v
+a 16 year old waifu :v
+
+Back of her head remodeled, finally
+Nice!
+Awww, thanks!
+Mhm. Probably the most unique design out of all of my characters
+That and her model which her hair still needs to be improved upon
+Mhm! I have a whole front concept for her done
+Speaking of, I know now what color my robo queen OC's mouth would be
+I know right?
+Like, matching the chin outline of the WIP one (which I am putting it in a red outline) with the current one you can see that the outline on the current face isn't matching the red outline
+And with the face that I'm currently using (the left one) I noticed that said left one has a slight bump on her chin compared to the center face and right one
+She also got a boyfriend/future husband in the main timeline c:
+And thanks!
+Hence why the rings are there on the screenshot
+Actually, they're supposed to be glass orbs so I know what textures I have to set the materials to to get the glass effects on the orbs you see on this pinkie c:
+Preparing some stuff for another character to model = v=/
+That looks pretty damn good tho
+OOF
+_That's why I speak germain_
+_I know my german sucks_
+_**SIND WIR DER ESSEN NEIN WIR SIND DE JAEGER--**_
+MENACING
+Is it just me or is she be lookin' kinda **_T H I C C_**
+they're got gravity disabled
+both
+Emission wings :v
+So I got the wings to glow now
+Flight of the bumbefloofs
+Sharing this here just because
+
+The bottom left you mean or the top left?
+_Ngl, this is looking like a legitimate website now_
+https://cdn.discordapp.com/attachments/655167339779588096/791316410126565416/unknown.png
+As for me, I'm currently designing an armored female holy knight/Valkyrie kind of woman
+Ohhh, I like it!
+Ohhh I like it! The right arm funnily enough reminds me of either Angelic Buster from Maplestory or Megaman
+_Current progress_
+_Yes, I listen to so many stuff and am too lazy to close any of them_
+Second website training and already it's looking a little bit more like how I wanted it to be
+I've learned how to use the fonts that was saved in the local folders
+Actually, I want to one day have my websites look as flashy as the one from HI3
+Ayyyyy
+Yeeeee
+_Eyuo_
+https://tenor.com/IEEk.gif
+A shitty website to train, but oh well
+STONK
+_Cute until she clubbers a monster to death_
+Some quick strokes of my pen and lots of ctrl+z since I almost NEVER do it in one time ;v;/
+In terms of straight lines
+Well I don't :v
+So I drew this waifu today c:
+At least the dork quickly got used to it for a couple of reasons
+¯\_(ツ)_/¯
+Why he became a girl?
+There's a couple of reasons, but one of them is that he uses a magical ring that holds the power of the wielder of that armor
+She one of the alternate timeline stories for this blonde dork
+¯\_(ツ)_/¯
+Then again, at that point, maybe time travel is possible
+Since the game's story takes place 2000+ years before she exist
+Then again, maybe I'll find a way to make her part of the story so she wouldn't be DLC
+maybe DLC?
+¯\_(ツ)_/¯
+**SHE'S DONE**
+too*
+_Cagliostro might highly approve of her t oo_
+BUUUUUUUUUUUUUT she's looking good IMO
+She's yet to be fully colored
+¯\_(ツ)_/¯
+But also to for practice purposes. if it ends up being the way I want it to be then I'll likely use it for said game prototype's webpage. Other then that?
+That too
+Yeee, plus my PC's hella powerful
+DERP
+Oh
+I see <:HibikiThink:688429715362414641>
+Indeed. Part of that is thanks to her dragon blood, but also because of the ring that she wields
+_And if she was a little bit taller, she would be considered a titan as well_
+This valkyrie I drew a few days or a week ago? She'll be one of those Valkyries who wield the title of Bahamut
+Yeah. Barricade users are mostly shield users. Beserkers mostly use close range weapons and Thegns are also mostly close range users, though long range weapons like bows and such
+I have yet to think of a title for long range users as of now
+Indeed
+Mhm. These kinds of higher up Valkyries are known as Freyja. They're pretty much the leaders of the Valkyrie society. 
+Actually, I have the current progress of the titles and such in this txt file
+I also have ranks/titles for the Valkyries if you're curious about it
+That's basically the gist of it. Then again, it's a WIP
+_I wanted t oshare some kind of WIP for the bio for the Valkyrie society that I've been working on this week so here y'all go!_
+**“Not many people have seen Valkyries in their life and those that did even fewer have lived to tell the tale. If you see one during a battle, pray to god that the Valkyries will be on your side.”**
+On the eastern side of the planet in which Lawain resides, there exist a society of female warriors that brings judgement upon those who they see unfit to live.
+These warriors– Valkyries, originated 2.500 years ago, originally as a special force that the military force of Lawain can call upon. Now they live to fight in the name of the goddess of life and death.
+In times where they’re not needed or do not need to battle, they’re mostly staying at their home in the east side of the planet. Though there are those who wishes to travel. Those who do mostly are in it to expand their knowledge or to find a good place to either train or find a tavern/bar to buy a drink or two.
+Thanks! I mostly got inspired by shakespear from honkai impact
+Doodling a valkyrie OC once more
+_True art_
+**EXPAND LE CONTENT**
+Ah yes...
+Designing a freyja class/ rank valkyrie
+Noice!
+It's new years and what am I doing?
+_trying out my model on a game engine_
+Nice uvs
+It does look good yeee! What would it be used for if I may ask?
+Maybe it'll be a minigame where you can get a achievement and a reward c:
+KEK
+So I've modeled my own football today
+Maybe
+TIME FOR SOCCER
+_I LOVE BALLS_
+https://cdn.discordapp.com/attachments/402836591170551810/796419308883542056/unknown.png
+Oof
+_booty blaster_
+_butt rocket_
+She be walkin
+I think I'll be using physics to determine that like how I did in my MMD model and/or how Honkai Impact did it with the wing parts for Knight Moonbeam / Herrscher of the Void Kiana
+Besides, if I want to do the rest all I have to do is make some in blender, export the throwaway model with the animations to godot, save the animations and delete said throwaway model 😛
+_Ima do the basics first before doing the rest_
+Ima try doing the simple walk, run, idle, jumping, dashing maybe
+YEEEEEEEEEEEEEEEEEEE
+DOING SOME ANIMATION WORK
+_Are you oki doki doki?_
+Uhhhh...Hanaka?
+So I'm trying out a new camera node and I think it looks pretty nice so far!
+Oh yeah that you can!
+I think it's easy to work in. It uses it's own scripting language, but it's rather easy to learn so far
+So I made me toon shader in Godot today c:
+
+<:MariaYell:336657352264646657>
+> _noise_
+It's a looking good now
+Indeed! It'll turn your head inside out!
+Punishing people is raising it a bit much :v
+It's hard to for the pun police to pun-ish me cause I am the pun police c:\
+_Ba dum tss_
+Doing some more blender modeling work. This time I'm escalating it to a whole other level
+Funny enough, I saw something about mario strikers on Deviantart today
+Glowing soccer ball :v
+KEK
+I found this outfit model yesterday and I HAD to make her wear it ;w;/
+_ara ara_
+Indeedy
+Working on a hud c:
+HUMONGOUS SNEK
+Snekroom made
+True
+IT'S A BIG SNEK
+Who likes big snek?
+BICC-A-THICC
+Grass became a bit too bicc
+I has grass
+Anyway, I'm going to try and learn how a segmented enemy works
+or C: it's the actual size and the other one's gigantic
+Actual snek size c:
+Hud's working now!
+that's why I nicknamed her floofball :v
+no problemo!
+Nice! I look forward to your progress!
+you have an electric guitar too? Nice!
+👀
+now we need it to change shape and then we have a transformer
+Trans - the LEG
+well, pink and teal
+It's definitely nice looking! Pink and blue
+Just found out spmaps in mmd shaders are actually rougness maps c:
+Already on it
+Yeeeeee!
+Though this is just a concept art of her previous version. I will be using her newer model's base and model the outfit around that
+I've decided to start modeling Hanaka's school uniform c:
+_It is..._
+
+HLSL is difficult IMO because the tutorials aren't there so far as I can see, right?
+I'm doing it very slowly, but I am starting to get to writing my anime shader for MMD
+
+but god damn
+This ain't done,
+Those are more like belts, but yee those are basically cloth hoops too
+Wait till she colored
+A WIP for now, but I am drawing another one of my many OCs
+I've been meaning to get a midi keyboard so I can make melody more then 1 octave long, but I kinda like how this has been going
+That radiates stonks feels tbh
+I did a blender render test using the new shader c:
+I doodled a God
+Someone mentioned that too
+Indeed
+https://tenor.com/uQST.gif
+I'm thinking of redoing one of my other OC's hairstyle and keep the anime theme of it in mind
+And make them fall slower
+She's more or less inspired by her and by Hanaka-- the pinkette who's model I made in december!
+One of the character with them most change to it's inspiration material has to be Jinki, aka this one
+I played lots of Maplestory back in the day
+I see
+--er, well. Read
+Really? That's surprising to hear tbh
+Mhm. That's why I am asking for other people's opinions about her
+The design tbh. Angelic Buster is from the game Maplestory-- a very famous MMORPG game from the company Nexon, a famous MMORPG company.
+
+And there's Tsukine who I've yet to have a story and such
+Mhm, Angelic Buster is basically contracted by a pervy magical dragon
+Which makes me somewhat unsure about her design
+True, true.
+Compared to Angelic buster (the pinkette I was inspired by) it's much different then before
+You can think of that as one, yes
+This design tho for the right one is much different the left one, to the point where I'm pretty comfortable with using it-- even though I plan to use this as a upgraded form or an ult. form
+It's fine. I'm glad you've responded appropriately. While I really like the right pinkette's design, I had been thinking about similar the two were honestly
+Ahh, gotcha
+But I was more or less asking if you guys find one of the two similair to the other
+I mean yeah she cute not gonna lie
+I just realized that the pinkette on the right that I drew a while ago looks more like the one on the left now that I think about it :/
+
+What do you guys think?
+Oh that means quirks are gonna be a thing too
+That or we can parent the symphokiddos c:
+that means Symphogear's becoming real too
+~~if it is then holy shit one of my OCs might've become real~~
+_Oh_
+**CRASH**
+I have a robo OC who's got a supercomputer inside of her. She will definitely not--
+This was how it started off at
+Aaaaa thanks!
+I did a little drum beat test ;v;/
+
+I'll let you all be the judge of that c:
+I already am!
+Am learning modular synthesis <:KirikaSalute:620069889838809089>
+_Rozaliya no--_
+Yeah, it is! (Tho it's just a midi sample of a drumline)
+Oof, plus it's an MP3 file .w.
+practicing with mixing and mastering drums.. Any critique you guys wanna send?
+_I can see why drummers need a lot of inputs_
+So I'm learning how to use these mix busses and...
+True, true
+Hmmm I don't think I've done something exactly like that, no
+Time to UV map
+Funnily enough the most polygons on the sword is the hilt/wristguard portion
+A sword sword
+eyup!
+Added some lil details at the hilt and oh mah goodness
+Current progress on blade c:
+I'm working on a sword c:
+Yoooo that's a one sicc artstyle!
+Man I love vocoders
+But a boss weapon
+Fortunately this weapon is not a gacha weapon
+<:Ver:704169051391524875>
+I've improved it a lil bit
+:3c
+I guess?
+Ohhh
+Transistor?
+My first animation render
+https://youtu.be/UpS9vsNXXBc
+the render can easily be used as an icon
+Yeaa, but still
+Maybe?
+I mean, outside of the dots and aftershadow and maybe the white outline, I guess it can be used as a weapon selection icon
+_This just looks 2D now_
+...
+I've tweaked the shader a bit and it looks perfect IMO
+Same sword but with a custom anime shader in blender
+The sword's basically done now =v=
+Ahh gotcha
+the light blue on the right?
+Eyup
+👍
+Hmmmm 🤔
+Naisu!
+Mhm! It's basically FireAlpaca, but it's got online account features with more stuff dedicated for manga like art
+I use a drawing program called Medibang to do it. I export my UV maps in blender, import them to medibang and work on there
+I'm currently doing the texture test on Blender since it's way easier then in PMX editor
+I've just added a lil cresent/logo thing on her sword now
+Mhm and she's 158cm c:
+Yea it's pretty THICC
+And let's not forget the blade herself Tsubasa <:MariaConfident:336657338729627658>
+And that one guy from bezerker
+_points at Cloud_
+Welp
+Tho to see the pixels you need to be very close to the weapon which most people don't
+**YEAH, HELLO KIANA!?**
+_Kiana is that  you?_
+I was doodling an OC of mine as an elf and...
+I've just checked how HI3's camera works and it appears to be a falloff/easing of the camera turn and I've only noticed that now thanks to your comment on my camera movement so thanks!
+My life in a nutshell
+_How many indicators do you want?_
+
+**Y E S**
+_\Funny how you said that as if it's not (yet) happening in her story_
+She got compressed
+Well then
+There's no fall off yet, but maybe I can add it as an option?
+Here's a lil recording how the camera is turning out
+https://youtu.be/vGt_7W4aIbI
+I fixed something about the camera since it doesn't turn sideways when you turn the two thumbsticks opposite to eachother
+One terrified waifu
+That moment when you go
+_A boobie trap that actually catches boobies_
+_Amazing_
+That moment when gacha
+I was doodling yesterday and it turned out the doodle looks so good that I might make a concept of that design
+A priest and a samurai walk into a club
+When your waifu is a legend...
+_In drinking_
+Mhm :3
+Then it again, 5000/5000hp is basically 5000 hp left out of the 5000 hp
+Maybe?
+I mean...
+I've just noticed that now
+It's starting to look like something at least
+Welp
+I feel like working on a level today
+Fixing some more camera things
+Ahh okie
+What's it supposed to be if I may ask?
+When you're bored enough to make a wallpaper of your characters
+what's it gonna be?
+👀
+He turned out good!
+Mhm!
+specifically in the proportion spectrum
+Drawing him makes me realize how much I've improved in terms of artstyle
+I'm glad I'm not the only one who noticed the J.J similarities on him!
+that profile name tho
+I've tried to make a pixelart version of a hud, so I did
+_This face is a mood_
+I did a meme
+She a mafia boss mom
+So I'm designing a new character
+I've made an elf girl
+Sooooo
+Hmmm...
+Which version shall I go with? 🤔
+Also, dialogue system is coming together nicely
+_It shoots laser beams_
+Nope.
+Or I am planning to make it do things
+_It actually does things_
+Except unlike Navi
+BEHOLD...
+_glass fairy thingy_
+In all seriousness, I actually worked on my dialogue system BECAUSE of the json files
+https://tenor.com/bshaU.gif
+It's not much, but coding wise it's nicer for me to work on in the long run
+I've been thinking of updating my dialogue system that I've first implemented in my old prototype from a year ago
+^
+Exactly. I was going for a pixelart aesthetic
+These are just sprites for now. However I do plan to make them functional
+I made some sprites today!
+and it seems like it's working perfectly! Transitions included!
+Welp, I did bit of practice on how to make it slanted
+And I think I know how to pull it off
+Mhm
+but yeah, that's what I am planning to do
+I think--
+Nah. More like this (a fellow godot user made this in a game jam)
+I was thinking of giving the buttons a more of a diagonal offset too
+Mhm. Though that too is just a placeholder. Like I said, the menu screen for now is just a giant placeholder. Everything here is a placeholder with the only exception being the text on the bottom left
+Mhm. I'm thinking of giving it more of a space like theme
+True true. Then again the main menu screen as of now is just a giant placeholder. I have yet to work on the fancy transitions and such and the background to make it work
+_I should really make better menu screens then this_
+_jfc_
+_It doesn't cause it's an audio bus_
+Not the bus, but the audio it can
+Time to work on the busses 😎
+Trying to make a menu screen is hecc
+_Reality_
+Expectations
+The scren's looking better and better as a prototype
+_Well that helps a ton tbh_
+WELL TURNS OUT THERE'S A WAY TO TURN THE LINEAR VALUE OF THE SLIDER TO DB
+That's because I've already had that finished, just the style was something that i needed to change
+_Honestly, It's a bit sharper then expected_
+I've just tried it on this prototype option screen and...
+I see
+Monospaced?
+And anti aliasing off
+The font i use is Ebrima, text size 14, bold and outline size to 1 pixel
+Ahh yes, the highlight
+
+An ikea salesman with a love for his tuna--
+I wanted it to fit one of my character's color theme, but instead it's looking like an xbox desk setup--
+It's starting to look like something!
+Decided to work on furnitures for once--
+Genshin bs and stuff I guess
+idk
+Eyup--
+I got so bored today that I decided to record a video and edit it to try it out--
+https://youtu.be/WyDlviwPpME
+I see 🤔
+Yeah I've seen his videos, I might use some of his tips and tricks on my models too--
+Currently in this version specifically I'm using standard shading, tho I do plan to add normal editing to it--
+Yeah, but when you see them textured they look nice--
+Yeah, the current version also has a lot of vertices, but a bit less and is currently using a subsurface division modifier for easier modeling
+Yeah, the old model had issues with the cheeks, the normals and the shapekeys itself
+Mhm. That and the overal mesh since the current version uses the old face mesh
+the eye lashes and eyes itself probably
+Working on the face again
+So I felt like doodling some more--
+Designing an upgraded form for an OC of mine =~=
+One lil post editing later
+Nice--
+
+Also bored so I posed again
+Also--
+
+Then I'll go for both then!
+With the pink one for the demon form
+I need some input. Which of the two looks better as a succubus? The left one or the right one?
+Me working on a succubus OC
+~~_And a qiqi_~~
+_~~Gives u amber 2.0~~_
+_when RNJesus hates you_
+maybe? I'm not sure if I'll finish it tbh xD
+When you're of the last survivors from your planet, who is also currently looking at the direction of the former planet which may or may not be in ruins
+
+When a robot's love for another is so strong that they changed form along the way
+WIP maybe. Might finish this or not, idk--
+Well then I'll have myself some hooters c:
+Have a tsun I needa fully finish drawing and color--
+"hey, I only have one arm. Where's my happy time arm?"
+Naisu!
+you bet
+https://tenor.com/beIyh.gif
+_That's because she is_
+:3
+_One tsun coming right up_
+dr. WAIFU robotknik
+_EGGHEAD_
+5+ years or so I think???
+Bigger mood
+But I will do a lil quick ghetto one to start it off =v=
+The stockings and armwarmers shall be done once the base of the model is done :v
+Mood tbh
+https://tenor.com/bKXKQ.gif
+<:KanadeRooster:336659950258356227>
+One thing for certain: Like Bikki, she's got the charm point :v
+Thankies!
+She considers herself a magical girl and other's consider her one too, but she's actually a magician/wizard rather then a traditional magical girl c:
+KEK
+And this is the girl Imma model =v=
+Boots made from scratch c:
+I've designed those boots myself and is actually part of an outfit for an OC I'm mkaing <:ChrisWave:738169593574719568>
+The shoe need a wee bit more work in the UV department, especially on it's nose, but for the rest the shoes are done!
+True true
+These shoes are made for walking
+And I'm working on a new model!
+Naisu--
+<:KirikaMad:688188152891834417>
+_whatevs_
+_TMW you're not interested in anything_
+I've actually just been curious how said hair would look like on the head
+It is actually the same character's hair
+The one with the boots I've made this week?
+WHY DOES THAT FACE GO WITH THAT HAIRSTYLE SO WELL--
+<:ChrisShock:620077681484103680>
+So I was a wee bit curious on how the head would look with some hair, so I've added the picture of the hair onto the screenshot of the head
+
+And if not? Welp--
+Indeed
+but with blender constantly updating, I've decided to learn how to rig the lips instead
+I know
+2. because I've seen a good amount of models nowadays with those lip bones so why not add them in my model
+1. because this mesh is currently using a subdivision surface modifier and I can't apply it when there are shapekeys. I can do it if there are bones though
+LIP RIGGING TIME..._Oh god--_
+Indeedy
+(putting it on spoiler cuz nudity and such) I am rigging the body right now. So far it's looking pretty nice. I've even added bones for the booty--
+Indeed
+mostly thickening the outlines
+I've just did some changes in the head, most notably in the eyes
+https://tenor.com/bGGHH.gif
+Le backhair's done. now the twintails
+AAAAAAAA THE BACK HAIR IS FINALLY DONE IN TEMRS OF MODELING...
+Making some moar pogress
+Mhm--
+I've been thinking of adding a solidify modifier to the bangs to add an outline to the hair, while using an outline vertex group to determine the thickness of the outline c:
+I'm liking how this is turning out
+SMUG
+Welp, time to resume on the new OC
+_That must've been her breath--_
+cause le french hon hon
+_Le wink--_
+ngl, the rigged face makes expressions so much easier--
+Speaking of swords
+But it'll definitely be worth i
+Working on rigging the face is a pain in the ass x__x
+IT'S DA SOUND OF DA BEAT
+WOOP WOOP
+Welp, she's gettin' somewhere
+https://tenor.com/bAhpv.gif
+yes, cause I'm with the science team!
+BODY TEXTURED QwQ
+_Eh, too lazy to fully UV map it_
+shrödingers censor
+>:3c
+Well... trying to get the feel of the shape--
+I JUST REALIZED THAT YOU'VE MADE A REFERENCE TO MY WORLD (if I remember it correctly--)
+ohhh
+OH
+Tho I do wonder when build strike first was revealed 🤔
+Almost same leg too
+Yeah they do
+Ohhh
+eh? Whaddaya mean by thatr?
+Indeed! It's the build strike ovo/
+I HAS GUNDAM AND MAKING IT
+Nice indeed
+Oh and she also plans to become the owner of a tea shop (???)
+Not really, but she is a ninja actually, this is just her casual attire :v
+New OC design ahoy!
+HIBIKI NO
+A reminder that she's surprisingly stable without the stand in some poses
+Hmmm... I can see what you mean by that
+hibiki: putting the gun in Gungnir
+
+headfin went kapüt
+And gay hamster
+Did it for his accessories too
+Panel lined it
+Me making road
+DAB TEST
+We've got a shy Gundam and a gay hamster with the charm point
+Stickered
+That would be great if I have the budget for all of them
+Hmmm...
+I wonder what other Gundams I'll save up for in the future...
+
+Anyway, I am learning how to use a dictionary file for custom enemies so I can edit their values here and there on the fly without having to do it for each and every single enemy individually
+ayyy
+So I'm learning a bit about dictionaries a bit more in blender c:
+Facepalming Gundam
+I did have to use a wee bit of code from the forcefield shader made by curly brace, but that's mostly for the intersect thing
+Finally got the intersection of the forcefield to work
+Time for me to learn about using vertex in my shader
+His limbs got yeeted to another plane of existence
+Or a shrödinger's cat situation
+It uses magic that's for sure so perhapsd
+I guess? 🤔
+I forgot to add le arm cannon before, but here it is with the arm cannon!
+"GET REKT SCRUB"
+Forgot to draw the ring around her horn things
+Working on Angelic Buster and I gotta say, she doesn't look bad in my artstyle 🤔
+they both use the same peg size
+"OKAY WHO EXPERIMENTED ON MY LEGS"
+bar bae tho
+That feature's added
+thanks for reminding me
+Oh yeah motion blur--
+_Yo I herd u liek settings so I added settings in your settings so you can set your settings for your settings_
+He do be walkin'
+Well in any case I got it to work now, so that's one plusside
+Currently there's only the values thing in the resource file, but if I ever want to implement a texture thing to the dictionary it's hopefully only a code or two away--
+nah, although I did the JSON thing in my dialogue test.
+What I'm actually doing is making a unique resource file for every different version of an enemy, using the dictionary in a GD script for the info and maybe even a picture if I plan to add an enemy biography list in the future for the player to see what the enemy is called and such
+yeah. I'm currently trying to make enemies where I can make custom files for them where I can set in the values manually
+_I made a smug_
+My new profile picture
+I'm making a reference sheet too- though for front and sideview thing since it'll be a model-- or at least I hope it will become a model--
+Ooohhh
+Ahh gotcha
+Ohhh
+_The side and back are also ones I need to do--_
+But that's just the front view...
+I think I finally got a point where I am liking the design x__x
+Yeah, though I might go for 6, though I don't know for sure yet 🤔
+And the answer is to show my current progress with deciding what bangs to choose
+6 now
+I didn't ask which bangs one would prefer but thanks for the input anyway! 👍
+Dammit I made a 5th set of bangs--
+<:MichaSmug:336657136065052673>
+Great minds think alike I've heard
+<:ElfneinPresents:691733046633955439>
+Yes, she's someone you can ride :v
+Thanks! Le elf girl (Mercedes)'s bangs aren't finalized yet. Hell, I still don't know yet as you can see it x__x
+Elf girl be looking pwetty
+Fuq it, imma give her leg and tail armor
+_Also, she can lift a truck--_
+Ahh, gotcha!
+Ohhh, is it in terms of shading?
+Freedom planet? Imma look it up
+Mhm, now with a bit more color
+Still in the design process, but Imma give her thunder thighs
+https://tenor.com/bLSFi.gif
+Quite the _horny_ person
+So it seems
+Just don't get hit by either one of her four horns
+You've described her theme to a T
+When a big ball of floof becomes a pink ball of _spiky_ floof
+Current progress: _She finally can hear ~~other's B.S~~ things now!_
+Working on the shirt
+T'is time to work on her--
+_Lotsa detail I see--_
+_Maybe?_
+She has head
+~~I get what you mean, but still--~~
+_Because she hasn't?_
+So turns out Mercedes has a 3d model already in a game during a collab...
+_Imma use it to look for missing details I need to add for my reference_
+"_nooo_"
+_"Doing a performance? But I don't wanna get outta beeeed"_
+v be like
+https://tenor.com/bpKgc.gif
+~~and she got the tit~~
+Time to model her jacket finally
+Tru tru
+_So I tried in on one of my OCs and it's a wee big for her--_
+Surprised it took that artwork to realize considering the handles in the weapon
+Mhm
+It's her main fighting style too
+_Yes_
+AND MAKE IT DOUBLE
+Prepare for trouble,
+Neat! As for me I'm finally going to texture and rig the crossbow
+c:
+And she's got a young half brother--
+And at the same time a younger half sister
+and the earrings are actually claws nails from her dragon form that got broken
+eyup, she's got dragon blood from her dear dad
+So I felt like redrawing my half dragon elf princess
+She's the same girl as her
+_More maplestory character designs_
+eyup, she is one!
+A nine tailed one too, but too lazy to draw le tails :v
+And yes
+She got some serious honkers
+A real set of badonkers
+Doodling a fox girl now--
+When life gives you lemons.. 
+_sing a song about your crush's booty in front of her_
+I see someone knows her :v c
+Probably?
+https://tenor.com/bP4Ia.gif
+well, she no longer horni now, huh?
+and ||~~exposed bra~~|| c:
+So I was doodling some more and this time I felt like drawing angelic buster/Tear with some battle damage.
+Putting it in spoiler cause a wee bit of blood just in case--
+And then there's the grin
+Caution: she bites
+So I'm doodling one of my OCs again
+FINISHED QwQ
+She's getting colored now!
+After seeing Angelic Buster some more, I've decided to retry drawing her again--
+Nu >:c
+
+_But I grace you her smile--_
+~~or if one wants seggz with her~~
+_Like handholding_
+_When she sees lewd stuff_
+Hmmm
+I'm currently liking the current one more. But I'll LOOK into other eye tomorrow. SEE if there's one that please my EYEBALLS
+Nah
+I'm thinking of her being a wee bit more serious
+_I redid the eyes_
+No one expects the PC acquisition!
+So I'm drawing a milf
+That too
+Welp, I've changed the leg armor and such
+The progress so far--
+~~probably lewd a dragon boy or something~~
+So I was going to doodle one of my Magical girls again, but when it came to the outfit I suddenly started to draw a magical knight girl instead xD
+herpaderp
+Ermagherd
+It hecking WIMDY
+¯\_(ツ)_/¯
+at least not yet anyway, that's in their future
+We're talking them being in a relationships, not being married or having children :v
+One is 19, the other's 20
+They're canonically a couple :v
+but I am also going to be working on a new face for the male cause gdi it seems offputting now
+Smug waifu
+Maybe?
+
+Well I kinda lied she's not really done as she has rigging issues bot modeling wise she is done
+Shorts with star shaped cutouts on the side!
+And she wears shorts!
+SHE'S DUN
+PROGRESS FINALLY
+Okay time for school
+ooohhhh
+Oh?
+idk, they have their heads above the clouds atm
+_not yet_
+Well, now that you said it...
+_I brought them together_
+_Oh._
+Ahh, magical gi--
+spiky jacket
+I agree
+~~She's on her way to bonk your head then--~~
+smug levels?
+So I was bored today--
+Instead we have magical floof
+if she was blonde she would've been a lot more desslier
+Would be more or less a staff or a hammer or a scythe but I don't have a model for those yet
+she 'bout to get serious
+Now her in a pose
+the rigging improved! Except on the flaps of her top--
+Time to fix some rigging issues on the model
+a protagonist with a cute lil sister
+the smug little sister who ships her ~~with her big bro~~
+Of course we have the smug too
+They gonna be cute together. I just need to work on the boi's new model tho
+https://tenor.com/bR53E.gif
+_~~make her do the stickbug dance~~_
+~~True true~~
+tru tru
+And I'm not the only one
+I seem to love posing her
+Big fists
+Last picture before going to sleep but
+I should really work on the face rigging at some point
+Magical girl-ness level: stronk
+Suddenly jojo pose
+
+Rigging a model be like
+_The gomu gomu no fruit has been consumed_
+Suddenly noodly arm
+Stumpy waifu
+Suddenly
+Old pics but moods
+_Yatta!_
+And here's the same one as a Nymph--
+Here's a punchy pixie
+The hair is sorta a blue ish flame, hence why it looks so upright yet flowy
+Helmet test maybe
+c:
+_Where's that damn fourth_
+_Tmw someone says something very stoop!d_
+_The elven princess cannot believe it took me so long just to get started drawing her again_
+Levels of smug: _foxy_
+I made a biography page for one of my characters today and the sole reason for me to do it is honestly the accordions
+_So I think I can make a page now_
+https://lawain-dimensional-heroes.tumblr.com/maroon
+Well, she is partly inspired by Hibiki :v
+Just decided to add a white outline around it to make the thicc black lines show off better
+Thanks! Had to revamp the old version due to how different the proportions were back then
+_Cause that's where it counts_
+And now she's really PONK
+Nah, she ain't Cag
+_Time to give her some thicc lines_
+Ohey, MMD version--
+But you already know that
+...You're going to have to take it
+_Y'know_
+Was doodling this cause I felt  a bit...
+I should draw her a lot more, she's so kyoot
+Probably?
+_**da gurl found da booty**_
+_Swiggity Swooty_
+So I was doodling and
+Update:
+And this time, the cheeks can glow, allowing her to blush c:
+So I doodled a mugshot of another robo OC of mine
+I was doodling once again and
+Been working on my room again-- specifically bought a new carpet for it c:
+Default ui for the message
+Everything else except for the clock it's unfiltered
+Working on the UI element of my game project today =v=
+That and my personal man cave B)
+Mhm!
+Idk if this fits to post this here but I've just finished cable managing shit
+Smug and...
+_Wait--_
+Finally doodling again
+Okay, now that I'm awake and on my PC I can explain it a bit more precise.
+
+It's a beat em up game that looks and plays mostly like a 2D beat em up, but you're in a 3D environment.
+A beat em up in a pixel art art style
+Should I go with le arrows? 🤔
+concept as of now-- but I'm planning to make it a functioning game-- or at least a demo
+nvm, updated it
+Title screen be like:
+I don't think I have yet--
+Now it's looking like a options screen
+I finally got the settings menu and the settings code itself to work! (and saving these)
+OOO with our favorite super gay hamster gal
+Nyet
+The dialogue system is looking ni--
+So I'm actually trying to make it work in my game instead of making edits
+
+_It's easy to see I'm enjoying this--_
+_This suddenly went outta hand_
+Tmw you use blender to try and make pixel-art like art
+_Finally, camera system works--_
+https://cdn.discordapp.com/attachments/488370207409045525/1016026962889822279/2022-09-04_18-46-08.mp4
+Blender 2.90.1
+_And as for me a slight change in angles to a cute angel_
+_Ah, a familiar face_
+Glowing eyes go BRRRRR
+As someone who uses Godot, I can agree with that sentence
+_Correction: make that 3_
+I know way two white haired people to agree with you on that one--
+mw someone gives you _this_ look part 2
+tmw someone gives you _this_ look
+Who likes a speedy boi
+Mhm! And for dynamic shots like the ones arc system's 3D games have!
+Mostly just showing how it helps the dynamics of a character and how it helps with giving attention to the thing you want to give attention to!
+Nothing really special, just something I wanna share this fun comparison between how a model looks like with and without bones that scale
+Now I got the next looking right now
+After many graceful landings
+_What a graceful landing_
+I present to you!...
+_A blep_
+_Swolltsune Miku when she sees brittish people_
+Hatsune...
+SWOLL MIKU
+Finally...
+Sad magical girl :c
+As you can see on this one here
+That's just a mesh I wanted to add so I can make this part seem like it's glowing to the point where the light is bleeding out of it
+Oh, the ones That should be here you mean?
+Any suggestions to add to le staff?
+As one of royalty should :v
+_Well now this looks better_
+Longarm
+I just noticed the length of that arm...
+_Now I can't unsee it and it's annoying the hell out of me now--_
+(Don't mind the weird thing on the sides, it was originally an effect piece that I'm now UV mapping it on the weapon itself)
+Does this look better?
+That's temporary-- but I'm not sure what kind of reflection will look like 🤔
+Fuck it imma go for this staff--
+Making staff for magical girls can be pain x_x
+_Especially if one can change too_
+Time to draw an idiot
+_hmmmmm, snoopingas usual I see_
+Yeah I'm aware it's a good choice
+_Doesn't watch any VTubers_
+oh
+https://tenor.com/SKKd.gif
+_yes_
+_Ohey a king_
+And when it's time to D-D-D-D-DUEL
+_Doodling another magical girl time_
+Someone: go outside and touch some grass
+Me: okay
+Also me:
+_Cuteness overload_
+_Oooooooh gotcha_
+I mean, she's designed to be a magical dragon girl idol, so what's not to love?
+<@134296520273952768> <@331908049822547978> <@457268466429329429> Seems like y'all like a dragon girl idol :v
+_Indeed_
+there we go :^)
+<@457268466429329429>
+...
+Gimme a second--
+_she's there_
+_Took me many tries to get her proportions right but finally_
+
+_I found some sprites and there was only one thing my mind wanted to do_
+_So I tried to make her look menacing_
+upside on windy days? At least there's no heat issue
+downside: _bad hair day_
+
+_Instructions unclear, chief_
+_nu_
+Help I turned a cute GF to a smol one
+Although what you said could also be a good edition to it since I did somewhat think that light source on the side can be used as a kind of like a sort of hologram projector thing to make those wings appear, so who knows
+And it's also a tiny bit more blue tinted
+That's exactly what I was trying to do--
+And this is now--
+I've made a small difference in the gray color of her dress and socks.
+This is before
+Working on a familiar floofball of mine again :3
+So this is like my 2nd-- or rather 3rd time drawing a chibi character this year...
+_Looks good tbh_
+
+More of a crappy edit but whatevs
+Cube.729.000
+:^)
+
+yeah that's true
+I mean... Maplestory did get exactly that, but only for a year
+_Maplestory_
+c:
+nope but it is an online game
+_So time to model a thingy. Guess what game that came from--_
+
+~~_Smack someone whoever is Horni_~~
+Suddenly filter effect
+So I found this small portable FM radio...
+_I know what Imma be listening to tomorrow_ =v=
+Ooh, a 3D Vase!
+Hmmm...
+This also looks nice
+I can somewhat understand but I am so, so used to customizing pages in that fashion that the Niagara Launcher is kind of a turn off for me sorry m8
+I've installed that launcher and... Idk chief, I'm not all too interested in it's layout
+the niagara launcher that is, that's if that's a suggestion to using one
+Oh right-- launchers! Imma try one out--
+Decided to overhaul my phone's appearance with a new theme, wallpaper and font--
+I look forward to learning cause it seems easy to learn yes-- might even consider Davinci over Hitfilm honestly
+So I'm learning Davinci Resolve
+~~Do you have zoom installed?~~
+So I got a cassette recorder for Christmas!
+here he comes the swivel,
+the swivel man,
+he's swivel man~
+Indeed...
+As well as the...SWIVEL on the head--
+Tho what should I do with her once she's done.. <:HibikiThink:688429715362414641>
+https://tenor.com/bp3nD.gif
+_~~Yes the horni has taken control over my thoughts and Imma rig her for sure--~~_
+Will do it for the elf regardless
+https://tenor.com/bI0aW.gif
+https://tenor.com/t0LI.gif
+_thanks..._
+Mostly just a cube or something along with subsurface division and mirror and that's it
+when it comes to concept/reference art/texturing: Medibang
+Straight up Blender
+I'm almost done with  the model fitting and stuff for her...
+_Soon it's rigging time_
+Well, she's missing her ears, but still!
+Ladies and gents
+Elf girl
+ah cool! That looks grea--
+**[BRICKED]**
+So I found this old camera in the closet today
+_Hue_
+Just finished a handjob...
+_:^)_
+_It feels a tiny bit outta sync from the music somehow but y'know what that's great tho_
+or play the song at .75x speed and it'll match perfectly--
+now speed it up 1.25x and play that in the background
+And they even took the windows transparency
+So I found out one of the lenses I have is a very vintage and well known lens: HELIOS 44-2 <:KirikaDess:336656774251806720>
+When I get a DSLR or a mirrorless camera i swear to God I'm using these lenses
+Mhm. it would definitely look good in like those 3rd person beat em up games like genshin/honkai, but I'm more thinking of like a TMNT fighting game like game
+True true-- I'll see what I can do with that
+thanks! Hopefully I can get to a point where I can actually use her in a game--
+Thanks! Technically it's still not done yet cause it's missing, teeth, tongue and ears and the facial rigging could do with some improvements here and there
+Indeed--
+I was originally thinking like potentially going straight up 2D sprite, but I'm not good of a sprite artist tbh--
+Basically started off with a bit of scale editing on this model ~~Which I might use for placeholder still--~~
+
+But other than that? idk
+Nice!
+I've been trying to figure out how to best make her 3d model look pixelated like a pixel art style--
+_One thing's for sure I need to either redo the model from scratch or just forego the 3d model or pixel artstyle_
+Oh I like the slime mesh a lot!
+Nice!
+I saw that on twitter too!
+Nice!
+Thanks! I'm glad you like it ^^
+I know the pain YwY
+Thanks vwv/
+https://www.pixiv.net/member_illust.php?mode=medium&illust_id=68418352
+And here's said concept art (For any artist interrested in drawing the dork)
+These two are just basically my dorks
+indeed
+<@!231025503643893770> I see you're a Nep of culture aswell vwv/
+_or memes_
+Now I have a new place to show off my sympho-art!~
+Yae Sakura is my honkwaifu :3c
+EARS
+Well I like Yae Sakura tbh :v
+I see
+best mom
+she's old enough to be someone's mom!
+_n'awwwww_
+Nice!
+Indeed, she really is a lusty gal :v
+I did and RIP Kiana
+NEVER KNEW KIANA CAN BE THAT R00D
+WOW
+_Hey, brat, I'm talking to you!_
+PFFFT
+I know right? Imagine her sitting infront of her desk and using books to make her reach over the desk :v
+also, yeah I know theresa is tiny <@!173112001684439040>
+every girl looks good in a suit :v
+Oh cool!
+_Approves both of the girls_
+Speaking of art! I'm just done with Hibiki herself for the birthday art!
+ikr?
+also, ayyy that last pic is god Kiana!
+I haven't played that game a lot due to the lack of space on my phone and the fact that I play symphogear XDU most of the time, but hey! Good choice nontheless!
+<@!173112001684439040> I see you like HK3rd aswell vwv/
+ayyy
+kinda
+me xD*
+And low and behold, today I didn't even need to  do it because twitter just did it for mxD
+I know right? I had a character with pink who i wanted to draw with  Tsubasa's hairstyle yesterday but somehow wasn't able to do it...
+<@!193408538909868033> thanks! I have a edited version where it's just maria's hair color and eyes on Tsubasa and I find it pretty NOICE tbh
+DEJA VU
+ayyy
+30 notifications now!
+27 notificationsa and counting!
+https://maru-personal.tumblr.com/post/178015162389/i-cant-believe-its-been-2-years-now-that-ive
+Happy birthday my _bright burning beautifull huggable but also potentially dangerous sun_
+_Bowsette_
+
+_never_
+Thanks!
+I dunno
+Kids*
+If gear users met when theyre kida
+
+<@193408538909868033> <@209896097026408449> prepare to question some more
+
+
+my reaction:
+Nice!
+PIZZAGEAR
+_Symphobeer_
+Burgear
+what's next? Burgergear?
+Organgear
+yaaaaaaay xD
+what if everyone goes green
+saint patrikanade
+ayyy
+Poor Tsubasa
+KIRIKA=KANADE CONFIRMED
+dess is Kirika's fav word
+god**dess**
+"Maybe I am, maybe I'm not. Maybe Kanade was revived in me and you didn't know it!"<:KirikaDess:336656774251806720>
+_~~a few years later and the zababa duo becomes the new zwei wings~~_
+Kirika with Kanade's gear and vice versa...Hmmm :3c
+~~But seriously, what if Kanade was Kirika? That would open up a whole slew of things~~
+_Kirika is Kanade confirmed_
+Kirika and Kanade
+both have K's
+both are full with energy
+both have gay flat waifu's
+_dessaster_ :3c
+do you mean
+A chaotic team
+Oh?
+Poor Bikki's dad tho :v
+
+
+Gundamnthatsgood
+
+since it's Serena's birthday
+<:Ver:336656981144109066>
+
+In the form of _dess!_
+taking it out of context it could very much be talking 'bout Shirabe too
+and downloadable too
+Two Hibiki models already within a week
+model wise
+Seems like Hibiki's getting crazy the last few days
+<:KirikaDess:336656774251806720>
+_damn it_
+Correction: 3 of them
+I just realized four of my memes have been present!
+Nani **dess**hou?
+dess!
+Dess indeed
+Madam weishenzavna eve
+OH.
+but I don't know the full lyrincs
+Makarena right?
+well I know the song
+you lost me on the banana man part ^^''
+oh
+ehhh
+Mhm1
+HEEEEEEEEEEEY MAKARENA
+MAKARENA
+Now we just need Serena and then we have
+4⃣ 2⃣ 0⃣   🅱 🇱 🅰 🇿 🇪 👁‍🗨 🇮 🇹   🇲 🇴 🇹 🇭 🇦   🇫 🇦 🇰 🇰 🇦
+YES
+Quick hibiki eevee sketch is quick
+Check out @NanadaMaroon’s Tweet: https://twitter.com/NanadaMaroon/status/1064159450909560832?s=09
+
+Chris just stap filling her up wiyh air!
+You mean kitsunade?
+Indeed!
+<@231025503643893770> do you see the pun? :3c
+_Chat Noire_
+Do i see...
+there's a game I believe called Marooners
+the island part
+Well, it its the other thing
+No, not really
+I LOVE IT SO MUCH THAT _it blew me away_
+PUNS, I LOVE IT
+HAH
+_The fan is always a loyal friend_
+_praises best twins_
+**AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA IT'S A GOOD COSPLAY**
+And there's Sharon
+Ver's 'bout to drum! <@!188714906143424513>
+I expected her ot **ASSASS**inate me :v
+BUTT
+THAT
+EXACTLY
+I would concider it SFW...Butt.... 👀 👀
+Like, I hope it can run well on my craptop
+yeah, because 2D games seems to be very light in terms of graphic power. Atleast, that's what I think
+I wonder if it runs well on the PC
+Palutena's done with yo shit
+Gears of a machine?
+You know
+SymphoGEAR
+<@281936505902202890> we know about symphobear, but what about symohoGEAR
+
+but I'd dess in cless <:KirikaDess:336656774251806720> 👌
+I wouldn't gacha in class
+<:KirikaDess:336656774251806720>
+I'd dess in cless
+is the bongo cat making a return or something?
+how about the Thanos SNAPP
+nah fam. even Insta death isn't good enough
+this might be too amazing for us to feast our eyes
+https://twitter.com/Merryweatherey/status/1092928986215317504
+YEAAAAAAHHH
+**MILLI**
+well, Dia is also okay
+Dio*
+BUT IT WAS ME, DIA!
+https://giphy.com/gifs/vizmedia-jojo-kiJEGxbplHfT5zkCDJ 
+You thought I'm Kirika...
+aka chris :v
+That dominating radiance....
+THE T-POSE
+It's miss suffering
+I read ogawaforXDUwhen as Oga-wafor XDU when xD
+Don't hate on a ship
+ship them if you want
+¯\_(ツ)_/¯
+MÖLK
+
+
+Trumpet*
+The trombone tho
+And jiii didn't see it
+
+https://3d.nicovideo.jp/works/td55593
+Today everything is desspsting channel
+Dess
+Kiritsune <@193408538909868033> :v
+Allmost could be percieved as real holy shit!
+Is it weird that i saw mordred in kiri?
+...
+or like IA or something
+Yeah, I guess so
+And Miku as Miku :v
+🇩 🇪 🇱 🇪 🇹 🇪 🇮 🇹 🇳 🇴 🇼
+Kiribikki, huh?
+<:KirikaAnger:497114266923696158>
+Tsubasa is walking the path of the saber
+Maria tho
+<@284390402210136064> i see you like jojo
+<@456226577798135808> 👀
+Same goes for another anime called buddyfight
+Or yugioh
+<@173112001684439040> just like how ash isn't the mc of the pokemon games
+Valkyrie ranger and Knight Moonbeam for me :v
+||~~sirin-ge~~|| <:KirikaDess:336656774251806720>
+<@173112001684439040> how about both?
+I like
+<@173112001684439040>
+I see the bronya
+
+dess
+The sisters fisters <:KirikaDess:336656774251806720>
+<:ChrisDespair:607743600545234970>
+https://twitter.com/MSN06R2/status/1185819125517410304?s=20
+<@!231025503643893770>
+In reference to the upcoming crossover of xdu and Godzilla
+_get it? _
+I love that Christmas Carol :v
+https://twitter.com/N_niyu/status/1207951239335399425
+Ohh, it's that one!
+<@!209126772069892096> Where'd you find it? I love it!
+_Maria just evolved into a Kitsune_
+is it me or does genderbent Miku look like roy mustang? 🤔
+NANI!?
+wait, a bit of a more normal crossover now????
+YEETHAW
+you're asking for logic in anime?
+Let Chris be oxtopus plz <:YumiPoint:688429724103344164>
+what doesn't kill you makes you stronger they say! <:KirikaSmug:607742561414676517>
+Tsubasa
+Fried
+Chicken
+
+TFC
+
+Or Tsubasa's Fiance's Cooked
+Rice beats miku, no contest<:KirikaGlee:698939825927094384>
+_**UWU**_
+_**MAMAAAAAAAAAAAAAAAAAAAAAAAA**_
+a real dess!
+THAT. KIRIKA. COSPLAYER!!
+I LOVE IT!
+10/10
+https://www.youtube.com/watch?v=4N_sOOQvccI&feature=youtu.be
+They just need to
+DOOOOOOOOOOOOOOOOOOOGGE
+<:Ver:704169051391524875>
+https://twitter.com/pata2_/status/1354438801918070785
+FLOOF
+The gay hamster of culture
+Or something cultured <:YumiPoint:688429724103344164>
+My god I'm not the only one who knows of this anime?
+I require Lumine/female traveler and Hibiki crossover pictures <:MariaYell:336657352264646657>
+Fu Hua!
+Moar Miku as Miku
+https://twitter.com/n0101k/status/1369274469122940929
+<:KirikaSparkle:698939825876631714>
+https://twitter.com/BLAZE_PSO2/status/1374717747616116738?s=19
+Bella is all herrscher support dragon c:
+https://twitter.com/hayarob/status/1413556519354867713?s=21
+https://twitter.com/Aita_draws/status/1432811219958865930?s=20
+_nin nin_
+I see tuna
+I like
+https://twitter.com/bungpa6/status/1442130514169589772/photo/1
+_ohey, goddess Hibiki from that one XDU webcomic finally is here--_
+https://twitter.com/valerieks_/status/1483376349805182978
+But I see kiricake!
+<:KirikaShout:607741871703457812>
+https://twitter.com/mutukiriichi/status/1540599735345487872/photo/1
+https://www.pixiv.net/en/artworks/95759546#big_0
+https://twitter.com/ceroribi/status/1556184596147888128?t=Prre4QQWGKLUYJjlezHBCg&s=19
+_Yae Maria_
+https://twitter.com/keian_another/status/1613695777213403138/photo/1
+Is hibiki wearing those balloon swim armbands thing?
+Wait...
+Thanks to vannessa's Breast rockets, I think that these sentences would fit perfectly as puns too :v
+Is there a Monday Tuesday wednesday Thursday version of this?
+Herbivore
+<@279341087494242304> before they start butchering her name again <:KirikaSmug:607742561414676517>
+is it the lasting sand one or what??
+??
+I don't know why, but I felt like making laser eyed Kiri with that face of hers
+SanDESS
+<:KirikaSkeptical:586406806482583556> <:ChrisDespair:607743600545234970> <:NotLikeSword:607741098588373025> <:KirikaSpook:605209108827734017>
+
+The moment I saw the custodian with the blue hair, my mind was immediately thinking of the one from gurren lagan
+Or death and rebirth?
+And if Sham-Ha Miku is like HoV, we'll likely get a battle of the century
+```
+miku trying to resist from within
+```
+I feel this is Mei vs HoV all over again. <:KirikaSpook:605209108827734017>
+Even a prequal to the game HI3 <:KirikaDess:336656774251806720>
+Atleast, if a god could be killed
+but what if god's gone?
+technically it's the cocoon, but I guess you could say that
+And villains assemble hasn't been marked?
+Every episode?
+Bold of you to say she's being measured
+And the fact that gridman and the other collab is basically canonically in the same universe <:KirikaAYAYA:588101498026721367>
+Can't get any signals? Don't worry, just blame it on GHOOOST
+shem ha and enki be like adam and eve <:KirikaAYAYA:588101498026721367>
+9 days left bois
+THRILLING!!
+~~_activate windows_~~
+8D
+SYMPHOTON
+you mean...
+THE MOST FITTING SYMPHOGEAR LAST DAY THING EVER
+https://cdn.discordapp.com/attachments/402834902237708289/627496269652295680/symphogear_saturday.jpg
+wait what?
+<:CarolSmug:617040484111745027>
+<:KirikaAYAYA:588101498026721367>
+Which is kiri's number
+Cause the writers of the show stopped it at 13
+Keep dreaming, kiddo
+<:ChrisDespair:607743600545234970>
+<:ChrisOi:586551700987576330>
+<:ChrisOi:586551700987576330> 
+Didn't the anime end at episode 13?
+<:ChrisCharge:586320496346529792>
+Me talking about guitars: I wanna play china grove someday
+Me talking about guitars in this channel:
+_Lemme play **TAKE THIS, ALL LOADED!**_
+I know right?
+https://www.youtube.com/watch?v=Um88HJpC_jM
+So I found this youtuber today... =v=/
+<:Ver:336656981144109066>
+surer
+_let's make it a ver epidemic_
+<:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066>
+<:Ver:336656981144109066>
+<:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066>
+<:Ver:336656981144109066>
+<:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066>
+
+<:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066>
+<:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066>
+_Dats a dis towards symphogear_
+OHHHHHHH
+<:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:Ver:336656981144109066> <:TsubasaZesshou:336656472362713089>
+But with each revive, the quality gets worse sooooo....
+<:Ver:336656981144109066>
+Sympholympics
+Why? <:HibikiOhNo:586337444597596202>
+And I'm Dutch soooooooo
+_symphogear had begun already_
+And Chris it's just a normal name
+<:ChrisDespair:607743600545234970>
+They'll have great names and amazing hero lives
+<:KanadeRooster:336659950258356227>
+WE CAN HAVE CHILDREN <:Germain:421434126856486912>
+<:GenjuurouThumbsUp:336657189475188740> <:HibikiAAA:620079684109205534>
+<:KirikaDess:336656774251806720>
+And I'd name mine kirika
+And the friend hibiki meets a woman named tsubasa
+A guitar can be a weapon
+And yes
+And i have these to offer too
+I have some sprites of weapons
+
+But not if you love Symphogear
+<@!263983345669505025> I know your pain  ;_;
+I'll be going to bed now. I hope that Article 13 won't be passed because I still want this internet to be a memeable place Y_Y
+So it's been announced that Article 13 has passed unfortunately...
+but you did laugh
+https://cdn.discordapp.com/attachments/617271723447943169/662781532410216449/images.png
+
+Hears about the potential war that could happen thanks to trump.
+_Me to the people who wants to take back USA from trump_
+Not yet here in Holland
+They do highly advice it outside tho and make it a necessity to do it on public transport, but outside it's not necessary.
+I fucking know right?
+Dutch Government: Why do people want to take off masks all of a sudden?
+Also Dutch government: _is discussing if people must put on masks....AT THEIR HOMES._ (but not make it a necessity outside yet)
+
+Seriously, my country right now is doing a piss poor job at combatting the virus..
+that's when you know it's not a good idea to go at war
+I see... Thanks for making me feel more relieved about this. I still feel very terrible for the the citizens of Ukraine that they have to deal with this.
+The Ukraine thing to me as a European (Netherlands specifically) genuinely concerns about if Putin's army stops at just Ukraine or not. I only hear/read tiny bits about it so far.
+seems like it
+<:VanessaCracked:639136452600397829>
+> Go back to tumblr
+I haven't even left that site to begin with
+Welp, that went from no hopium to straight up nopium--
+So my mother's left hip might possibly be damaged if what I heard from my mum is correct.
+Yare yare
+Me with Godot be like: <:KanadeBlush:672455329451343882>
+So this basically
+They're not the circus, they're the entire goddamn industry
+Perfect
+Let the cryptobros and cryptohos go through more of that
+A big brain move if that will happen
+_for now_
+Very aged
+~~:^)~~
+~~is in a weeb-ish server~~
+https://tenor.com/bHvUX.gif
+https://tenor.com/bc1ue.gif
+me who plays genshin and honkai:
+_Thanks to letters being letter with the I looking  like an L I am immediately reminded of weird aL_
+_That's not the only thing that can be used for ( ͡° ͜ʖ ͡°)_
+Lol, us using Google authenticator go _woke_
+Like thanks, I'm already woke, woke up early
+~~well I rather get ponged~~
+_Atleast we give birth to great DJ's_
+or pings
+
+calm down
+calm down
+calm down
+his accent makes it a bit hard for me to understand xD
+https://www.youtube.com/watch?v=WUhd4hV6ZD0
+For a second I believed it to be Kiri's voice actress, but it's Risa Taneda
+oh, I didn't know it!
+Thanks!

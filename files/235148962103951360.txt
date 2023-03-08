@@ -1,0 +1,2 @@
+Logging channel set to <#993355777379139605>.
+Prefix for this server is now -.

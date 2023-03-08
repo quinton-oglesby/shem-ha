@@ -1,0 +1,15 @@
+thx
+any 3d pencil sketch
+What genre u decided for that game?
+<@176830925949108224> are u hv any godot tutorial ebook?
+i see, until godot 4 release like nuclear, even my laptop specs not support vulkan <:HibikiSmug:672655850518609940>
+ok, maybe i'll try with godot
+i'd like to make fangame , whose concept is similar to this
+https://www.youtube.com/watch?v=LpSyJ626KBw
+but im not sure about game engine and the script for movement.
+i think about model, lowpoly is good enough,
+may you help me about game engine recommendation?(my ram not too high)<:CagliostroSmile:672861875385401344>
+scalable bones looks good for propotional, if u perfectionist its valueable <:ShirabeToast:672245704118501376>
+i hope i can make game with godot,and using these <:ElfneinDrowning:336656417035517952>
+<:ShiraBean:736607747834904667>
+

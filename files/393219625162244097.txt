@@ -1,0 +1,8 @@
+rv_pull "Grand Opening" 5
+rv_mycard Secret Bikki
+rv_mycard
+rv_mycardlist
+rv_gachalist
+rv_help
+rv_mycard Rock, Roll, and BANG
+Chris

@@ -1,0 +1,2175 @@
+We'll start anime an hour earlier next week! (6 PM US Eastern / 2200 UTC / 2300 British summer time)
+It's time to watch music club girls doing cute things! https://lets.rabb.it/gX1c2b2oGM
+That's 8PM CEST! This week, anyway, US summer time ends in a couple weeks.
+Episode 10 is subbed and current for discussion in <#351966524887793675>! https://nyaa.si/view/958574
+We're finally up to date with Commie subs! ep 8 https://nyaa.si/view/955880 ep 9 https://nyaa.si/view/956267
+The cutest mod has spoken!!
+We moved all previous discussion in the AXZ channel to <#336298029889880064>, so you can join <#351966524887793675> without fear of spoilers past episodes 7! But if you want to talk about unsubbed eps, head to <#336298029889880064>! Nana wills it!!!
+Hey, everyone! Since nature has determined we may not have up to date subs this season, we've created a new channel! <#351966524887793675> is open for the latest about subbed episodes, but for the ABSOLUTE latest Symphogear episode discussion, go to <#336298029889880064>!
+Hooray, episode seven is subbed! We're only a week behind now! https://nyaa.si/view/951549
+Hey all, since Commie got episode 6 out this morning, ep 5 stuff is now okay in the other spoiler channels! Hopefully 7 will be out soon! https://nyaa.si/view/949911
+Everyone send some warm thoughts to resident bundog and cutest admin <@!127644949884698624>  who's spending the next week in the hospital recovering from surgery! Have fun opening a ridiculous number of Hearthstone packs, and we hope you suffer minimally!
+Picture us coolin' out on the fourth of July!
+The rewatch starts May 10th and sessions are at 9PM US Eastern (so the first episode rewatch is at 0100 UTC May 11 because that's not confusing!)
+Hey @everyone, the subreddit is holding a rewatch of all 4 seasons of Symphogear soon! In addition to that, there'll also be a live rewatch hosted on <https://cy.tube> run by <@127644949884698624>. If you're interested in participating, there are a few steps you'll want to take in order to make sure everything works properly. First off, you'll want to pick up the <@&567113097907535882> role over in <#448237561085952001> so you can easily keep up with rewatch related updates and reminders. Once you've got that done, you'll want to install tampermonkey from <https://tampermonkey.net/> and then cytube's google drive userscript from <https://cytu.be/google_drive_userscript>. This will allow you to watch videos on cytube that are hosted on google drive to make sure that we can provide videos that are high quality and with (hopefully) no network issues. After that, you're done! The rewatch link will be <https://cytu.be/r/symphogear> if you wanna bookmark it and if reddit isn't your thing, <#371105434771390465> will be commandeered for the duration of the rewatch to provide a spoiler-free place to talk about the show after each live watch session. If you want more information about the reddit side of things, take a look at the thread here! <https://redd.it/bedt01>
+
+If you have any questions, feel free to ask Alice.
+Quick update on moderation issues! Kriisa and Melua are returning to staff, thus ending my brief iron rule and restoring balance to the world of Geah.
+I'd like to say a few things about Tuesday night. We aim to foster a welcoming environment that supports serious discussion, even vigorous disagreement if it is respectful. However, egging on arguments and stirring shit doesn't help that environment. I'd like to encourage everyone to please be mindful of your behavior.
+
+Alice's actions Tuesday night directly escalated the situation and are part of a pattern of similar unbecoming behavior. She does not meet my standards for effective and impartial rule enforcement and will no longer perform that role on this server.
+
+I am currently the only staff member. I should not be the only rule enforcer, both to ensure balance in staff decisions and to ensure that we have appropriate coverage for rule enforcement. I am actively seeking additional staff to meet these goals. The current rules about addressing concerns with staff privately will still apply once this process is finished.
+
+I have also removed a number of graphical assets from the subreddit and Discord that have had the creator's consent to use revoked and will have the rest replaced within three days. @everyone
+Happy new year, folks! A couple quick administrative announcements. Melua will be demodding for a bit to deal with some personal responsibilities that will be picking up in the new year.
+
+We've been having some staff discussions about how to best apply our modding principles. As a result of that and the current staff team size we've decided to have me take on the server owner role and (for now) sole Custodianship. This shouldn't really change anything for most people but will help smooth out our internal processes a bit. We're all looking forward to another year with y'all and hope to keep making this a great place to be!
+**汉子!**
+All I wanna do is *ban* *ban* *ban* *ban* and I *Noise noise* *Nephilim noise* and take your relics
+Pinned post in this channel would be the fastest whY to start on that I guess but then only one of us can edit it, right?
+Or LibreOffice
+.......Thanks autocorrect
+Sakura U-boat?
+Easy enough....... Except for the coming up with a username bit
+Makes sense... I'll be travelling Sunday morning, you want me to get it running Saturday or wait till I'm at your place Sunday?
+At some point I'll need to merge it with code for the discord bot but for now it'd be easy enough to just modify the rewatch code until that's ready
+That would be pretty trivial for me to do if you want to come up with a post template
+Hahahahaha
+*what
+Yeah, that'd be pretty easy, just go see why the CSS classes for the various page elements are and come up with a color scheme
+Oh, that reminds me, CSS to-do item: try to figure out how to get better randomness or at least establish how the current scheme is weighted
+Did we ever establish what the limit was?
+Death Thirteen
+Haven't really looked into it with the Pixel but it looks like that may disable some stuff you may or may not care about (like android pay)
+no
+Well,the two aren't exact copies, yurigirl has a mod to text flair and to provide a rounded background for post titles that we decided not to implement on main
+But I guess that can't be helped since it's the front page we want to check
+So many changes
+I can't select anything on the right, what the heckies
+Oh it covers the sidebar lol
+logo is set from the sub settings page
+If you want just the bit to the right of the icon, div.entry
+div.thing
+The name of the class is thing
+Inspection tells me there's a thing class that covers the entire row, you probably want to set an opaque background color on that
+Yeah, no need to keep around fallback images once we've verified the new changes
+a:link for unvisited links and a:visited for visited links
+Either I can't tell the difference between visited and normal or everything is getting shirabe
+wait no that's cdc, that's green-weighted
+Oh, the links are actually light and red
+_ctrl-shift-refreshes a bunch_
+uh
+(Theoretically, really idk)
+Like, it's not unreadable by any means to me, but I could see how someone a little differently visually abled might have  issues
+I personally wouldn't mind a little higher contrast on the text...
+Sorry, can you assume I wasn't reading anything at work and have no idea what's going on
+Just, the list of posts doesn't parse as effortlessly
+I feel like this is a little hard to read but I really don't have the design background to say much more specific than that...
+Are the vote buttons Christmas trees
+maybe next season at this rate
+jesus chris
+Gotta make a Symphogear abridged series now just to hear Hibiki go "hail satan"
+Actually, I should see what it would take to implement a discord client in my copious spare time
+I mean, I can't connect with irssi
+I guess the Discord API documentation refers to servers as guilds because why not
+mmmmmmm
+Okay, that's better, I'm back in the proper reality
+Okay I think I'm probably getting screwed by my habit of incognito, let me do this like a real person
+let me click something again
+shit
+wait
+Inspector tells me a link I have definitely neither followed nor entered is coming up 255, 225, 252
+Looks like ice cream
+The link color, or?
+It is, it's just inconsistent and that bugs me!
+Also would you mind if I stick some opaque bg color behind the tiny links above and below a comment? They're occasionally unreadable.
+Any reason I shouldn't apply the background color in the sub info to the link info? It's currently still blue
+Yeah, those seem like a permanent fixture
+Okay, let's see what's actually changed
+Do you mean the theme selection? Are we done changing the CSS?
+<:Elfnein:336656417035517952>
+and that got reverted
+Yeah, I just applied the background to one single element class instead of various levels of comment like it was now
+We should be able to make comments readable without *completely* obscuring the bg image...
+I disagree but I also kind of want to just go to bed
+Okay, hang on, I'm going to try something
+Did you add all the res:not stuff in this area?
+Fix how?
+Well, it's a green
+Refresh for the links, let me dess the linkinfo pane
+uh
+Are the sidebar links recognizable as such
+Okay, here's the question
+ooh are we getting party hats
+No, that thing seems to be coming from some global reddit css
+okay, it's because something is overriding it in the title it seems
+.....
+The important on the top-level a rule was preventing me from overriding the color in the submit box, but that's fixed now
+then, no
+Is there a particular reason we have !important on the link colors
+okay
+let's see what color is that green
+I misinterpreted what you said
+Ohhh you mean the okay i get it
+Where's the image
+I can change the text in inspector
+wh
+It may be the important
+loooooooooooooooooooooooooool
+Is there any reason only links with the title class are pink at the moment? Or is that what we want to change, make it all of them?
+Okay, let me do those two things
+Okay, changing div.linkinfo to the same color as div.titlebox (where the sub name and online user count are)
+Blue, not green?
+Oh, did you mean the buttons, not the actual post info pane?
+Alice, are you okay
+you
+wait what
+Where did the green #001e03 come from?
+<:ChrisEmbarassed:336656400472080386>
+Not too crisis mode!
+Mm, I would prefer tomorrow, honestly, it's maybe half an hour of work to get right but I also don't want to screw it up
+I guess we can go copy/paste everything e're setting explicitly now and see what the site CSS uses...
+ワケダ
+"The existing CSS" mostly means "all the implicit stuff that's actually set up by the base reddit CSS and not by our stylesheet"
+Of the three, the first is the risky one
+That's the only thing where I feel usability suffers with the current style, aside from just the lots of green but
+The highlighting of new posts is super subtle, I think you said you liked something that happened with that before...
+No, I mean, that's fixed, and that would have been really awful
+fixing the comment button legibility is probably most of the important stuff buf
+Well, the footer is unreadable, I'm looking for other stuff like that
+okay it's back
+Conflict detection wouldn't be a huge pain but it's not really meant to be used by multiple people at once
+I fixed the RES comment alternation to actually be Kirika's color, I messed it up with the color grabber before
+Okay, there we go.
+Oh, wai,t I need to comment again
+Yeah that's what I was working on before, that should be fixed
+I'm guessing half of the changes I thought were redundant are actually fixing res stuff so please take a hard look and see if anything else is Bad
+This is actually offensive
+Guess I'm installing RES
+Hmm, I thought I left all those rules alone but maybe they were interacting with something
+Do you have RES on?
+I don't particularly like this specific green and it's off model but I dunno if anyone else has an opinion either way
+Should be identical but simpler
+Okay, how does it look
+(Was playing with making elements actual Kirika's color from official pics but it's different enough and may require enough rejiggering that maybe not)
+Mm, nah, nevermind, the cost/benefit ratio may not work out at this point
+Oh right so
+I can't wait until someone flags your YouTube video of every shot of mom coughing up blood
+Editing via a form in a browser is basically the worst thing
+(This is also forcing me to learn more about reddit's CSS which is a good thing)
+I'm mostly not a type A person *except code*
+Eh, no biggie, I'm being extra cautious mostly cuz we've had problems with confusing CSS before
+That's a good shot of Ver fucking dying
+I was gonna try seeing how alternating the entry background color with Kirika gear green looked but I actually couldn't set it, something is probably !important that doesn't need to be
+I'm trying to simplify the changes now, there's a fair amount of redundancy and some of it is actually making it confusing to try changes.
+yaaaay
+Well, since I'm on that level of mistake...
+that should probably be 0000ff
+html[lang="nt"] .thing .title { color: #000022!important; }
+https://nt.reddit.com/r/YuriGirl/ moooooooostly undoes the theming, there's a few loose ends to clean up though
+Maybe color balance, bleh
+Also, I do like the way this looks much better on my desktop, wonder if it's a resolution thing or I've just been looking at it too much
+You'll probably be quicker on the draw than I will be this week but definitely noted!
+bwendin' time
+Actually, no, that's the direction we want really, just a different approach
+I glanced at that earlier but it seems more concerned with linking reddit posts to channels
+night~
+(RES off)
+How does that look with borders
+I should hit up the .md too I guess
+Now it's consistent for each comment
+How does that look?
+If there is one in this image
+Let me force that to a shaded kirika green, I suppose
+I'm not sure how I feel about it with RES off
+wan wan
+Typo, probably, I made it kirika light green
+Gonna go round those borders too, the inconsistency looks bad
+I found this out by inspecting the thing I thought you were talking about and seeing nothing on the tabmenu, seeing nothing on the li, but seeing a color set on the a element
+In the ==TABS== section
+It is, in fact, in our stylesheet
+There don't *appear* to be any rules explicitly dictating ul.tabmenu color, however, there is a .tabmenu li a rule from somewhere
+It's from.the subreddit settings page, not the css
+That text is hover over on the Hibiki icon in too ldft
+I mean, pretty much anything is fair game if we know what we want to change imo
+Maybe a bit more attention to on-model character colors
+Yeah, what I feel we could do better in the future is upfront design work (and not rushed)
+I guess I feel like most of the tricky stuff is for things I expect we wouldn't change, like the floating icons in the header and stuff, but maybe that's a misperception
+_shrugs_
+(The one nice thing about the editor is the previous revision browser!)
+Yeah, the diff is pretty straightforward
+We probably only need to spend a little time doing that for your mods from today if we think we've consistently recolored stuff (I haven't been keeping too close tabs on the chat)
+I've been adding the rules for the nt subdomain to "undo" our changes right under each change, that's where I left off last night
+I'd prefer to not re-specify stuff that we're leaving identical! Keeping the style simple makes it easier to work with imo
+Only question I have is whether we actually want to re-set the size and padding and border style of all that stuff, or if we just want to override the color
+Yeah! And you may note I put all the themed changes between the HALLOWEEN DESS comment so at the bottom is perfect
+So if something is setting a.voteWeight, but your rule is only on .voteWeight, it probably won't get picked
+But keep in mind if two rules match something and one rule is more specific, the CSS engine will prefer the more specific one
+It's just an a element with a different class, I'd think
+Oh, that's a res thing in the image perhaps, I'll get back to that later
+i missed some color rules outside of the halloween section dess
+"highlighting submissions still makes a green thing pop up"?
+oh right this isn't actually irc that looks bad
+_is going through and setting obvious stuff now_
+Okay, so how does the theme off subdomain look
+sure
+ok fixed again
+oh lol you nuked my change
+wait which bit
+a { color } should do it
+I think it's fine!
+Good, I can't find that tanyway
+Hm?
+(Shouldn't be more than an hour of checking left)
+Okay I guess I have stuff going on tomorrow so let's see if we can finish this up tonight
+Okay, i'm going and fixing up nt stuff now
+<:MariaSunglasses:336656798687690752>
+You submitted before I submitted, as is the natural order of things
+uh no that's what I'm saying
+Okay that submit text is fixed
+of course you would test submission before i would
+oh on the submission page of course i didn't test submission
+content.h1 huh
+Or is it just getting that ready at this point?
+Do you think there's any changes that would be useful to be made that aren't fixing up nt
+(i.e. css is done, bots are done, work hell is done)
+I'll have to make Dangerous Slamshine in a couple weeks when I actually have time
+For reasons that are difficult to explain this makes me want to make Space Jam mashups
+there's your subs
+there
+
+あなたのハートです！
+it's reddit
+Weird cuz parsing C++-style is *so much easier* but eh
+Yeah it only lets you do C-style comments for some reason
+woof
+In twenty ish minutes
+
+If you could actually check it out and test it locally and push it and merge changes like a real version control system
+So I'll go fix the background stuff
+I'd prefer we fix it to match the main on the test
+err
+Cuz I want to be able to just copy-paste the bottom bit of the css and have it work as expected
+I fixed the axzborder thing already
+That's part of the same edit, should be taken care of
+That's a mid-tone gray
+That would be a quite noticeable difference
+(I can't tell the difference at a glance)
+In four weeks we'll just rip out everything below HALLOWEEN DESS and all will be right
+Not worth the effort imo
+<:KanadeRooster:336659950258356227>
+You can probably just save it from the Symphogear page and reupload itntonthe yurigirl page
+eh
+<:MichaSmug:336657136065052673>
+I don't think so, I just changed everything to 369 that was 0079d3
+weird, should anything ever be 79d3
+ah okay it's not quite right in non-res, odd
+At least the post title stuff, and I'm seeing the usernames come up as 369 in res, let me try without
+Refresh, I think some of those may be taken care of
+
+Okay, let's grab my laptop and fix that res thing
+dess dess
+okay yeah
+Or I don't see it
+That's something we'll need to fix on application I think since I think the original background got deleted?
+oh the old one
+er what
+Yes, but you know what you were looking at when you said it
+Can you delete the remarks that don't apply anymore?
+Can you check those while I'm making the buttons?
+イエーース！
+Now I need to reach back in history and make the theme selectors
+In Halloween I think because it took us a while to find the specific elements to tag
+And those link exercises got rid of most of the !importants
+okay that should do it
+OH I SEE
+Wait, is this spooky RES or normal RES
+デデデデーーーース！？
+and possibly the distinguished RES thing
+fixed the redditname
+halloween and not
+how do the link colors look now
+oh duh nothing is showing up as visited i'm in incognito
+Refresh, at least the second thing is fixed
+Frightening
+Just discord
+wait there goes the post title, let's get that specific element too
+Changed links under the tagline instead of everything under the sticked thing
+Okay, there we go, I think
+ありがとうなのデース
+Okay, what are you seeing on main
+It was all the little details in actually implementing it.... Which will probably be easier next time now that we have a kit if that identified
+That wasn't really a pain point .. at least not to me!
+slepir iem
+okay i'm super sleep now
+At higher likelihood, yeah
+live!
+Doing one last comparison between the two to make sure there's no changes I've overlooked
+So that'll be pretty straightforward
+Yeah, having the default theme be the default theme is easy, the problem is we want to keep the default theme selectable, but not as the default theme
+If you want to just remove it, we just remove everything under /* ========== HALLOWEEN DESS =========== */
+So, if you want to leave it selectable afterwards, we basically just remove all the "nt" stuff and put a different language prefix on the halloween stuff
+Oh, I see
+huh?
+done
+How's that?
+wait there it is
+oh, we don't have a rule for that at all, interesting
+okay got that
+Ah, that needs an extra domain class at the end
+ty
+(also i changed that and the comment trees)
+What about the border?
+white and rgb(247, 247, 248)
+That's okay, I can look at that one from the main sub
+Blame <@456226577798135808>
+aha
+Oh, a lot of this is the additions from this afternoon, which didn't get subdomained, basically
+pink links should be fixed
+Well, which of us has real visual design experience?
+(Since all the changes are in the HALLOWEED DESS section)
+Basically yes; everything at the bottom that isn't language tagged should be language tagged, and everything that *had* the language tagged should just be removed
+How well do you understand how that's being done?
+Wait what are you doing
+oops i should plug in my laptop
+I mean, that's a flattening of her side view on that character sheet
+hmmmm
+16777216 bytes is probably big  enough to log anything in discord i guess
+But I want something to plug into the bot creation page as an avatar primarily
+Yeah, it would be nice to have some Ryoko emoji
+Discord
+<:MikuBliss:336657233712513024>
+#developergraphics
+Or maybe I should just say " <@456226577798135808> please make me an avatar for the bot using this part of her character sheet from the wikia"
+Hmm, maybe I should up the threshold on the magic lasso a bit more
+
+I need a background for this image
+Why 2?
+What would ever be a sidebar removable situation?
+I'll prioritize bot activity, then... Ive started looking at stuff and it shouldn't be a huge deal
+I would rather not flaunt that tbh. Better to approach this as a partnership and not an antagonistic relationship.
+Hey cool I have logs for that session
+Oh, right, the file doesn't get flushed, I guess I'l have to take her back down
+Hello!
+q
+she excepted on her own message, fantastic
+but fair
+Okay, that's kind of awkward
+aoeu
+no
+waku waku
+oh
+Guess I should test logging
+Okay, well that works
+But I'm gonna enable message reading for testing in any case
+Maybe I'll suppress logging here or something idk
+Fair!
+I'm giving the bot permission to send but not read messages here
+Guess I'll just have to hook her up and try
+<@285555416056856576> ?
+<#336297587802112011> ?
+I bet I have to do those the same way huh
+Hmmm <#336297587802112011> <@285555416056856576>
+_stares at <@456226577798135808>_
+St. Germain (also sometimes referred to as Master Rakoczi or Master R)
+Okay I never noticed this during speculation discussion before AXZ somehow but
+We've had this conversation and I'm having difficulty finding it in search
+<@!127644949884698624> err, what did you want Ryoko to say on member join
+Pretty sure this will actually work when I'm ready to get it running
+that I like static python analyzers why did i not care about pylint before
+I have decided
+Indecision!
+sauve moi
+booby lady
+I'm gonna take the time to go cry that I didn't think to go grab digital copies of ping pong girls music sooner
+www
+onegai shimake it so
+おねがいします
+blue isn't a character color for Ryouko anyway, I'd pick a purple from her character sheet if you were gonna do that
+There's probably more thought we could put into it but I'm not sure how productive it would be to take UX cues from a troll's offhand comments!
+I guess the simple solution would be to remove that bit.
+I'm kind of torn since on the one hand I want to be sensitive to UX issues but in the other hand one literally says subreddit where the other doesn't
+What actually did he say?
+no
+Rufus the Dog Jedi
+
+I need to spend some time sorting out my hosting stuff next month but I can run her from my desktop until then
+tomorrow
+<:KirikaGay:336657049540755457>
+KirikaGay
+How silly
+one more lovely
+I did a thing again
+Oops, I messed up the log format for reactions but otherwise gureito
+Oh, that's more details than I was assuming......
+Is that a suggestion or
+And then it will be eurobeat time
+That's okay, I'll find a picture of this dude, and then everyone will be all "why does this Discord have a solid gold embossed portrait of some Italian guy"
+Time to look for a picture of DUSTY
+:SolidGold:
+pff
+_paraparas_
+SHINE FOREEEEEVER, CAN'T WAIT TIL TOMORROW
+BABY YOU'RE SOLID GOLD
+REACHIN' AND I DON'T WANNA LET YOU GO, WHOAAAAA
+BABY YOU'RE SOLID GOLD
+wait shit i guess she crashed
+But where are my filenames............
+<:HibikiShock:336656371611074580>
+oh that's where my urls went
+(and that's the REAL reason I haven't done anything, no bandwidth for sorting that out yet)
+(Though when I upgrade my server to the current Debian stable it won't be as much of a pain because I can't upgrade to new grsec kernels, but that's another issue of its own)
+I want to find as many issues before sticking her somewhere it will be more of a pain to make changes, basically
+Well, that's why I'm running her locally
+Oh that's written
+ugh do i have time te mess around with bots or should i go back to writing tests
+she says from her desktop, her phone in her pocket
+I wonder if I can log in from two places at once
+Need to get the filename info though which seems to not be where I thought it was
+Okay I can search Danbooru for md5s and grab the source link from the result
+Also, rats, looks like i'm not saving all the information I thought I was for embeds
+Hmmm, I dunno what a good solution is then
+We'd probably want to.give her manage messages in the art channels so she could just edit a link in, reposting with previews would get messy
+The stuff saved from Danbooru it might be easier to figure out the source by visiting the post page, can I actually find it from the filename though
+Well, it just took saucenao about a second to identify this Kirika pic
+My only regret is that I forgot to add something to flush the log output so it gets written after every event...
+Gotta get some testing in before I"m confident enough to move her to a server, and media spam seems a not bad time to do that...
+Okay I definitely read that the wrong way coming back to this channel
+
+_sets her git user name to Lyssa Starbow_
+I'll have to remember to take notes for secret shenanigans to add to the bot
+Also, it looks like I can set my avatar via the API
+<:KirikaGay:336657049540755457>
+or, rather, will do
+Probably pretty well, since all she does is wait for saucenao to download and analyze an image in a separate thread
+Oh I guess I should log message deletes
+Well, I think each message gets handled in a different thread so it shouldn't be too bad, but we'll find out~
+(It's gonna be fairly easy to get working and not too much harder to make it usable, I just need to clear my work plate before next week)
+I pulled the urls out of the saucenao extension too so I can play around with that.... tomorrow? This weekend??
+oh hey it's that video
+yep
+Oh, I see, source doesn't get expanded
+デデデデーース！
+Okay I guess that works now
+<:KirikaDess:336656774251806720>
+oh wait that was a regular message
+But something in <#336297674707828747> did
+Those reactions didn't get logged
+...weird
+Oh I forgot to actually log that ehehehehehe
+She only says that here, by the way
+life ist gut
+
+tch
+
+`I'll put porn in you`
+yeh
+yeh
+
+a dict........... with no specification........................... thdiscord.py
+
+what even is this
+ATTACHMENTS
+I'm trying to find the urls and descriptions so I can try to identify Danbooru pics from them and pull out the MD5 for searching, still can't seem to get that
+No, embed archiving
+
+
+
+
+For <#336297674707828747> it might be useful to source Pixiv, too (not <#336297808221044736> because Pixiv won't show previews for R-18 posts)
+At some point it might be useful to have a tag blacklist for <#336297674707828747> searches but that's mostly to prevent active griefing (e.g. someone searching kazanari_tsubasa sex in <#336297674707828747>)
+The first page of an order:random search surely would work out
+I guess we could just generate a random ID, check whether the rating is appropriate for the channel, and then if we need a safe post check for a tag blacklist (cleavage, panties, etc.)
+Mmm, no, reading the rating guide maybe you're right
+I dunno, something sufficiently old but sufficiently recent that current standards applied
+We could limit results in <#336297674707828747> to ids above, say
+Nico only has down to sm9 (which is fantastic)
+Wow, post 1 still exists, ｎｉｃｅ
+I thought it was more stringent than 4chan "sfw"
+Uhh? Do you have any examples in mind?
+I'll need to actually go pay for a Danbooru account at some point I guess
+Have her automatically add rating:s in <#336297674707828747> and -rating:s in <#336297808221044736>
+Porn finder that actually works
+Oh yeah
+Maid RPG character creation
+dice
+hau
+Right now I'm logging leaves but doing nothing else, hmm
+So what other friendly robot capabilities would we like to have
+Ugh, I've changed too much stuff about the file format, I'd really better bump the file revision
+please ryouko don't crash before the next person joins the server
+Are you trying to tell us something Alice
+These passwords
+Regardless
+Also *takes notes*
+But I can't get to madohomufisting
+Okay hm that works fine
+Wait it is does that mean I can't see it anymore
+Agreed
+Can we say tagging that as such is okay though?
+-18 reliably, it's just more of a pain since it requires more content
+I think I can detect R
+I suppose there are e.g. people logged in to Pixiv all the time on their phone
+I suppose
+After like 2k of css because twitter is utter utter garbage
+OKAY THEY HAVE META TAGS I CAN USE TO DERIVE WHETHER THERE ARE MULTIPLE IMAGES
+oh my god why does twitter have this giant inline stylesheet, why
+パンツください！！
+Let me be clear: any link to a Pixiv album discoverled through Danbooru has to link to Danbooru for that reason, regardless of R-18 status
+But it links to a Pixiv album, not a single post, so we'd link to the Danbooru image because we don't know that *that* particular image is the one out of the album that would get previewed even if it's safe
+Pixiv I can actually just load the first 512 bytes or so of the page and see if the twitter card image is the Pixiv logo
+Because it's gonna fucking change in like a week
+nnggghhhhhh I'm not sure I want to figure out how to scrape this info from Twitter
+Okay, first image
+https://twitter.com/cg_orange_inc/status/921729829929607168
+Actually, that raises another question
+If it appears to be a link to a physical image file
+Yeah, I think it's useful to have redirects for known locations (like given a hotlink to a Pixiv image, find the actual post page and use that), but otherwise can't truss it
+The problem is it all depends on what the uploader did. If they just linked to the source and had Danbooru grab the image, that obviously worked. If they downloaded it, physically uploaded it, and linked the source as the actual image location and not some landing page, then it's not reliable because that won't always allow hotlinking.
+oh fuck
+Basically, yeah
+I'd rather not physically re-post the image, it's more work and more bandwidth
+So yeah, link to Danbooru for that
+oh it's a multi-image
+.....what happen
+(Or twitter, or whatever)
+Well, I'd say we could just http://www.pixiv.net/member_illust.php?mode=medium&illust_id=39003562 for single-mode sfw images
+But that also has the issue where we won't show the image you want necessarily... so we should do the primary link to Danbooru with hidden link to Pixiv for anything where the source is a manga-mode picture
+Okay, I guess it shows first image, or nothing if R-18
+https://www.pixiv.net/member_illust.php?mode=medium&illust_id=65486271
+Ha, the front page of my Pixiv suggestions is all Chris
+Yeah, I don't think manga posts ever get previewed, but let's see
+Ohhhh, you meant on Pixiv
+I wouldn't think so, but yeah, let's!
+Uh, but does Danbooru preview the rest of a pool from a post
+Random Chris https://www.pixiv.net/member_illust.php?mode=medium&illust_id=40478064
+Oh, okay
+Random porn https://www.pixiv.net/member_illust.php?mode=medium&illust_id=65539797
+(But yeah, for #sfw-part posts I intended to follow through and post the source directly, good thinking)
+I mean
+Okay, I threw in leave messages here
+Gay minds think alike☆
+The question then becomes, I suppose, is there something thematically appropriate that would contrast well with the gold?
+The current image has orange which is nice and Hibiki-themed
+Not a huge fan of either, and I think it's the background color
+The difficult part is the "okay, here's a URL, what do I do with it" part, which has nothing to do with actually being hooked up to discord
+Well, I'll be able to test that on my once I have time to work on it...
+Regardless of what Twitter wants you to believe
+Maybe promote timestamps to the object header because everything happens at a point in time
+I really need to make an archive format v3 and convert everything I have to it
+May as well
+(But you can't test receiving and sending messages from Discord without receiving and sending messages from Discord)
+(And that's easier to test in an isolated fashion now that I have the basics worked out on detecting stuff)
+We can add that later
+Not right away I don't think
+hahaha that works
+<@243562261107441676>
+shabada, do
+Now would be fine
+Oh maybe because it's not done in a coroutine
+But not the message
+Okay I see the event logged
+sec
+But no join...
+Yes, she's spoken here before
+Anyway I just gave her send messages permissions in <#368973801561653253>, may as well hang back until someone joins
+I'd rather see everything work once but
+It helps if Ryouko has write permissions to a channel she wants to speak in I suppose
+Oh
+Neither of these channel lookups are failing.
+One of these channel lookups must be failing
+why did you not do anything
+_stares at Ryouko_
+okay none of those pics crashed the bot good
+Nah, that seems prudent
+<:MikuSad:336657015961026560>
+It will be easy enough to test that without needing to hook it up to Discord once I've gotten it written
+No, this is work stuff
+nnnnnnnggggggggggggggggggggggggg
+The bot didn't exit again and I'm almost done reviewing this code
+Can this client just exit after a period of time? Guess I'll really need a watchdog.
+...weird, there's no exception, just a clean exit.
+Mmm, I'm out getting some food, I'll have to check when I get back.
+I don't have a strong opinion between the two!
+(I think it looks okay as a standalone image)
+How does it look over banners?
+Oh right
+There doesn't seem to be anything referencing %logo% anymore
+Because reddit magic
+You need to sawe the CSS again after changing the images around
+But it's not (I think) too busy
+I think it better matches the style of the current set of banners, the flat-colors Hibiki works better with the fanart banners that had less going on
+I'd be good with that
+It will feel weird for a while and then it will be normal
+If you want to change the Hibiki to the new one, maybe just do that now, and we can remove the links in a later change.
+Either keep both banners in or take them both out imo
+?
+(0, 0) is upper left in CSS
+Uhhhhhh, that element is I think absolutely placed, the top: attribute specifies the location of the top border
+The latest image? It feels a little small but I don't know how easy it would be to make it much larger
+I know what would cheer me up, maybe this week I'll make a space jam mashup of the princess principal theme
+Work hasn't been really notably bad but just kind of demoralizing somehow
+<:Elfnein:336656417035517952>
+also `i live`
+oh some reddit magic
+okay why the hecky can't i see that without using that link
+Bigkki
+Right-click and inspect the giant Hibiki, then right-click the element HTML in the inspector and Hide element
+Let me guess, its native resolution is 750x750?
+Oh, you probably need to actually resize the image
+I'm looking at it
+...it hasn't been changed in two days?
+hahahahahahahahahahahahahahaha
+I kind of hate that a little bit but it makes sense
+www
+That's on the subreddit settings page
+I need to write reaction stats soon
+Huh I have almost a month of continuous logs from Ryouko now. Sometimes software works!
+Oh?
+wow
+K2
+how do I denko
+Oops Ryouko didn't have write permissions, I'll see if any messages got dropped when I get home shortly
+Gotta have somewhere to move it to though
+Montréal seems cool, it would be cool to go back with more time and better French
+But it was productive which means I've just created more work for myself!!!!!
+We flew in Monday and I was sleep deprived and we left Tuesday which was a short day
+Also hi I'm cack from Banada
+Aww
+Cuz I'm pretty sure that's the question that's gonna get asked if you remove the Valkyrie server
+And yeah, a rule like that is going to be potentially problematic for obvious reasons, especially since I think it's hard to defend given a general lack of problems in this area (that I'm aware of)
+I still feel like this is a solution looking for a problem at the moment
+I figured write would be enough but I guess not
+........OH
+Note to self: find a video of Tuxedo Santa before midnight for shenanigans
+I kept meaning to check and see if writing to departures was broken for like the past week but I guess not
+Ha!
+But if we're concerned that users may not know what they're getting into, that seems the least-likely-to-fail way of doing so.
+<@!127644949884698624> Agreed, two short sentences at most is what I was thinking.
+If the aim is to make users more informed about where they're going, I was thinking something along the lines of "sub rules strictly enforced" / "laxer moderation, but still don't be an ass" / "well it's 4chan" / idk
+I'm assuming sidebar-width banners followed by a sentence or two of description?
+I like the general design
+It sounds like we all agree that's a good idea...
+Well, I think no matter what we have redesign as a short to mid-term goal so we should at least start talking about how we go about that even if we don't act immediately!
+That covers the most important bits for now, I think?
+And there is a certain amount of 4) I don't want to deal with the fallout, but that can also be addressed by finding more mods we trust to help ensure we have the kind of environment we want to promote, so I wanted to keep that separate.
+I prefer that to removal because 1) it may be advantageous to have a weak admin relationship in the future, and that will basically be impossible if we remove the link; 2) we don't have to worry about people actively being asses over it; 3) I don't think we're actively experiencing a lot of problems with it (though people heading there and getting turned off by it is something we can't really assess)
+I think this can be done by redesigning the link, possibly even with their input so they don't feel like we're just shitting all over them.
+I understand the argument for dealing with the Valkyrie server link since the general feel of the culture is more 4chan-adjacent than people might necessarily want to participate in.
+I feel like /sgg/ comes with its own warning since it's, well, on 4chan
+So, I was going to say something different about that since Alice did explain that earlier.
+Which, again, I'm not (etc
+Plus, generally, I'm not convinced "don't make people aware of other parts of the community" is necessarily a good policy for the community
+So, I think "no third party links" is hard to enforce in a way that's perceived as fair because then you get into the business of determining what is and is not a third party link, since I think we agree "never link to ANYTHING ELSE" is not good policy
+Sorry, I was waiting for Alice to come back before and I'm rereading stuff now.
+How many times has this caused us problems in the last eight months?
+How will this make our lives so much better by doing it that it's worth risking griefers coming in to troll us because someone hear about it on 4chan or whatever
+What is the specific problem you are trying to solve that is not "I personally don't like this discord"?
+Why bother?
+Fundamentally
+Okay
+Well, same. And I think AXZ was encouraging in that regard, especially given the statement "we've only banned people who were griefing wfc for writing fic"
+Like, wouldn't those be the people we wouldn't want here long-term?
+If they'd rather be in 4chan than insert-tamer-community-here, why do we view this as a net negative?
+How do we know?
+So, for concrete observations, do we have quantitative evidence that indicates 1) we even lost members to the other server in the first place and 2) moving the link to not be side by side with ours will have any impact whatsoever with a lean design like we're suggesting?
+(Well I don't remember if Khairz did the pming but that's beside the point)
+It's literally something Khairz made one day and he messaged our favorite admin and was like "hey you wanna link to this right" and they were like "yeah sure whatever"
+It wasn't really a subreddit server anymore than /sgg/ is a subreddit thread
+It
+And I think they would make the same argument, and that wouldn't be *entirely* baseless
+A lot of that was resolved by "we'll keep linking to you so you don't just die off immediately" and I wouldn't say there's been animosity per se (though I'd say there's limited trust on both sides)
+So generally correct but missing some kind of important nuance, I feel
+So Alice made the server and didn't tell them that was coming, and they were like "look, if you had issues with this why not say something, after all we're even doing a big rule review (which you didn't know about lol)"
+The literal actual point of order at the time was basically that we were dissatisfied with their moderation, and they were also doing a big rule review.
+To begin with, our position there was a little ambiguous in terms of authority, in that we had mod powers but weren't privy to all actual mod discussions.
+This was more than two weeks ago so I'm not going to argue the point too hard without logs but I'd say it was slightly more complicated than that.
+Well, so, for my part...
+I didn't put much thought into those
+Yeah, that's fine
+たぶん
+There's probably a way to capture that succinctly in a way that nobody will really object to
+Right, it's the emphasis on what *behaviors* will and won't fly in each case, right?
+Visual Basic is actually the first programming environment I was ever exposed to, so I'm kind of curious what it's like now!
+And I haven't seen most of Stardust Crusadwrs because I was moving across the country when it came out
+Diamond is not crash was pretty hype but I've only read through Bad Company so I don't have much point of comparison
+3 and 4 are 52 each but well you know
+I mean, 1-2 are only 26 episodes together
+(We have not gotten that far in the anime yet and I hope to rectify this next time I hang out with Alice)
+ZUNLIGHT ZELLOW ZOVERDRIVE
+After I yelled that out, the couple across the room from me tried soliciting my participation, but being in your phone is A Crime in trivia night, alas!
+And of *course* the answer is Zonathan Zoestar
+Monday night is trivia night, and one of the question was basically "what fictional character was renamed Zozo in (some circumstance) to avoid offending the creator"
+Since Minneapolis is destroyed under a million inches of snow I'm hanging out in my local home pub/restaurant
+Okay but on a lighter note
+I have no objection and it would probably be convenient to have something like this.
+None in particular!
+Sort of
+Oh good it worked
+okay that's what i thought
+Wait how do `fixed-width escapes` work again
+oh no
+It looks really nice! But it makes me wonder what other thematic changes we could make to fit in with it..
+But yeah, there's a "compare previous versions" link on the lower-right of the edit box
+So the great thing about the history view is it's a pain to view history across a large number of revisions, but the URL structure is pretty simple so you can just copy-paste your way to victory
+which is good all things considered!
+It's a lot less than I was expecting based on the volume of mods
+Okay, so this is exactly what changed between the last round of edits and what's on the test sub now https://www.reddit.com/r/YuriGirl/wiki/config/stylesheet?v=c81599f8-ab9b-11e7-8340-0e32d0966518&v2=06883566-2bed-11e8-8981-0e86ddf34788
+うぅう
+oh reddit you so messy
+Oh, uh, no, I've just been in `the work zone`
+(The measuring part is *really important* because there's all sorts of reasons why things you might assume are hard are not as hard as other things that are going on)
+The details are all around determining what's necessary and understanding what's hard, and making sure you can measure how long things take to feed into those decisions!
+Well, the great thing about optimization (should you find yourself in a situation where it's useful) is that the fundamental concept is really just "don't do hard things unnecessarily"
+Diagnosing and fixing performance issues in a product that's otherwise really well tested, mostly
+Well our project still has a good six months or so for things to really go badly but I'm a little more confident after today!
+oh ok
+Hmm, what's the difference between *this* and _this_
+Severe personal disorganization is just one downside of `you work you die`
+......actually I need to find my charger
+_makes a mental note to copy all of Alice's images to her travel external next week for classification purposes_
+(e.g., write a function to take a filename and figure out where it came from, run a bunch of scripts locally to see how well it works, then plug the function into the part of the bot that handles messages with filenames in them)
+I don't have any automated tests because I'm too lazy to mock/see if there is a mock API for discord.py but a lot of big stuff can be tested in isolation before it's mushed into the bot
+That's what testing is for!
+
+But it's fairly easy to make a new API account so the only problem becomes which server you test changes in.
+Well, if you know/are willing to learn Python 3, the only trick part becomes deploying new changes to a server only I have control over!
+(yay goodbye 60+ hour weeks)
+I *think* I can fix work problems more effectively now so uh maybe next week when I get back to New York from Montreal!
+Actually, I guess the real priority becomes fixing my hosting so I can move <@368926081845035038> there permanently and don't have to worry about losing logs due to various outages...
+Okay I can cheat, good
+Also, yes, I need to see if I had notes for that or actual code...
+Oh, no this is my special private backdoor that I just introduced for no reason at all
+In any case, I doubt I would be able to contribute infrastructure-wise; assuming there's a platform that's featured to what we'd want that's on a technology stack I'd touch, I don't have a lot of free cycles at the moment and there's higher priority server maintenance I need to do.
+Granted, the case where I've been peripherally involved with that was an unplanned migration *to* wikia
+So, if you're looking at this from a community perspective, keep in mind that a wiki fork, even if it doesn't lok like it's being done with hostile intent, can be a good way to piss people off!
+I feel like I have an opinion here which isn't quite either of yours and I will try to articulate it tomorrow night if our customer meeting don't completely destroy me
+Uh well I guess what prompted this observation?
+This is not a bad idea, but coordinating work is harder than work, buuuuut
+Ugh, I can't tell if I'm just bad at articulating this or I'm just being stubborn
+I mean, that's the more complicated answer long term, but
+Hmmmmm.... maybe, there wasn't an issue when we added <#419319372797050880> but IIRC that was at the end
+Did the channels change or something?
+I didn't do anything
+Can someone with a test account please do a thing
+This is less an "I'm against it" and more of a "I don't think it's that easy, probably"
+And that's assuming they even use a usefully compatible library to discord.py
+I don't really see the motivation for someone else to feed us code, I feel like it everyone would think it's easier to just run two bots
+`gizagizagirari`
+Hmm, I thought we had a vaguely threatening Miku...
+<:CarolYandere:424047704826707980>
+Okay, sorry, I had two days of not working at all for the first time in a month and I spent a good deal of the evening watching large men competitively hug so I can think again
+Oh right reddit rethemed shit
+<:GarieWink:336657101273169921>
+It feels like we keep having this conversation and I honestly can't tell if that's just my mental state fucking with my time perception right now, so to.orrow
+Tomorrow. I've been working constantly since Wednesday morning except for like ten hours of sleep and I need to sleep more so I can spend a couple hours in the morning in another meeting
+She's currently mentioning the channels on startup just to make sure that works but I can probably take that out now
+We do look up the channel name from ID every time we get a message which we USED to not do for the introductions channel which is probably why that failed but the positive feedback is good
+Okay good I was afraid the channel change might mess up the logs for the new channel but it worked fine
+Yeah, I know, and like I've said before, coordination is work too
+"didn't you say you do this for fun"
+There's a difference between "go off and do this thing" and "go out together a sustainable team" and the latter is a lot more work if you're not a super social person and I am kind of low on spoons all the time now
+Plus I spend enough time playing the "am I being elitist or just very demanding" game in my professional life and adding more of that right now does not seem very fun, especially for an unknown
+The question of whether they know pydiscord aside, that still kind of leaves me in the critical path for implementation so *shrugs*
+I'm not sure how much clearer I can get
+If time to market is your biggest concern find someone else to just do everything
+But seriously
+> straight
+Probably the only benefit to me doing it is I have fun doing it
+Maybe it would be better if someone else took all the bot responsibilities if you're worried about timelines?
+But I am also kind of tired of having this conversation
+I kind of want to say let's get a list of functionality with priorities and just go through it
+Okay so
+No
+I have two entire room so we'd better
+
+Actually wait what's the full media chain here
+But is there a setting for the streaming bandwidth to discord in nadeko?
+I'd have expected the terms or whatever to say "at X service tier you get Y bandwidth"
+Dammit I switched settings to something reasonable long ago, not sure what happened
+The host may support it but what are you actually getting for free?
+Also I'll grab mine tonight
+What bitrate are you streaming
+(I know why, I just wanted to make that terrible joke)
+I'm on public WiFi let me see if I get that
+Huh, weird
+Also why am I piss mod now
+Alice when did you last peace the house
+RAM or CPU seem unlikely to be problems for music playback... Not sure what more likely culprits would be though
+You can probably distinguish Pixiv and *booru filenames in most cases; pixiv may lead you straight to the image page and most booru sites have an md5 search iirc
+For sourcing I was actually thinking of looking at the filename as the first cut
+I don't think I ever resolved my streaming issues with another app so my advice might not be the best
+That..... Would be surprising given the entire file uncompressed is probably like 5% of your memory but I guess it's worth a shot!
+800kbps is like 60% the bitrate of uncompressed CD audio, is the source flac for streaming from.the server?
+Where's the not getting it's data?
+That's probably why Ryouko restarted this morning, unhandled exception somewhere
+The logging of media and embed stuff is still a little wonky, if you want to run it I'd like some time to watch it and fix some stuff
+Message includes server name and id, user name id and nickname, message content, info about embeds and links
+Events logged are message, reaction, message edit and delete, user join, user part
+For all events, server id and millisecond resolution timestamp
+Uhhhhhh, off the top of my head
+There's some stuff I'd recommend you save like unique user id, but you can stuff that in something that looks like an IRC log
+I have a dedicated log format defined but you don't really neeeeed one, I just have a fetish for preventing data loss
+Well, you get a call back for every message, right? Just do the logging in the callback.
+Well Ryouko isn't really doing anything special, you could just log and I can send you a converted copy of the history I have now
+I'll probably need to look into how to make a page where I can authenticate you with your discord account
+I couldn't do the second thing if I wanted to because all the data is on my personal machine at home
+Tell me what's ideal and that helps narrow down the universe of the possible
+Well, no, that's what I'm saying, what do you want
+How would that work?
+I'm not home, so I can't do anything now.
+I suggested filename checks first to avoid having to make a round trip to saucenao for some easy cases but if you don't see value in that it doesn't really matter
+Do you have version control for the bot code?
+The answer to that is probably to have someone post about it in <#336310266654490624> some time tomorrow because they found something interesting in it
+Off the top of my head those are the big two I'd want for sourcing
+Oh, pawoo is just the pixiv mastodon instance so that might be useful
+Nico Nico seiga, it's just nicovideo's static image service
+Love it when my computer eats shit
+（ ＾ω＾）おっπ
+*boop!*
+I agree with Alice on both points fwiw
+I basically just log everything partially cuz I have no idea what all the fields are
+There's a title, a filename, possibly a description, possibly text
+alice it's almost 3
+And maybe adjust the posting rate down
+Hmmm, I'll see what's up when I get home
+Miku's twin tentacle
+For Galleria or what?
+Hmm, the video ID does seem to be unusually long
+But see
+https://www.youtube.com/watch?v=KYJlyIA7dk0
+Well, in conclusion
+was likely butts
+But only one
+Both of the videos from 2012 from my old twitter I tried to access were like this
+does this video load as anything but a warning symbol for anyone else
+......... what https://twitter.com/solamarle/status/456603811126075393
+Real life bears aren't like gay bears
+Alice
+That feels like it would be extra decadent
+Play mahjong in the bath
+woof
+Kiraki is a blessing
+Wha
+You could put in a rate limiter in certain channels maybe
+<:MikuLewd:336656493606862868>
+*pokes Alice's nose*
+and &c.
+and gay and floof and gay and floof and gay
+and floof
+gay
+I'm goin' ham
+Somebody get some bread
+
+Years of Touhou doujins leave me unable to not nitpick romanization sorry
+I insist on datoshitemo if you do that
+You're cute and gay
+Describe command?
+Suggestion: if saucenao rate limits, try to guess source based on filename, and if that fails have her say she's too tired or something thematucally appropriate
+She's a gay girl after all, she's a gay gay girl
+What does "put Ryouko's logs on Shirabe" actually mean
+I'm airplane
+If you think having an aide memoire for our purposes for potential future issues (secondary to _warn and not triggering any warning to the user) is a problem then I guess I can't really say anything else.
+So, I read into this that Alice wanted to add a secondary log for "potentially problematic behavior we may want to keep an eye on" vs "people who have a tively been issues". Do you think that's a mistake?
+Because I feel like I remember it but not when
+ugh I hate this
+<:ShirabeStare:336659688236122113>
+<:KanadeRooster:336659950258356227>
+<:ShirabeEmbarassed:336657288477671436>
+I feel like that's a harder call to make after Precure but I dunno
+Part of dealing with my own issues was watching like six people come out in #conmeido and just getting frustrated
+I've joked to myself that the likelihood of anyone being a girl in my social circles approached 1 as t goes to infinity for a while now so
+
+That's just training her to eat pickles
+That's cheating
+Alice
+No
+Yeah
+Uh
+So is <#336310266654490624> gonna be nsfw then or
+That probably rules out a lot of actual Symphogear frames, I'd imagine
+Yeah, saying "porn goes in the porn channel regardless of provenance" seems the easiest solution and I don't recall reading any counterargument here
+<:GarieWink:336657101273169921>
+Fuck you I'm from Minnesota
+boof boof bidoof
+s/porn/risque images/
+My argument for sfw fancontent is R's, it could discourage discussion otherwise
+`become NEET`
+And that specific pic is probably on the safe side of what I'd expect to see
+As someone who's had to hide unexpected dikki on her phone at work, I think erring a bit closer to standard net understanding of nsfw is probably better
+I think that would be hard to enforce
+This is true
+when's suguri
+I guess maybe I should pull out my laptop and log into steam for a bit
+Kinda rude but not necessarily hostile innit
+I interpreted that as being a slangy English person (and Google tells me gcse is a UK thing)
+(I am not always good at picking up social cues)
+I don't know about antagonistic, but *shrugs*
+Joined on the 13th
+I haven't seen them talk much until lately tbh
+Besides I assume not making you pee constantly
+I know it's commonly used for pattern baldness by reducing free t but I don't know the tradeoffs relative to spiro
+It's okay, I remember you mentioning this here
+(Possibly with my logging code and existing logs included, that should be enough time to work out the existing kinks in what I have.......)
+If you want to throw bots at me I can throw them back to you when it's convenient
+being fine is definitely a lot of work
+If nobody else wants to do this in the interim I can post something tomorrow afternoon as a suggestion?
+You say that and I try to compare it to Kabuto, so
+Also, due to timing issues I never actually saw more than like the first episode of PGSM
+I was gonna post a specific picture of Haruka and Michiru and ask *have you seen these gays* but unfortunately I don't have that picture
+*slams hands on the table*
+Yes
+*makes a note to try to rip three seasons of Sailormoon in short order*
+
+
+
+
+
+
+
+Ah, this should be straightforward enough then
+Are you also using discord.py or
+What do you have for embeds and image posts and such?
+It would be good to log discord IDs for at least users since display names can change over time and between servers
+do you like music gaem
+hey saki
+_swiftly googles Bebe pictures_
+is that cheese
+_makes a note for when she has time to pull out her SC-88 later_
+Out of tune whistle edit of Happy Smile Vacation
+_idly edits Kirika's face on Tem Shop owner_
+お姉様
+So I'd clarify exactly what louis wants to avoid with images getting out at some point  cuz if the bot posts stuff on discord it's not exactly gonna be difficult to access?
+Realizing suddenly this is the worst day to bring up a suggestion for a bot change
+:butthatsthepoint:
+(Also Chinese skirts that issue entirely anyway)
+It depends on your definition of alphabet, but by most analysis it'd be a syllabary, I think!
+Anything that's not actually emojis shouldn't count as emoji cuz there are soooooooooo many languages that don't happen to use Roman letters
+じゃ、これがいいでしょう
+(extremely not a serious question, I just need to out it here to get it out of my head)
+But what if you put Unicode hieroglyphs in <#384870333620027403>
+<:KanadeRooster:336659950258356227>
+It's heretic, but it's fantastic!
+No need to ponder when Ryouko did it and her entire lived experience is in implementation.zip
+gau gau
+e.g. "@invalid-user (EpicGamer) has retired from duty."
+Oh anyway the idea was stick the last valid username after the mention
+Alice it's not even your bursday for two months
+And I'm trying to figure out when we can go bully our mutual Funbun friend shortly before that
+Otakon is Th-Su and I'm going out Wednesday and coming back Tuesday
+Heck if I someone had a SC88 sound font I'd do it Wednesday when I'm going to New York
+I need to make this when I have time later this year
+Like, nya, but in 14/9 time signature
+It says baaaaan
+バーン♡
+Can you actually reproduce that kind of sample replay spam in ms2
+Can you
+(Potentially!)
+Because it seems we're not on the same page there.
+Also, you'd need to define activity.
+Even I'm not as gone as I think Alice seems to be implying he would be.
+R's not even saying hes gonna be gone. "I can still run bigger events on weekends" isn't gone.
+No, you go, mine is a conversation for a other time.
+Why not?
+If anything, It demonstrates restraint.
+No.
+^
+Staff needs to make sure staff doesn't violate rules, of course.
+Well, yeah, I think both go without saying, if that's what you mean.
+Oh.
+...but "both" to me means "both do that and set an activity timeout"
+What does "both" actually mean, then? I assume "we need to continually tell each other if we think something is wrong" is a thing outside of just moderator activity...
+If you think there's a problem, bring it up, is my personal opinion.
+And when you bring up "One moderator might be active but their behavior might raise questions." I kind of wonder if you want to have a broader discussion of moderator behavior tbh
+I'm あげぱん…たべたい
+(Basically it's the same philosophy as why we don't try to enumerate harassing behaviors in the rules, but instead generally say harassment, imo.)
+I mean, I'm an engineer, but I also am skeptical about using quantitative engineering principals on human interaction.
+That's why I say I agree in principle, but don't think setting a number is necessarily productive.
+I'm very much not concerned about either of those things given the people in this room.
+I agree this is a potential concern, but I also think that's fairly low risk with the people that are currently in this room.
+why are we
+well then
+Is the concern that an out of touch mod is going to come in and take excessive action that isn't warranted, for example? Or overlook something that's known to be an ongoing problem?
+...maybe not actually entirely clear to me, on further thought.
+So, the thing we're trying to protect against is
+(also I didn't want to make this all about me out of the blue)
+And, in interest of full disclosure, the thing I was going to say earlier but opted to spend some time thinking about instead was "maybe I should de-Custodian", so I'm not making this argument to try to save my own skin.
+Reason being, I think it's better for the moderation staff to actually talk to each other about this stuff rather than start a stopwatch every N days.
+Okay. So, I don't like the idea of having it be a quantified and prescriptive time period.
+Right. *looks elsewhere momentarily*
+Discussion of the proposed rule.
+Hm, point of order, are we continuing discussion?
+What is the perceived benefit of the rule? i.e. how will it make things better or prevent them from being worse?
+To what end?
+オレンジじゃないぞ！
+(This has been my impression of  conversations over the past week)
+Counterpoint on 2, almost everyone here but me seems to want to actively fuck with valk given any opportunity to do so
+submarine logs Mar 18 - Jul 29
+You know what
+Post would be after July 6
+~~I was gonna try to do the free time thing but managed my free time this weekend poorly, ironically enough~~
+Sorry, let me make it absolutely clear I'm not saying this with any malice, and I honestly think things have been improving with the server recently on the whole.
+Yeah, I know.
+To be honest though, I'm not unhappy with how things have turned out, because I think having Kriisa and Latooni here is overall beneficial.
+I think most people don't really see me as an asset but I don't have a strong hankering to leave at the moment.
+If people have concerns, now is a fine time to bring them up, I suppose.
+Yelling here is way different than, say, actually just kicking someone unilaterally.
+You know what, not now, not here
+I am
+Sorry, let me reconsider that phrasing.
+................................
+why would you bucket cake
+_packs accordi wait what_
+okay
+this is important
+alice do you have a bucket
+oh right
+Wait, that totally distracted me from saying something else
+She might have the best legs in the channel tbh, I mostly excel in letting myself go
+~~so will I probably~~
+p...probably!
+it's probably just poison sumo
+<:ChrisEmbarassed:336656400472080386>
+dess_timeline
+wa
+(Oh hey, phone idle status overrides web application idle status, good to know.)
+Even if one of us assumes something is a foregone conclusion it's probably best to discuss it, though obviously I can't pass judgement on what I don't know.
+Alice is providing us the opportunity for input, and I think that's in the spirit of the conversation we've been having, even given that statement.
+I should get to Port around 3, so probably any time after that is fine.
+Okay, but no sooner than 5 Eastern tomorrow due to my own circumstances.
+Can't vote with a voting member absent with such a sample size imo
+^
+I don't really see the point.
+I switched to Tilia on Twitter and realized I really wanted a Tilia icon. But I'm basically never happy with how discord icons look...
+I'm sad because there has been very little actually outside cats lately, mostly only window cats
+https://twitter.com/WedgeLIVE/status/1027187693799788544
+I'm missing a cat tour of my neighborhood to go to Otakon
+ｃａｔｓ
+I'm hoping to at least sleep in the plane for two hours
+Yes but you're megaM and the doesnt stand for reading the mood
+Yeah for me it's not so bad on other people but well uh yeah
+s a m e (except half not full)
+I've never gone past 36-ish hours but I fear same
+it is a curse if it's not a blessing
+Everyone is such a good kid
+I don't expect perfection out of anyone here, but I think y'all mostly have a pretty good track record of working together on things.
+Honestly, my observation here is pretty much the same as in R's case. There's a mod *staff* here and in both cases you have something to contribute to the team in the context of the team that in my mind isn't completely outweighed by negative factors.
+It wouldn't be enforceable, no, but it'd be a change how the staff was presented to the users.
+Well, there's server owner, and then there's custodian and illuminati roles. One *can* distinguish between those (I think?), the question being posed is would it make sense.
+i mean, i'm still here
+(Also that makes the Illuminati me and Alice, which I'm not sure is best for organizational purposes)
+Without going up and rereading everything from last night, I'm still not convinced that the risk is so great and unmitigated by other factors (like other mods being present) that immediate action is warranted.
+If you're going to decide unilaterally I'm not sure what there is to discuss. It might make more sense for me to bow out of this one.
+How would you make that judgement in the future, then?
+I feel like I'm the only one here, though.
+I guess I just don't see how demotion actually accomplishes anything?
+Oh, "I'm the one that suggested it" -> it being "saying it was due to school", I guess? Otherwise I'm having a hard time reconciling that with "that doesnt mean ill be going away, or stepping down"
+Why do we feel the need to take action at this point in time?
+<:KanadeRooster:336659950258356227>
+I don't understand the criteria you're using to decide on some of these things but given the other extenuating factors I'm not gonna complain this time around
+I don't know productive me scrolling back would be so I'll just whisper "@invalid-user"
+g̰̺̻o̘̮͢ḱ̢̫ì̲͖g̣͙͓e͢҉̸̮̪ǹ͢͟ ͚̝̣y̮͓͔ơ̴̕
+<:ShirabeEmbarassed:336657288477671436>
+I am doing equally as bad as usual but summer will be over soon!
+(I actually read up here first before doing anything)
+<:GenjuurouThumbsUp:336657189475188740>
+I saw
+*lands unceremoniously in a smoking heap, stands up, brushes a bunch of smoke off her person* oh hi what did I miss
+(And most of my really risque stuff is limited to a different account anyway)
+I don't think Twitter has shown me any of your likes yet
+Ahahahahahaha
+It's the worst and objectively bad and also occasionally gives me nice posts I wouldn't see otherwise
+Yeah R but how long until you're at "faving surprise Twitter like tiddy in public before scrolling the hell up" levels of apathy
+<:ElfneinDrowning:336656417035517952>
+<:CarolStare:336656462287994882>
+So when's the mod sailboat party
+<:MikuLewd:336656493606862868>
+I AM ALICE AND THIS IS MY DILATOR THE LEGENDARY PUSSYREND
+But it's late and I'm tired
+But do you enjoy it
+Hence my suggestion before, maybe stick the last known user name after the mention, so if the mentions work on desktop you get that *and* the mobile users see useful stuff~
+Ryouko's notifications didn't use mentions so this wasn't an issue then
+It's probably because you can't mention a user that's not on your server.
+I was thinking about it but I figured it might feel like a mod gang-up right away... Possibly tomorrow
+(And wouldn't have had a chance of reading like a screen of it www )
+When Tsukihime Actually Came Out I was probably getting into Slayers or something
+Well, when the mirror moon patch came out, that is
+Yeah, I read Tsukihime when it came out and considered reading Fate not long after but :effort:
+<:ShirabeStare:336659688236122113>
+I will be very cross with you
+Like over a decade after I established it would be too much effort
+If you end up being the final straw that pushes me to actually read F/SN
+Latooni
+Inquiring minds want to know: is it always burg time
+Police Story, obviously, it would be cool if we could try to identify other stuff that is watched in the series
+`eggs`
+*ugly snort laughs in a Montréal hotel bar*
+FUCK♂YOU
+~~that means I'm the boss of this gym~~
+It's okay, I'm the oldest one here
+*bidirectionally*
+そっか
+*FON CHI*
+Police Story? Tomorrow? Which hopefully I can at least get somewhere to watch? <@127644949884698624>
+When are we cosplaying pigmhall girls Alice
+@へ@
+Small price to pay for declaring my love for Ar tonelico and pigmhall swirly eyes at the same time
+....why does that level 0 sentence get converted to a maps link
+Ooh official channel nice
+I wish the scene composition was more suitable to shopping it to say ITS SYMOHOGEAR, I AINT GOTTA EXPLAIN SHIT but it doesn't have all three gears on screen at the same time :<
+Tail end of ep 12
+Right, I'll look when I get home if I don't just fall asleep
+There must be a way to get the captions, what's the video URL
+Please don't IRC as root
+
+oh god all the capital is are broken
+lmpatient
+Hah, this must be OCRed
+Dialogue: Marked=0,01:27:23.07,01:27:24.48,Subtext,lmpatient?
+I have no idea if that will work but we won't need it anyway
+find /media -name utena.ass
+do that preemptively
+Maybe I should just
+Okay if you have the video I have the captions if we need to .ass it suddenly
+Oh. Huh.
+BO
+SONO CHI NO SADAME
+***bobo***
+*bobo*
+bobo
+That's basically it
+No
+What do you think we're talking about
+R
+How are these things related?????
+<:GarieWink:336657101273169921>
+This is definitely not something I expect to ever by hyped, ever, so it's ok
+And I'm only mean in certain specific cases
+But that would be mean
+<:MichaSmug:336657136065052673>
+That's a lie and I know why
+But it explains a lot
+Somehow that is not a response I expected
+
+Please explain
+Alice
+(I'm just acquaintances with some.of the people involved and know nothing)
+Maybe do a quick grep over the logs and see if that's the case?
+Thai
+フラン・フラン・foooooo!
+(I assume the joke here is just ***umo but i dunno)
+or
+Is that what you're asking
+I cant' find it now but apparently one of the other people tagged in this post somehow is a dog that I know
+Isn't that just an existing Touhou meme song okus visuals
+Dio is clownpiece
+invalid-user
+<:ShirabeStare:336659688236122113>
+mods dating is forbidden
+ugh I'm sick of air travel
+It was 65 in Minneapolis when I left and I'm very cross about this
+Well technically I will be in like two hours
+Also airports and airplanes are hell on my skin
+I'm too spoiled by being about to take rail on the east coast
+Jacksonville
+I'm actually gonna have frequent flyer status by the time I get back this weekend
+I've been somewhere about every other week for the past two months
+It's sick of us all
+Please
+flap
+flip
+flap
+flip
+Discord supports Unicode so I can name all my gears tıdy
+にゃ
+nyanyanya
+<:ElfneinDrowning:336656417035517952>
+BIG
+DOG
+I fixed another fucking bug
+Autumn is like a better spring anyway
+<:GarieWink:336657101273169921>
+(Though long term that's for the better)
+The failure of that method is literally why Kriisa's here now in the first place
+Yeah I would heartily recommend some level of organization higher than "we'll put some todos in a series of pinned posts and everything will work out"
+How convenient that the most Kirika months are exactly six months apart
+🍞2
+(should fail as a large unsigned number but jic)
+Try 0xffffffff
+Python doesn't accept that in integer constants
+*suddenly pictures Serena squatting in an Adidas tracksuit*
+....hmm, actually I guess that's probably true
+Also, kinda idlw question, but how did you decide in the specific colors for fg and bg?
+So it's actually monochrome - maybe make it 16color to add a little definition?
+(Now that I've seen it again it's not really that ridiculous though)
+Please give me your opinion of this pizza
+
+Hey Alice
+I need to find those Polish martial arts videos someone linked me on IRC once and edit Maria into them clearly
+nya
+Truly music is the only thing I respond to
+Somehow that gave me even more (and actually practical) ideas
+Guess I know what I have to make happen someday
+Same as Yui from Yousei Teikoku, too...
+Huh, Takagaki and Alice have the same birthday
+That's probably the best one though, on review
+Yatsuzaki Hardcore album covers can generally be recommended
+https://m.youtube.com/watch?v=EBxlX_bARlg
+I dunno, what if there's a mega jumbo *size*
+I guess
+From Vancouver
+
+Tonight on "Alice, please rate this pizza"
+Maybe you can discord search for the emote codes?
+Ryouko logged reactions if you need examples on how to do that going forward, that doesn't help with history though obviously
+Better if it's not widely known anyway, reduces the likelihood of unnecessary nastiness for the sake of nastiness imo
+You should know that as you've been doing this Despacito has been playing in this restaurant
+Places, R, places
+You can't just make job names by putting maid after places
+Maple Story 2, aka I misread everything that's on the stream always
+Isn't that just mistre
+Flushing Maid St
+Tiny drill maid
+Uhhh I guess pipe maid works better than bathroom maid or sink maid
+Office maid
+One of my co-workers actually still uses a skinned version of Winamp to play music at work
+maaaaaaaaaaah
+
+All this brazen talk of pumpkin petting....
+AI ice ice baby
+it me
+Which the local semi pro team here are the crows so perfect
+It is a trans magpie
+*so close*
+So I started getting interested in Japanese pro soccer teams kinda recently and
+That and assuming people would pick up on the uhhhhhh implied meaning is a bad idea
+I was gonna say serious discussion should be heiki hdcchara because avoiding problems is super Hibiki but remembered this is Miku's birthday were talking about
+honk
+Nice
+I don't even remember why weev is supposed to be notable aside from Nazism
+excuse me can i pls check your hibikis
+Alice you're not around to listen to me dying at food that really isn't that spicy why ist this happening
+gay werewolves
+If I'd seen that earlier maybe I'd have gotten pizza instead.....
+https://twitter.com/kellyawallace/status/1060663416979898368
+Oh that's good and also fifty dollars
+Oh I love Shazna
+姫様
+I don't too my.own horn often but these are good fucking tweets, friends
+
+I mean, that depends on if we drag in Scrmz, centrally located would probably be farther east then
+Mod party...........
+I have no idea what that is/was
+I'm glad this is too high effort to tempt me
+<:ShirabePout:336656831978012712>
+<:KanadeRooster:336659950258356227>
+If my life ever stops imploding I might be interested in picking up OW and I also have basically no experience
+mya
+<:KanadeRooster:336659950258356227>
+I was going to reply and suggest a quid pro quo but got distracted
+<:GenjuurouThumbsUp:336657189475188740>
+ganbare ganbare
+<o
+I wish I could do that
+I don't expect literal children to have much in the way of context but yeah same to all parties involved
+I'm doubly upset because I just spent the last minute pondering that syllable break
+Okay, I'll be back in an hour or two.
+I'm getting frightfully used to that being a solution to problems this year....
+Christing puce
+I had to reboot my phone
+Well, I turned on all message notification instead of just mentions so I guess I can mess with it that way.
+I usually leave it in here but in <#447995991438786564> because I usually won't care about messages there.
+Hmmm, this is a problem but I don't know how much more I want to kvetch about it away from home without anything useful to try.
+Well, for mentions at least, not for every message.
+Yeah, all that's on.
+But it's probably some issue with this server since I've gotten other notifications which, hmmm.
+Okay, maybe I have it open at home and that's confusing it since I'm on at multiple locations
+Maybe if I close the desktop app...
+Well, fuck.
+Phone, I messed around with stuff a bit so could you please try pinging me in here?
+Okay I'm not getting pings so I've fucked something up
+I think we're all in agreement, then. We'll make that change within the next day.
+shit i messed up the formatting
+~~~of course Lyssa tops~~~
+Okay. I guess we can go ahead and transfer ownership whenever. I'm not sure if redoing the structure immediately would be too much change at once or if we should just go ahead and do it since we've already lost half the staff and it's not that big of a deal, does anyone have any opinions?
+So I guess first does anyone have objection about the server ownership?
+Actually, I guess I have two fairly neutral observations. Leaving a custodian with Alice as illuminati could be important symbolicly, since it's something of a consequence for poor mod behavior. Though, I'm not sure if having just one Custodian is a good idea from a balance of power perspective.
+Obviously I don't think I should be part of either of those decisions, so what say ye?
+The reasoning behind having me as Custodian is because it leaves power in someone who's going to be an independent mod and tends to be pretty nuanced in difficult situations.
+The second was some sort of mod hierarchy restructuring. Alice suggested making me sole Custodian and leaving other staff at Illuminati for now. I was thinking something similar but with a flat structure, no difference in roles.
+Alice had two suggestions that I wanted to bring to the rest of the staff. First is more symbolic than anything, really, but she suggested giving me the server owner role. (I say more symbolic since it doesn't really have any effect on day-to-day stuff.)
+So, I got to Alice's place uh last night and we've been talking stuff over since then. I don't think I've said anything "publicly" (in staff channels) but I pretty strongly disagree with the mod-like actions she took or suggested this weekend, most notably the warn on Kriisa and suggesting she'd de-mod her.
+I think that was it among everyone, so yeah, we can move on.
+Thinking about: Kerrick, Luci, Lily, Sketch, outside
+Let me pin a message with candidates that've been mentioned so far and we can keep them in mind for the next few days!
+And we don't necessarily have to make a decision now, I'm more concerned about agreeing on the process. We don't want to make a snap decision on this.
+Does anyone have anything to add or additional suggestions for that procedd they want to bring up now?
+Okay, so, new rules, staff hierarchy, mod candidate. Third is probably the quickest discussion, so let's start there! I think we all agree finding another mod for extra coverage is probably a good idea, and that it's probably not a decision we want to make lightly. I think it's probably a good idea to start thinking about people and maybe floating names so that we have time to make a well thought out decision.
+Do you want to make staff decisions now or wait u til the morning?
+I'd like to have a conversation about staff roles and such and I suspect we may make changes based on the outcome of that discussion, so we'll leave you as-is until those changes are made unless you say otherwise! And if we have announcements to make we can wrap it all up at once.
+Sorry, I'm equivocating as I normally do, we should do that thing.
+It's probably worth having a staff discussion when people are available!
+Honestly, it is kind of disappointing to be discussing the need for such a rule, but here we are. I'm not sure I agree saying I'm the only one with the presence of mind to deescalate given that Scrmz and Melua were trying.
+Better a Smurf than the start of a brigade which is what I was worried about after I saw that last night
+I think that's sufficiently low risk at this point that it's not worth worrying about, and bringing it up as a concern is likely to be unproductive for the reason Melua pointed out.
+Yes
+(I don't think it's likely to be an issue if we're not asking unreasonable things)
+Agreed, and I think I should probably handle requests like that for the time being.
+Seems best.
+So I'm not sure if we want a mod rule 0 about disputes between staff or if we just want to be *really really careful* with the Custodian rule from here on out, but I think some explicit agreement among staff is necessary.
+It's fine, don't kill yourself staying up for this discussion, this doesn't have to be solved right now.
+(This might be a solved problem with me as Custodian, but I'd at least like people's opinions...)
+What I do have a stronger opinion about is: we absolutely need some agreement about conflict resolution among staff. Maybe this can be revisited in the future but I think we need some limiting factor to prevent something like what Alice did this weekend.
+(Oh sorry I didn't think that would ping you back)
+So I don't have a strong opinion about that specific proposal though I think probably more was said that I haven't read yet so <@290431224596660224> when you get a chance can you please bring it up again and we can discuss it?
+Scrmz suggested a mod rule about mutual respect among staff, Alice felt it might be gamed like she gamed the don't be a dick rule, I thought it should have been so obvious as to not need to be stated... but here we are.
+I'll type this up and you can have a look now or in the morning as works best for you!
+Just gotta make sure our expectations for new mods match what the roles actually allow them to do...
+We may want to change exactly what the role definitions are, but that's probably worth having a longer discussion about later.
+Any objections or comments? <@127644949884698624> <@290431224596660224> <@99695384296701952>
+Happy new year, folks! A couple quick administrative announcements. Melua will be demodding for a bit to deal with some personal responsibilities that will be picking up in the new year.
+
+We've been having some staff discussions about how to best apply our modding principles. As a result of that and the current staff team size we've decided to have me take on the server owner role and (for now) sole Custodianship. This shouldn't really change anything for most people but will help smooth out our internal processes a bit. We're all looking forward to another year with y'all and hope to keep making this a great place to be!
+I have a team meeting in an hour and a half and I intend to finish up by then @here
+My plan is letting people know Melua is demodding because she's busy and letting people know I'm their queen and savior now to in an effort to better match responsibilities to aptitudes and deal with some issues we found after internal discussion.
+Melua, for your part, is just saying something about stepping down to deal with some increased personal responsibilities fine?
+Alternatively I will sleep through all my alarms and do it in the next two hours at work.
+I'll do it all first thing in the morning, then, if you'd like.
+I'll make an announcement about staff stuff after work tomorrow when I can think straight.
+Thank you.
+I'll be here as much as I can.
+I meant to put stuff in announcements yesterday and was gonna try to make up for it today but I'll hold off for now.
+I know that doesn't help with personal circumstances, obviously! You're welcome either way as far as I'm concerned.
+Can't be helped now though
+Mm, this is why I'd rather not have directly engaged immediately, the timing for all this is pretty bad for the two of us
+<:KanadeRooster:336659950258356227>
+Fortunately we are the least prepared to deal with something like that than we've been in like a year
+Plus 20 more min sorry
+I'm getting my eyes dilated and will be home in 30-45 min
+But I'll go more into that later when I have time, crap I need to eat
+I don't entirely disagree but I also feel strongly if you felt you were being baited you shouldn't haven't taken it.
+Later this evening would be better for me, I'm o ly here because I'm slacking off
+It's 5:30 GMT
+If anybody else had said we should move the convo, what would you have done?
+What Kriisa and R said concerns me less than the way they went about it, but i think this could have been deescalated on both sides. My problems are both that the kick was used and that the situation was taken to the point where the kick seemed like a useful solution.
+My first concern is that I feel this could have largely been avoided if fairly early in the conversation we'd just moved this to <#336297840529899522> . I feel this is fairly uncontroversial to say since I think we've had an instance where we've done so with similar conversations (though I don't have receipts handy).
+So, I have a few concerns. Sorry I'm on mobile and trying to find a relatively quiet spot.
+Let me know when you've read that and are prepared to discuss it. A full treatment will warrant the presence of the entire staff but there are some things we can talk about before we're all assembled!
+I'll be back in a couple hours.
+
+Okay, when you get a chance, please review this log.
+<@290431224596660224> this is not an emergency but please let me know when you're around. I think our schedules will best slightly between 5-6 GMT or after 10:30 GMT. (Sorry I know that may be late but I have an eye exam this afternoon that I've already rescheduled once, I can be available tomorrow morning your time if necessary)
+Ha, I was just about to ask.
+I'm gonna miss your perspective here Melua. I know this isn't a goodbye per se but thanks and please take care of yourself.
+Which I should have predicted but oh well ww
+Eh, it's a team stand-up meeting so it's usually short but it morphed into something longer since it was the first one where everyone was back after Christmas/New Year's
+15ish
+Okay my meeting exploded but I'll do this once it's over in 25ish
+Okay sorry there you go.
+Give me a second to do that now, I'll let you know when I'm done
+Ah shit no I said I was *gonna* and got distracted by everything we were talking about
+Or honestly just fire off stuff, ideas are good
+Do you want to pick three characters and come up with a theme for them?
+It might be easiest to start the composition process if we have a kind of emotional theme for each user, if that makes sense? Something like Chris = I'm about to smugly bury you in bullets, stuff like that
+I'd say it's not absolutely urgent, *especially* if we can show good faith progress on the others. If we could get banners that are actually nice tonight I think that would go a long way!
+どもども〜
+I just wanna make sure we have everything in order cuz that's what I do!
+Would you mind verifying that? If we can find it e.g. on the XDU site then fair.
+Did Bloop actually make that?
+Okay.
+はーいちょっとまってー
+There's other stuff Kriisa uploaded but I don't know what she's actually made and she's only asked for the one so ¯\_(ツ)_/¯
+I just removed the emote.
+This is also my proposed order of attack, with the note that we remove all R banners once we have six for the main Gear users, and can fill in more later after that.
+The contested items are:
+ * Subreddit banners
+ * Rules banners
+ * Discord server icon
+ * Subreddit sidebar buttons
+ * Anything else uploaded by R in the subreddit CSS
+okay, thanks
+whu
+buh
+This is a good idea, yeah. (Hang on while I figure out how to do newlines in messages on desktop)
+Lemme go ahead and give you rules for now.
+And it demonstrates some good faith action on our part, for whatever that's worth.
+Kriisa messaged me and said she asked to have the <:DMJii:458047433067200512> emote removed and noted that R has asked for specific stuff. I think it is probably best to do the emote tonight and work on the subreddit banners. On some level I would prefer to wait until all issues are resolved to do that but on the other hand artist consent is artist consent; we free up an emote spot and can probably do some actual not-janky reasonable subreddit banners in a few hours if we focus on doing so.
+I think it's best to address the moderation issue later. There are some specific things I could recommend in the future but I'm still of kind of a split mind of the situation in general and I'd rather wait until I can be more confident I'm being as fair as possible.
+But, more immediately relevant, we probably need at least six banners.
+Like, I am explicitly not passing judgment on anything right now, but please keep that in mind.
+I know you mean well and trust that you generally have good intentions, but sadly that isn't all there is to it! Especially when acting from a position of authority.
+Okay, I'm of the mind to just grind an acceptable minimum of the disputed assets out myself tonight. I was hoping to spend some more time addressing the actual underlying  issue but I don't think I can do that fairly right now.
+(but yeah bbl)
+TWO MODS DOING TWO DIFFERENT TYPES OF DILATION WITHIN HOURS OF EACH OTHER EYYYYY
+Fair
+Sorry to leave this hanging but I'm fucking off for two hours, this has got me all blown up tae fuck for various reasons and I need to unwind a bit. Please text me if we actually get brigaded or something similar before then.
+I don't disagree but artistic consent is artistic consent, regardless of whether one agrees with the reasons it was extended or withdrawn.
+Oh, was this to remove the banners?
+My eyes aren't quite back to normal and Scrmz is sleeping and I still have legwork and rethinking over all this to do before I"m satisfied I'm being fair so I'm going to go to one of my local places that's relatively dark and get some food and hopefully be ready to strain my eyes again for the rest of the night
+I mean the first thing I thought of was renaming the channels in he attack name style so it can't be worse than that
+(I will be gone a lot of Death Thirteen due to local soccer bullshit, fair warning)
+Did you have anything particular in mind or are we gonna start from brainstorming?
+I also agree.
+I was wondering why that wasn't working, sorry for not checking sooner
+We should also talk last Tuesday's nsfw discussion at some point.
+Tomorrow would be better for me since I could use a sleep catch up night and have a meeting in the morning, but I wouldn't say absolutely not now.
+Yeah, perceived hierarchy within staff was one of the reasons I figured rethinking that stuff might be a good idea
+<:GenjuurouThumbsUp:336657189475188740>
+I think this makes sense, sec
+I wish you could wait a few days but I do understand your schedule is getting tighter. Go secure your future!
+It would probably be best to just let you do that. While I prefer not acting unilaterally I'm more of the impression that might actually be beneficial given things.
+It is bad timing for something I'd been considering doing regarding the current issue but life is hard.
+Well, this *is* something we knew was coming due to the exam schedule.
+I expect to do that tomorrow barring some significant new revelation, which I don't expect at this point but who knows.
+If you'd like me to put something in announcements I can do that. I'm not sure if doing it alone or with a wrapup to the last day's events would be best but if you have a preference I'm willing to hear it!
+Back to work for me for now
+At the very least Hana should be informally warned. Not ready to recommend anything specific regarding R but my notes about talking to him about escalation meshes with at least some of what Alice just said.
+(My current gut feel is that I also bear some responsibility for not doing that sooner.)
+I honestly have mixed feelings about the mutes and message deletes. I think it prevented the situation from escalating further but I'm thinking hard about alternatives. I'll be visiting Alice this weekend and next to bookend work travel and one of the things we'll be going over is explicitly stated protocol for addressing future situations that can get me immediately involved more reliably.
+I'm aware that Alice deleted some of his messages and while I don't know the entire content it's clear that he doesn't seem to think that my role as mod of mids is being taken seriously. I'd like a chance to speak with him this evening US time about that to set some expectations and make it absolutely clear there are more productive ways to address staff issues.
+It's kinda low detail
+But does it look <:KanadeSit:535301654464036884>
+But, hey, that is not a bad condition to do other things in!
+Yeah, my understanding of the situation is evolving based on what you've said here and what I've heard elsewhere and it's currently gone somewhere that's personally fairly frustrating so I'd prefer to hold off since 1) I feel like I still don't grasp the situation fully in some respects and 2) I feel the risk of acting out of personal frustration rather than what necessarily makes sense.
+Privately warn and keep an eye on them is also my general preference. I'm curious to see if they respond...
+That shooouuuld already be in the post but lemme double check
+<o
+Gonna post that when the like for the /r/anime thread is up
+Hey @everyone, the subreddit is holding a rewatch of all 4 seasons of Symphogear soon! In addition to that, there'll also be a live rewatch hosted on <https://cy.tube> run by @Yuri Girl#0483. If you're interested in participating, there are a few steps you'll want to take in order to make sure everything works properly. First off, you'll want to pick up the <@&567113097907535882> role over in <#448237561085952001> so you can easily keep up with rewatch related updates and reminders. Once you've got that done, you'll want to install tampermonkey from <https://tampermonkey.net/> and then cytube's google drive userscript from <https://cytu.be/google_drive_userscript>. This will allow you to watch videos on cytube that are hosted on google drive to make sure that we can provide videos that are high quality and with (hopefully) no network issues. After that, you're done! The rewatch link will be <https://cytu.be/r/symphogear> if you wanna bookmark it and if reddit isn't your thing, <#371105434771390465> will be commandeered for the duration of the rewatch to provide a spoiler-free place to talk about the show after each live watch session. If you want more information about the reddit side of things, take a look at the thread here! <link>
+
+If you have any questions, feel free to ask Alice.
+Yeah, it would be nice to have a quantitative breakdown of the traffic but that definitely feels right, so I think that's probably appropriate
+This isn't really a staff issue. And if we get other unrelated mods in the future, howich of this conversation do we really want to have here?
+Leaving aside what I was going to say, it might be a good idea to take this to a group DM with Alice. This is more personal than staff at the moment, and she can probably act as a better mediator than I given the circumstances.
+<_<
+Oh yeah that's totally better than actual unholy unreadable mixtures of Japanese and English
+Ah
+So, I'm having a lot of Not Fun so reading the entire conversation may be more time than I can spare but how long was that conversation going on for anyway
+If it *is* the same person, this outcome is not so surprising.
+I'm not sure if it's the same person but there was a user named Courier on the Valkyrie server that was... A handful. My recollection is that they mostly didn't mean ill but had problems with kinda antisocial behavior. This would've been late 2016 maybe? So I don't remember details and I never thought to take note of their user hash at the time.
+I can't say this is entirely unexpected!
+Thank you.
+Been meaning to say this all day but I generally agree. He's a famous grudge holder but if he can play nice I don't see a need to start trouble from our end.
+I figured that was probably the case, nsfw is about the only channel I don't check in on periodically...
+I'm going to do some errands, I should be back by 4EST
+I'm usually a night person but I've been constantly tired this week, I hate it
+I am tired and nerves so while I don't want to wait long I wonder if the morning would be better than now
+fwiw I've been able to actually fix some things that've been keeping me harried lately, so it's probably fair to say I'm actually Back
+I'm home and starting to catch up now.
+<:ElfneinBullying:421432763078410241>
+Sorry for the last 24 hours, either I'm more old and busted than I thought, i forgot how much driving 14 hours a day poops me out, or both
+(I'd still appreciate those logs when you get a chance!)
+Maybe it makes more sense to reconvene when we're all around... Well, I have another nine hours before I'm off the road to consider it!
+I'm still driving through tomorrow afternoon but if I keep current pace I should have an hour or two tonight around 9-10 EST
+Actually server logs from the past week would be nice if you don't mind! Or farther back if it's convenient
+Sorry, I'll have to wordsmith later
+I mean I encourage everyone to keep tabs in all channels but I'm gonna have to end this one way or another for reasons that will probably be clear
+what the actual hell
+Fun fact guess who I'm picking up in six hours and I know what our car conversation will be now !!!!
+Wanna say more but I'm already forty minutes behind now
+Just FYI I'm going to be driving for most of the day today
+(I mean I've done it but for further consideration)
+Please send me logs of the past 24 hours in <#336297840529899522> , reading large amounts of text history via discord is ass
+It's okay. This ruins my morning but it's not really your fault!
+I feel like during axz we may have limited access art posts to the axz discussion channel for a period of time. Do you have logs from that time period to see what was done and how people reacted? Otherwise I can check later when im done with errands.
+あぁっ
+<:ElfneinBullying:421432763078410241>
+Slowly dying how
+What are our schedules tomorrow and do you just want to ask me questions or
+When do you get off work?
+awesome times all around
+The disadvantage of living like six blocks from where the pride festival happens in June... anyway hi
+Everything is happening this weekend, driving was a mistake
+What do you want bot
+It's kind of rude! If you have concerns you can always contact a mod! It's why we're here.
+Let's not please spend lots of time discussing hypothetical rules breaking by individual users.
+Consider her asked!
+Mostly because Ryouko predates zesshou shinai
+Hmm, we haven't kept the icon totally static but I don't know how people would feel about it changing every month or two.
+i gotchu fam
+Aww yeah Symphogear covers
+PREDICTABLE
+
+mushroom mushroom
+Greetings!
+I think you're right, I must have poorly touch screened earlier.
+Hmm, shouldn't have...
+<:KanadeRooster:336659950258356227>
+Sorry, I never said I wasn't corny
+CAPE!
+Hmmm, it seems awfully...
+You'll probably want to steer clear of <#336310266654490624> for a while then, since anything that's happened in S1 through AXZ is fair game there.
+<:ElfneinDrowning:336656417035517952>
+<:HibikiHi:336657249827028993>
+`ｗｅｌｃｏｍｅ　ｂａｃｋ　ｒｏｂｏｔ　ｏｖｅｒｌｏｒｄｓ`
+LOVE! JUSTICE!!
+*to the tune of Cut The Mullet* fuuuck the gundaaaaam
+Worse
+France Holland Tibet Kyouto London Russia Orleans!
+(Which had a mahjong spinoff version)
+Marisa stole the precious thing
+
+Oh hey Kiraki posted some Kanade this morning and I missed it https://twitter.com/kiraki217_jpn/status/888015820562997249
+Swear I've seen it before but *shrugs*
+I think it's a running birthday gag in Japan
+Main Character For Today
+<:TsubasaDisgust:349013662775902209>
+But a lot of these are really good
+I particularly like the fishing one because Tsubasa cheering on her girlfriend doing anything is pretty adorable
+Belt around the jacket.... I never would have thought of that!
+The look on her face
+Miku..........  https://danbooru.donmai.us/posts/2846276
+It's super gay
+Nyahahahaha
+God dammit https://twitter.com/mergerwitter/status/901244080633528320
+<:TsubasaDisgust:349013662775902209>
+And I guess Tsubasa got more than she bargained for
+The maid comic is just Tsubasa saying she'll do anything for Maria today since her birthday is soon and Maria wants to go shopping cuz she saw a great outfit somewhere
+And Maria's all "hurry up and do the thing already"
+They're replaying the events of the rainbow flower fight because it's battle arena but they don't want to actually fight like that again
+Yeah that's a good page
+I need to catch up on all this Symphogear side material now that life is almost done being A Thing (probably)
+Yeah the noise is saying they have AA special birthday present for Miku inside the door
+Oh my god so many hibikis
+<:MikuBliss:336657233712513024>
+Why the heck is Tsubasa making that face, alternatively where is the XDU blog
+https://twitter.com/IMUZEN_mariaosi/status/908295601338540032
+<:MikuBliss:336657233712513024>
+accounts that beg for rts and follows
+Chris eating gives me strength
+Every time I see that first image I think the times are wrong though cuz of this song though https://remywiki.com/File:London_wa_yoru_8ji_(LON_8PM_-_TYO_4AM).png
+Milk Puppy!
+https://twitter.com/Ziofiny/status/915215610732097536
+https://twitter.com/ahato_sympho/status/917523523014291456
+*slams hands on the table* I AM HERE for Chris and her kouhai being giant pieces of shit together
+https://twitter.com/eis_mikagami/status/915799340341268480
+https://twitter.com/rappy_koikoi/status/916996120621940738
+https://twitter.com/lanlanlap/status/915958768218791936
+"Hibiki-chan wants to do it" https://twitter.com/chisaida_007/status/916299773992353792
+Wait, that's something else entirely.
+subcorded?
+https://twitter.com/adachifumio333/status/918787738387615744
+https://twitter.com/chisaida_007/status/921028971864645634
+https://twitter.com/S3154330947/status/920656955911237633
+https://twitter.com/chameleonman3/status/911940704837943296
+https://twitter.com/patchimlikit/status/919922958507819008
+https://twitter.com/sangsilnoh/status/919265871863848960
+https://twitter.com/kuresox0108/status/911616383535869954
+https://twitter.com/koharusasara/status/921492925271310336 TONY DAY
+There's not a super great way to do it, since it'll result in image duplication, but!
+https://twitter.com/unyon/status/924482642912755712 Ha-halloween!
+https://twitter.com/At86065760/status/924294293220597760 oh god
+http://danbooru.donmai.us/posts?ms=1&page=2&tags=yuta0115+senki_zesshou_symphogear+&utf8=✓ reposting this here because none of these comics are nsfw and there's a couple really good ones in here
+All this quality Tsubamari cuddling <:KirikaGay:336657049540755457>
+https://twitter.com/tnr_niwa28/status/921707924656754689
+jiiiiiiiiiiiiiiiii
+<:ShirabeStare:336659688236122113>
+So kurisumasu eve, Eve standing on the Chris square
+masu is the word they use in Japanese for a square on a board from a board game
+Now I want to see Maria cosplaying Baiken.......
+Relatable
+What is it with "sold out" and gay anime https://danbooru.donmai.us/posts/383857
+DL is truly a blessing
+Zababar .akes me so happy, except when I'm sad I missed a chance to get it in book form
+おっぱい
+https://twitter.com/muro_sub/status/951466927037165571
+I see!
+https://twitter.com/iosonopioggia/status/966321722688339968
+ppcc https://twitter.com/yawana04/status/965551303236599813
+Kimi ni smash suru♪
+I still need to do that pointless Sakura Trick MAD some day
+桜Trick.
+<@284390402210136064>
+(though I suppose this is a strong argument for that being a poor Savant...)
+But there's no hat of maximum floofness
+In retrospect, I'd kind of expect there to be more Touhou Sound Horizon crossovers...
+You should go check out that artist's Pache pictures then, it's a whole running gag
+https://danbooru.donmai.us/posts/2025185
+There's always
+Well, you know
+Oh, of course, the necklace
+Which is why Alice uses her as her icon
+Miku *is* essentially an elemental force of gay
+Real smooth, Hibiki
+"aaaahhh I'm gonna lick this ice cream but if I miss and lick something else that's fine too"
+In retrospect that first picture is kind of funny
+(Well specifically in the context of unapproved reuse and such)
+Note also that Japanese fandoms tend to be less blast about people being assholes on the internet
+I mean, I wouldn't be surprised if they actually got burned in the past at some point
+Kiraki is actually just a big Shinchan fan
+https://www.pixiv.net/member_illust.php?mode=medium&illust_id=55624158
+The image isn't loading for me at all, thanks Discord
+Always post shark Yohane
+https://twitter.com/Fuu__taro/status/901790520241823745
+https://twitter.com/AsagiKurosagi/status/1001548539405598720
+https://twitter.com/M_hisashi/status/795282057584742400
+https://twitter.com/kururuduki/status/1005783063685500928
+kira kira kira kira~
+This artist has a number of nice Gear comics
+Oh yeah, speaking of nice moments with Chris and Boss https://danbooru.donmai.us/posts/1641025?pool_id=13556
+Ahhhh, I wanna see it! The face of someone who burned all of their memories on destroying the world!
+WHERE ARE YOU
+SHIRABE
+Lizards are nocturnal
+https://twitter.com/hiromi_gko/status/1010124723093569536?s=09
+Ohhhhh that's what vali's icon is, sweet
+nyaa
+<:Cag:423197445644615711>
+https://twitter.com/wawahahahabike2/status/1027099610517401600
+From https://twitter.com/hinaki_yz/status/1027647081421234176 oh hi Shirabe
+THANK YOU HINAKI
+nya
+https://twitter.com/_rkkr_/status/1006563934596317184
+~~there's this specific moment of Touhou fandom history~~
+~~aww~~
+https://twitter.com/hinaki_zesshou/status/1033899517471408128
+I'd want a tag system if I saved images so I basically stopped when I found Danbooru
+Chris's smug face is so perfect here
+https://twitter.com/zain7/status/1045625615154434048
+
+Kriisa is a treasure
+<:KirikaGay:336657049540755457>
+Unfortunately gyfcat/sinfulfeminineflyingsquirrel appears to no longer exist
+I'm looking through my likes to see if I have any good and not super recent pics but in the meantime please consider Tsubasa pouting like Chris at the beginning of G
+https://twitter.com/ippatu358_fairy/status/1014494429078433797
+https://twitter.com/runawate56/status/1084406404365004800
+https://twitter.com/vinneart/status/1087375910599380992
+https://twitter.com/PhilDragash/status/907460611675738112
+Dammit discord
+dess dosh
+dess dosh
+👏✌️○👀
+And Maria and Hibiki on worldwide TV
+And Chris
+Sure, Fine was naked a lot but
+Hey, *everybody* isn't usually naked in Symphogear
+Why is my phone so thirsty
+Okay wtf phone
+Why did I not notice the j-jam it in the first time through
+<:ChrisEmbarassed:336656400472080386> <:MikuLewd:336656493606862868>
+<:GenjuurouThumbsUp:336657189475188740>
+Does that mean I get to be the tits
+This sounds like a fetish porn game we need to make
+That Krellan line from Xenogears about killing God with your own hands, except about tits
+same
+I mean if alchemy gives you sweet boobs you might as well use then
+But if Hibiki and Chris don't have dicks how's Miku gonna get spitroasted
+Faust Robes do because the idea is cribbed from gears and nobody gave a shit
+Symphogears give you a dick because Fine was super thirsty for that Custodian
+Whoops I opened that channel in public cuz I didn't notice discussion shifted there
+Alternatively, for all the shit that's going through you?
+gay, gay let me tell you about her gay
+Wait shit do I have time to actually get you porn for your birthday
+wh
+<:KanadeRooster:336659950258356227>
+While not touching yourself
+Until then you'll have to think of oneesamas nibbling on your back and tweaking your nipples
+At least you can touch yourself in four more weeks Alice
+Dick pockets
+Yeah I guess Itaba having a dick wouldn't necessarily be conducive to stealth masturbation
+Nya!
+I love it so much
+That title always makes me so mad
+Thanks Commie
+I can't believe you're going to have a vagina before we're going to have subs
+"My Vagina" to the tune of "My Sharona" (as performed by polysics)
+I THOUGHT I'd read that before, of course it was you
+<:MikuLewd:336656493606862868>
+I mean, it's not like we can guess where your enormous gay may lead
+<:MikuBliss:336657233712513024>
+"I don't want to get into subsets of subsets of dicks, but there's a lot of dicks!"
+I'm pretty sure Genjuurou is too responsible a person to get into a sexual relationship with a minor in his charge
+It generates tweets based on existing porn fics.
+Same with the bit about throat-fucking in the bio
+So we threw all of wantfastcars' porn stories into a Markov string generator and made a Twitter bot out of it and that was in one of the tweets we got during the initial testing
+https://twitter.com/wantfastbots/status/921744251951689729 Okay I was just going to scroll until I found something suitable porny but "sensual mute button" is pretty good
+Miku's laser tentacles
+God dammit
+I think the problem is that they're *not* facing it tbh
+Ah yes the butt comic
+"Shock my genitals - $0.10 per volt (Chrome)"
+"thankfully"
+Alice can probably make better recommendations, I'll see if I can remember anything else when I'm not working too
+https://dynasty-scans.com/chapters/the_dogs_desire_and_the_reality_of_discipline
+Okay that's a no
+Did you read The Dog's Desire and the Reality of Discipline
+Nah, you can patch devices to fix the WPA2 issue without a new protocol, there's just probably a ton of devices that will never get updated
+:effort:
+Oh right it's not broken down by page it's giant 50k pixel high things on the deviantart
+Okay hang on
+Link to the creators DeviantArt which has older copies of the whole thing at the bottom
+https://en.m.wikipedia.org/wiki/Sunstone_(comics)
+Gay
+It's
+nyamazing
+So Sunstone is coming out in Japanese next week
+Or, well, masturbate with it technically
+I don't think anyone's making that argument
+Re, bland games, that's not really true. It's possible to handle difficult issues with grace, it just requires effort.
+So there's a widely observed phenomenon here but I'm on mobile so maybe I'll say something in like half an hour after I've eaten and stuff
+(Goes back to my point about the fallacy of arguing human nature but that's a tangent)
+It's hard to generalize about this kind of thing BUT European languages do tend to heavily rely on gender
+Other languages: actually Japanese hardly even ises pronouns in a lot of contexts, names are generally more common
+I'm not home yet and occasionally driving, not now
+There's all sorts of ways we're suboptimal, it's pretty not great!
+Brains are messy and society has lots of weird ideas about relationships of all sorts, it can be pretty rough to untangle it all
+Alice I can't believe you've been corrupting the youth
+You can just do that???
+Christ
+I can't even name rpg characters
+Fucking names
+Redheads are around 2% of the population
+.5-1% is probably a decent starting estimate but hey, that's almost as common as redheads
+<o
+Maybe I could convince one of the actual anime rooms to do something...
+i hate this because this is a good idea i don't have time to commit to right now
+fuck
+Because 1) it overlaps with SDG (I think) and 2) official con-blessed themed room parties
+While I am sorry to break up that touching moment, I"m just getting caught up on like two days of discord and I might still be dead this year, but next year you should come to convergence <@!127644949884698624>
+
+<:CarolYandere:424047704826707980>
+I am kind of tired of working all the time
+I wanna come back to Montréal and not have to work all the time when it's not summer though
+Oh, no, just riffing on the "please don't leave 1000  messages here overnight"
+Did you say it's time to have a mental breakdown
+wfc you're okay in my book
+There are definitely aspects of myself I'm really confident in, but...
+And which ideally would be expressed through different means
+Well, and the key there imo is that "masculine" and "feminine" are shorthand for a bunch of things which are tied to gender which shouldn't necessarily be
+I would go get ramen *right now* but it's too far and I'm not that hungry and it's too hot
+Can't help but hear that in the tone of https://www.youtube.com/watch?v=Wc9qJS-GG-c
+(Same with AIDS, when it was just the gays dying all the Reagan administration would do about it is laugh and insinuate reporters asking g about it in press conferences were gay)
+That... Actually worked, ahahaha
+dess_google median family wealth in the us
+It's not so much that's it's not easy, I'd say in most cases it's straight up not possible unless you're dedicating your life to it.
+Three years on either end of that company's founding and probably nothing would have come of it
+Jeff Bezos described this as "winning the Amazon lottery" and I think that's a useful perspective.
+(Also too 1% of income in the US is 465k/yr)
+What should I do the next time I'm in Atlanta?
+Destroying poor and black neighborhoods to put freeways through an urban center is an American pastime
+55 in the city is for freeways running through a city though
+70 actually is legal on a lot of major highways outside of urban centers
+What're you doing different?
+1730 on the east coast
+Oh yeah, I went to the aquarium the last time I was there
+tbf "do intersex people not count for you" is a fair and valid response to "but those conditions arent common enough to be counted"
+"A spectrum of expression clustered around two extremes" seems to be the general consensus these days
+(But I'm not going to go google papers for you, I'm  doing other things right now)
+Reading about the issues I've brought up would be a good start!
+The biology is complicated enough that it's not super common but certainly not unheard of for them to *not* align
+Basically there are a number of factors that go into sex determination and they have to align for what we consider typical male or female outcomes.
+(Common meaning relatively common, accounting for ~1-2% of population iirc)
+Common unexpected outcomes are: XY genotype doesn't have SRY gene, does not develop typical "male" characteristics, XY genotype has SRY but it doesn't activate, XX genotype with one X chromosome where SRY migrated to the X chromosome develops typical male characteristics, cases where SRY activates but the body doesn't respond strongly to androgens, and so on
+Reading about how the SRY gene is involved in sex determination in humans would be a good start!
+<:ElfneinDrowning:336656417035517952>
+Is that forgotten parser
+You might like other songs he's done, like into the unknown from Eden the one eyed...
+Is the cross fade for the album I was listening to on the way home
+https://m.soundcloud.com/felinegroove/preview-rave-slave-2017
+Also I'm curious what kind of music you think I meant because techno music descriptions are uhhhhhhhh
+What would you be listening to
+cranky, the Japanese patron saint of Hi-NRG rave music
+I've felt like shit a lot lately but I went out and watched some local soceer with friends and listened to loud music on the way home so that was good
+There's not really anything about that that's particular to Japan
+I mean
+Yeah
+I absolutely agree with the former, and that seems to be the general consensus of professional translators to the extent I have insight into that group
+I guess "translation is a second editing pass" suggests (to me!) the latter rather than the former
+Okay, but there's a difference between "this exact sequence of words won't make sense to the target audience of the translation" and "this exact sequence of words is bad and should be changed"
+Okay, there are two different threads to that conversation in <#337805317276565525> so
+I mean, I saw that
+..... consider, thanks autocorrect
+I guess it depends on what you could side the point of translation is
+Oh, it's the album link
+Hanashi wo shiyou.
+hau
+So I should have pushed the gay *punching* angle, damn
+nyoom
+Yeah, quoted printable except you normally wouldn't need to escape quotes in qp but I mostly assume anything that technically can happen will nowadays
+Kriisa =22Sakimori=22
+It would be like all those bad Usenet posts, except in real life
+But you might be the first person to legally have xml escape sequences in their names if you try! Or somethjng silly like that
+As a technologist I have little faith this would work as intended
+Sweet breaker
+But yeah, I didn't do it for like two years and now they're all on other teams and the supporters section isn't at ground level on the sidelines anymore, so Spanish would probably take precedence for other reasons
+That's because she has hope for the future, love.
+Well, when our pro soccer team was still in second division and players would actually come over and talk to fans after games like a third of the roster was Brazilian
+I was gonna study pt_BR at some point for reasons but I never follow through on time commitments outside of work
+Alice got started before GX though
+That's the tweet that started this conversation I think
+"XX/XY is a perfect and simple dichotomy" is true most but not 100% of the time, is all.
+(Genotype isn't 100% of sexual determination, incidentally - you may be interested in googling SRY activation failure or androgen insensitivity syndrome - and there are a number of other viable genotypes besides XX and XY)
+Okay, but by sexual identity are you talking about gender identity or sexual attraction, because I think I've seen people mostly use it to mean the latter and that's not really what the thread is about!
+Pretty much
+It's not that it's "wrong" so much as "an incomplete picture of the world"
+But at the human level, it all works out.
+It's hard to reconcile hard laws of motion with behavior we observe at the subatomic level, where existence appears to be probabilistic and other things that don't .ake sense with what you observe on the day to day level
+Newtonian physics tends to work except at what are considered extremes to the human experience
+We don't have good numbers on how many people have nom-XX/XY genes because most people aren't  tested but I think the numbers are usually said to be 1-2%, which is similar to the proportion of the world population that are redheads, by way of comparison
+We also did it in 1920 in Tulsa(?) Oklahoma to the city's black business district
+I don't think you can really just read stuff and assume it's true regardless of source tbh
+Making decisions based on sngle point of data (study) is often a bad idea
+Fluid as an adjective, not a noun!
+Cute is justice
+<:MichaSmug:336657136065052673>
+You say that but all your stuff is not here
+If you end up on I-80 it's probably a.... two or three hour detour to the north?
+Minneapolis
+I've never personally driven a road trip west of the Mississippi, though I've been in cars to Omaha and (waaaay back) Denver.... Western US is too big
+(Also if you end up going to Michigan consider swinging by here, I'm sure Alice would not object to having a reason to stop out either)
+How much driving is a day of driving
+But we do have a Delta hub that's not Atlanta
+I like Minneapolis but it's getting expensive to actually live in the city
+👀
+I think the expectation is that if you're on the internet well uhhh
+.........
+So uh oh right
+<:Cag:423197445644615711>
+I mean you know I'll just drag you here for a few days so
+It's not even a law, it's written into the Constitution
+no wait
+As we all know, government should be run like a corporation, its primary purpose being to enrich those in charge.
+People are okay with it because "private enterprise fixed everything" is basically the state religion of the US
+It doesn't really address the fact that there do seem to be a number of "wow look at CR going full SJW" videos, though
+Oh, Google tells me the "why CR isn't effective support" video is newer than that one.
+Yeah, the first one solo posted is what I watched.
+I did see someone post a cap of a video he just posted specifically about this show, too, so they're separate things
+I did see a video like that in the results while I was looking for the trailer but it was like a year old IIRC
+The announcement page seems pretty similar. There's like five paragraphs of info, and part of one of the sentences of one of them says it's an all female writing team. That.... Doesn't really come off as selling that aspect super hard to me.
+They spend as much time emphasizing that it's hand drawn 2D animation as saying "hey, women made this", but I only just watched it.
+I'm not sure I agree with that characterization. There's like three lines about the studio in the trailer, like five lined about the show itself, and like two lines about it being "diverse'
+(I thought part of CR's whole draw since they went legit was "your money goes back into anime!"...)
+It's
+It's not an either or thing, large organizations often are doing different things with different parts of the organization, simultaneously. The IT department is not involved in finding licenses, and the people talking to studios in Japan are not probably people you want managing your front end.
+(I haven't been following this so I have no more useful observations but it's so.ewhat amusing that the first thing I see on Twitter this morning was that, and then I come here)
+To quote someone *else's* Twitter, "The very first reaction to the news was tweets with pictures of the creators and comments about the color of their hair which has nothing to do with the content of the show, the art or the music. Folks came to the conclusion it was bad, and made up reasons to dislike it post hoc, then started pumping out SJWs INFESTING CRUNCHYROLL videos by the dozens.
+
+Its a market, its a business now to make a shit ton of money to get you angry."
+/me ponders
+"a" newspaper
+Somebody's gotta
+Fucking run with it
+kinda same @ latooni
+Hopefully that policy doesn't get officially changed in the next year or so
+Find a progressive small town in the same county maybe idk
+<:HibikiWhat:336656482907193344>
+But that just begs us to ask what was the *most* enjoyable experience you've had in your grandma's BMW
+He will almost certainly be confirmed.
+He's pretty demonstrably lied in testimony multiple times on multiple occasions, shown he doesn't have the temperament to sit on the nation's highest court, and just *coincidentally* believes that a sitting President (like the one who nominated him) cannot be indicted on criminal charges.
+<:KanadeRooster:336659950258356227>
+Local is realistic but the least local as possible is best!
+Yep
+Have you considered: they read it and are just lying
+<:KanadeRooster:336659950258356227>
+Yeah, I've had friends with AIS who would be pretty pissed if they were forced to switch facilities
+But, you know, muh cromozones
+Which also, as usual, is going to hurt intersex people and people with generally ambiguous bodies under the standard most people use in society
+What this rule is doing is having the federal government say "actually no sorry sex means your genital co figuration at birth", so none of those suits would get anywhere under that rule
+Yeah the problem is the laws passed by Congress say "you can't discriminate on the basis of sex", and the Obama administration treated that to include gender identity as well, so it was the loljcy if the federal government that they or cotizoens could bring suit under that last for discrimination on the basis of gender identity tity and it would be covered
+That's..... Actually a really good question, I have no idea. I'd imagine most mammals don't consume milk after infancy (since adult humans typically consume goat or cow milk, not human milk, and I don't most other mammals are gonna uhhh do that)
+It's because white supremacists think only white people retain the gene that lets you digest milk after infancy
+So much to say on all of this but I'm trying to get work done so I can get somewhere by four...
+This is perfectly legal if you don't have those protections
+Yeah, there have been trans people who have been fired for dressing in the "wrong" clothes, trans people who were arrested for staying in hotels because obviously they were prostitutes in drag, and so on
+But it means if the state law doesn't protect you in the state where you're at, too bad
+Well, a state can still write their own non-discrimination statutes... We're talking about federal protection. I don't think this puts this protections in danger.
+That's the determined at birth part
+No
+(it's probably not that difficult to draw parallels between nursing human babies and calves, but.... also...)
+I.e. "I wonder who was the first person who looked at cow and said, wow, I think I'll squeeze on these things and drink whatever comes out of 'em?"
+Ah, so we're having the Calvin and Hobbes discussion
+Wow, really? That assumes either a lot of cows or a lot of humans who are constantly lactating but that doesn't happen because humans aren't typically constantly just post gestation...... `oh`
+It's not about skin color per se, it's about ~ race ~ (which is a thing that definitely exists and you can totally tell it based on someone's skin color)
+<:KanadeRooster:336659950258356227>
+We're dying this year, 今年
+That and hurricanes on the east coast. I'll stick inland with the disasters I'm familiar with, thank you.
+New York is cool, but I wouldn't want to live in any coastal city for very long now
+Well, it depends where in the States.
+Wait, no, minor amendment, you should do that after I find a place that would let me host guests better
+Y'all should come visit some time, the cities are nice
+I like our silly state though
+I suspect Colorado is a better fit for her but *shrugs*
+I mean I don't know why you'd come to Minnesota unless we could convince Kriisa too...
+I mean I do have a Canadian work permit for one of our current customers
+(But yes, as Melua said, I do feel there's a *tiny* bit of difference between "I want to kiss other men" and "black people cannot possibly contribute positively to society and must be removed from it", which, again, is what Nazis ascribe to)
+I suspect "well what if bosses fire their employee for being too leftist/gay/whatever!" is not exactly a hypothetical, especially given that we have documented cases of trans employees being fired.
+Most US states have at-will employment which means employers can fire you for whatever they want. In theory there are protected classes which can't be used to discriminate and you could sue, but in practice most Americans can't afford a sudden $400 expense and litigation is way more expensive than that, so unless you can find a local ACLU chapter or something that thinks your case is winnable and that has pro bono resources available you are actually screwed.
+_serves up some 乙curry, to help with any potential iron deficiency from blood loss and such_
+<:GenjuurouThumbsUp:336657189475188740>
+YOU ARE EDUCATED STUPID. SEE THE TRUTH OF 4-SIDED SIMULTANEOUS DAYS ON EARTH
+Of course, the end effect is similar, which is why I don't callyself an optimist.
+I wouldn't say most people are idiots but I think it's fair to say a lot of people are pretty heavily socialized into a strict worldview that doesn't allow a lot of questioning. Even the skeptic movement has a lot of people who are more in it to watch Richard Dawkins DESTROY Creationist (10hour nightcore remix) than to actually bring a careful, evidence based approach to their daily lives.
+!!
+The Sketch is at peace
+The last work hour is in captivity
+<:Cag:423197445644615711>
+go, go!!
+<:GenjuurouThumbsUp:336657189475188740>
+It's fair to ask me to be proactive in addressing statements with negative implications of others. It's also fair to ask that you don't insist that they're proof of malice. De-escalation is pretty clearly in the spirit of the environment we've tried to foster here, and I hope everyone will take that to heart, especially given that I've taken administrative action for failures to do so. We can tell someone they're not treating a personal conflict fairly without attempting to litigate the entire issue in public walltext.
+Consider statements like `I believe this is in itself an admission of a hostile agenda`. Telling someone "Your statement implies X, which is unfair to Y" is in the spirit of rule 3. Continuing with "this statement clearly shows you must be trying to impugn others' motives" is not, and will likely escalate conflict, even if escalation is unintentional. It may even itself serve to repaint scenarios people have no context to, and I agree *nobody* should be doing that.
+Objecting to negative implications of others' statements is one thing. Claiming they prove malicious intent is different. It would be helpful if you could slow your roll and not insist everything proves constant bad faith action, like Melua asked.
+You've been airing personal grievances to try to prove a point. I could have warned you for this a few days ago, but I did not, in my concern about strictly appearing impartial. However, my position doesn't change your behavior, so I'm warning you now that it's happened again. If you think Alice shouldn't be enforcing rules... she's not, so that's the end of it. If you just don't like Alice, please just disengage. Litigating prior personal issues in public isn't constructive.
+Alice took actions I disagree with on Tuesday night. R, you had the opportunity to take it up with staff (me) then, but instead detailed why you think this proves Alice is a shitty person. Now, for the second time in a week, you're making a point to publicly ensure everyone knows you think Alice is a shitty person. You've been staff; I can't see how you'd think this is appropriate or constructive.
+Since we're at the point of picking apart statements, maybe this is a conversation best held in dms?
+I think starting that part of the conversation with "you shouldn't rely on drugs to make you happy" may have given the wrong impression about what you were trying to say.
+Family stuff again or just a rough day in general?
+Nope, theres not
+Well, and the end of GX episode Edge Works is uhhhhh
+Hmm, yeah, I guess a rewatch isn't something you can reasonably say "don't post pictures" in. I don't recall anyone posting any when we did it before but we're also not /r/anime...
+That's not that surprising. The aim of this server has always been to provide an inclusive and welcoming environment from the beginning. Expectations have been set and people have responded.
+The US isn't exactly perfect in terms of this sort of thing but we also don't have articles coming out in major publications every week with sensationalist headlines that say things that are factually incorrect
+Those kinds of articles seem like a potential driver for that sort of view tbh
+Tomorrow? Don't bigger transfers usually take a while to go through?
+Technically, yes, but in practical matters it's probably up to whether the person reviewing the case feels like being an ass and following the policy to the letter, which is how things like this usually go
+(but yeah soccer is an outlier in US sports, a major league team flew a "PRIDE NIGHT EVERY NIGHT" interracial lesbian banner last year and this year we fly multiple trans flags every week and a bunch of teams do similar stuff)
+(also pride night every night)
+But we also usually have a bunch of people who go to away games in other places and especially now that we have a supporters group that's supagay, who knows what'll happen
+Minnesota has a pretty decent history for this kinda thing https://www.dark-clouds.com/2019/05/pride-night-tifo-build-2019/
+Pride night is actually "Soccer For All" night, sponsored by "our CEO donates to keep anti-gay conversion therapy legal"
+So yeah if worse comes to worst and people who go to cheer on our team at away games get banned from those stadiums because we're ~~~~too political~~~~ we probably have enough people that if X and Y get banned from some stadium, A and B can still go... Up to some point!
+And given the stances of Certain Teams in the league who have well documented white supremacist supporters that they just can't do anything about because, you know, they're not actually beating up black people at games so they're not breaking the code of conduct!!!!
+So it's definitely possible we'll Cross A Line at some point, especially given the history of banners we had when we were still second division
+Anyway, you'll probably find this surprising but a bunch of my local friends are super queer and not super apologetic!
+That made it an antifa flag and thus political so you know not allowed
+Recently away supporters at a game in Utah had their flag confiscated because it was an "Antihomophobe Action" pride flag modeled after the "Antifascist Action" flag, which means it had a double flag roundel in the middle
+This season MLS (Major League Soccer, the top US pro league ) codified political statements as something that goes against the code of conduct for match attendees
+It's really Not Good and I can kind of see how we'll end up dividing up stadium bans between us by the end of the year
+I'm into pro soccer for local and weird reasons and the major US pro league is heavily rumored to about to open a national partnership with chickfila
+ugh
+I'm sure I'll have more to say later but I can't do it now so let's leave this for now, hmm?
+I guess this is my semi-annual reminder that relitigating old or personal issues in public is disruptive and counterproductive! Also that rule 3 exists! Hana and Alice especially please keep this in mind.
+Also thank you phone for thinking that should be legend of the Symphogay
+We should watch legend of the galactic heroes<:HibikiPoint:336657004959498240>
+But that's BST not GMT
+Is it not 2128 UTC now?
+92 minutes
+(Like if Alice is too asleep or gay to function)
+ba ba ba baba ba babababababanchou da
+Wait how do you uh netplay osu
+sry
+So 11 GMT/ midnight BST
+Which makes us GMT-4 instead of our usual GMT-5
+The announcement says 7 uS Eastern, which is in an hour and a half because we're also summer time right now
+Feel better ibu~
+by Mugi
+YES
+I FORGOT ABOUY MOE MOE KYUN
+<:HibikiHi:336657249827028993>
+2018-05-12T22:00:00Z
+This is the year I'm gonna remember to put 1PLDK in my con karaoke rotation
+I did not know this was a thing but now I am mega hype
+Yukari's tank corner
+Oh, okay!
+I was not awake for the watching earlier, I guess I will just have to watch some when I get home later
+I wish I could remember more about the first time I saw it because the guy who did the translations is Japanese American and I think was doing graduate work at my university when the anime club was showing it
+tohoho
+(oh uh that's a reply to https://twitter.com/ykarps/status/1018633994827681792 )
+Here's me likely rewatching an anime this year just on the strength of this tweet https://twitter.com/SakakiSakurai/status/1018671607638908929
+Pick is recommended by some to create a harder sound but it's by no means necessary. All up to how you want to play.
+I regret not finishing Hibiki when it was still on some random YouTube channel
+but which hellsing
+Mittermeyer and Reuenthal yuri
+It's
+https://twitter.com/schwarz96/status/1025057866951012354
+Ugh....... Now I kinda of want to spend the time in an anime bingo too
+And honestly, ten story shotguns are both ridiculous and ridiculously cool
+I think the in universe reason was something like "the girls wanted to imitate the brave striker pilots" or something like that
+いーもー♪
+
+ZUBUSHIHOSKA
+ZUBUSHIHO
+ZUBOSHIHA
+なんつってつっちゃった
+Now
+I don't remember the lyrics of that song well enough to respond effectively
+It's kinda like "hey-ho!"
+That's the name of the Yuyushiki OP!
+Look, I'm super into the situation in which one says せーの！
+https://twitter.com/horodamsmr/status/1050336802823761920
+Speaking of which
+Novemberじゃん！！
+iinuuu♪
+https://m.youtube.com/watch?v=cHHpCVk3o2Q
+Yuyushiki is one of my very favorite cute girls doing cute things shows
+What if I misthink this actually whatever
+🤔
+<@&448228101089132544> ALSO WHO WANTS TO (RE)WATCH YUYUSHIKI
+Wait, sumo anime??
+i just want my goofy gay escapism
+I'm sure it doesn't help, but it's hardly the only factor. Though I'm not defending it either so
+(except amaki sally)
+Anyway, that's a good illustration of why I wouldn't be as interested in Actual Idols as opposed to fictional characters (e.g. LL)
+Yeah, they're just bound in contracts stipulating that they have to make songs that are all about party culture and write those songs with their abusers
+(Which obviously the degree of exploitation is different in this case but)
+I don't disagree but I feel like that's the logical conclusion of any popular musician in the sort of system we have?
+Well, like half of WUG
+But I have literally watched nothing else that could be considered an idol anime
+LL strikes me more as cute-girls-doing-cute-things with occasional CG musical interludes FWIW
+Did someone say bass kick https://youtu.be/XHtQO0aLEKI
+https://www.youtube.com/watch?v=GPcXWAnhn2I
+I played a bit of it but got distracted, as often happens
+*but somebody has my copy of Gestalt*
+Some time this year I want to make the time to finish D3 but I'd like to take another crack at Nier before doing Automata too
+Okay I can't shitpost after that
+like, uh
+I was hoping for more crabs from crab rave
+(It's PS3)
+Though I hear 3 is mostly doable these days as well
+1-2 are PS2 and very emulatable
+I've played myself!!!
+Fuck, now i don't want to sleep, I just want to listen to AT hymmnos concerts and cry
+(also lore)
+<@!127644949884698624> frickin play Ar tonelico already so you can appreciate the song where a 300 year old doujin nut fucking owns you
+The OSTs range from decent to great but the insert songs are by and large just really excellent
+AT music is really really really good
+wasse wasse wasse wasse wasse wasse wasse wasse wasse wasse wasse wasse wasse wasse wasse wasse
+Yeah, it's GUST so it isn't super huge
+And since music is plot relevant a bunch of the major events have insert songs which are largely in this language('s dialects)
+Ar tonelico is a JRPG series where music is magic, and because the creator is a giant fucking nerd he made a conlang for it
+oh fuck, magic
+https://youtu.be/8c-v88DGAok this is probably the most accessible pigmhall song
+https://m.youtube.com/channel/UCzKeyhRp5YemOiAAUu9ajTw
+(e-rin e-rin)
+But also
+https://m.soundcloud.com/felinegroove/preview-rave-slave-2017
+.....wait, shit, it's not tanabata anymore
+https://youtu.be/QVBPOYv2SX0
+https://youtu.be/C_ijc7A5oAc
+hatsune mikupai
+https://www.youtube.com/watch?v=mw2fh8qfDiA ｉｔ’ｓ ｕｎｉｔｅｄ ｇａｍｅｄａｙ
+https://www.youtube.com/watch?v=vp1W2I6uWOg
+AND YOU KNOW WHAT THAT MEANS
+IT'S THE FOURTH OF JULY IN THIS TIMEZONE
+HEY KIDS
+Did someone say exit trance https://m.youtube.com/watch?v=wZT7ySMDY_Y
+https://www.youtube.com/watch?v=p-o_bMkzOW0
+https://www.youtube.com/watch?v=ckXMvrFlmKY
+https://www.youtube.com/watch?v=8IK6eLTNV1k
+Oh did someone talk about dance music and crying https://youtu.be/-TqfBEX6QtE
+https://youtu.be/sOd7NKZVLkc
+I mean it's funny you say that because I was about to post this, which has a lot of similarities, just almost 40 years prior https://www.youtube.com/watch?v=p4w2BZXL6Ss
+oh no, that's really good
+Well, in any case, I should leave this here https://www.youtube.com/watch?v=TLpLYxUM2Gc
+<:MichaSmug:336657136065052673>
+All things considered I'm somewhat shocked that I haven't heard someone do a soccer chant based on Holy Diver before now
+https://www.youtube.com/watch?v=Xs_WTe0V1b0
+I KNOW THESE ARE THE BADLANDS, SOMEHOW I'LL FIND MY WAY
+https://www.youtube.com/watch?v=oQ5W4uw71g0 ｆｆｆｆｆｆｆｆｆｆ
+(LOOK INTO MY EVIL EYE)
+(JoJo part 3 spoilers if you haven't already)
+https://www.youtube.com/watch?v=OgspcrJo54E
+https://www.youtube.com/watch?v=uxYWQkgtEYc
+https://www.youtube.com/watch?v=2QxnfFHsryY
+Liberty stands for freedom, all hail the flag that set us free
+♪ba dee ya, 402 Septembers
+♪ba dee ya, hey do you remember
+(but they messed up, because it's now 22 September here)
+Okay, your timing is pretty good because a bunch of young suburbanites just put in September in the jukebox
+........
+ba dee yah, some time you'll remember
+ba dee yah, it's still 21 September
+But it's the equinox and Dawn is probably no later than six and as everyone knows night ends and morning begins at five
+Well, you're utc-4 so there's 7.5 more hours of it being the 21st night of September *somewhere*
+(*hears a guy whisper yell "That's today!"*)
+Okay there it is
+(I don't have a dollar bill so I can't fix this)
+You know, now that you mention it I've been in public for like two hours and haven't heard this song yet.
+https://www.youtube.com/watch?v=UdmVZjP_xAY
+https://www.youtube.com/watch?v=72uoQT4cufY
+https://youtu.be/-0Ao4t_fe0I
+I need to fill my phone with iidx music again when I get home
+And now I have no doubt get loud stuck in my head
+https://youtu.be/kO6lLBkzct8 最the高
+`dople`
+dess_lq
+やってみよう！
+ふむふむ
+dess_lq
+dess_ql
+dess_room_cleaning_stop
+alice don't watch that
+Kirichan please skip this song I regret my choices
+Kirichan please play infernal meme song Sakuranbou
+Kirichan please play Schlagwerk by TaQ
+otkr
+pls don't bully fairy yui
+せやな
+Of course it worked
+oh wait, I'll have to remember that for later
+CHOU LONGU~
+Did someone say
+I can't remember chat, sorry
+Now everything is broken again.
+No song found.
+Wow rude
+She said the player was stopped and told me to in can't that magical spell
+dess_play
+sec
+STOOOOOOP
+Cleaning
+ROOM
+ROOM CLEANING STOP
+Bikehorns
+I meed
+What if I tried some TaQ
+Lyssa a capellas Hardcore Tano*C songs
+Kiri only loves Alice
+Alice play ... Hmm I can't find the specific version on YouTube nevermind
+♪MAIDS, you can't escape the infinite sadness
+Hmmm, I feel like with this bassline I should be trying to force MEGATRON through instead......
+I wonder what sample CD it's from
+Whoa, I have only heard that choral sample in the SO2 soundtrack before
+https://youtube.com/watch?v=Vcn-y6ZTthQ
+dess_n
+dess_n
+dess_n
+dess_lq
+dess_n
+uhh
+dess_n
+dess_lq
+This is the best song because it's literally just Enjo-G making dubstep noises with his mouth for two minutes
+SPEAKING OF CRANKY
+how did this all happen https://remywiki.com/Nihon_indoka_keikaku
+www
+whoa this is still on soundcloud????
+dess_lq
+Okay how much crap did I leave up in here
+And then after that, https://www.youtube.com/watch?v=MXWOYtNnzlg
+https://www.nicovideo.jp/watch/sm11352723
+You don't have to have a nico account to watch nico video anymore
+OH WAIT RIGHT
+https://m.youtube.com/watch?v=kbarKimSbf8
+https://m.youtube.com/watch?v=721LAiO8OLo
+god i love thunderbolt fantasy
+https://www.youtube.com/watch?v=eMRx4OkBSI8
+ゲーム
+A lot of packs
+That's
+This deck, my life,is Sym....ph.. no, wait
+3 has a kind of clunky action battle system because doing 2D games on PS3 is illegal, the other two are more like each other
+Ideally all three but 1 and 2 are PS2 and if you can't find the software or don't have the hardware they emulate just fine
+Symphogi is correct
+I'm pretty sure there's no other game where a Corgi will tell you "What the hell do you know! Give me a Bad Touch."
+
+I'll jump on in half an hour or so
+Konami still has BEMANI SOUND TEAM
+
+_ponders OJ this weekend_
+Is Boudica C tier for chichi
+Especially CBT.....2
+<:KanadeRooster:336659950258356227>
+<:HibikiShock:336656371611074580>
+<:KanadeRooster:336659950258356227>
+<:CarolStare:336656462287994882>
+Sorry, I haven't talked to her in regrettably long time either
+M1A1, thousand miles an hour
+https://twitter.com/cleanfiji/status/1015533804033925120
+hmmmmmmm
+Since I haven't used any of the tools, I'm curious, where does the work go into MS2 transcriptions?
+(also this song https://www.youtube.com/watch?v=KDDY657_8nc )
+You should definitely not do chaos time because it's this song https://www.youtube.com/watch?v=OEAsS7leOSw
+alice you should do chaos time
+ding dong
+Didn't I tell ya ta leave Flava Flav alone, knockers?
